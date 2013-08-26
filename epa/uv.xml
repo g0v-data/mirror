@@ -1,8 +1,281 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UvData>
   <Data>
+    <SiteName>高雄</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>高雄市</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>120,18,29</WGS84_LON>
+        <WGS84_LAT>22,34,04</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>玉山</SiteName>
+    <Uvi>0</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>南投縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>120,57,06</WGS84_LON>
+        <WGS84_LAT>23,29,21</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>新竹</SiteName>
+    <Uvi>4</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>新竹縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,00,22</WGS84_LON>
+        <WGS84_LAT>24,49,48</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>宜蘭</SiteName>
+    <Uvi>0</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>宜蘭縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,44,53</WGS84_LON>
+        <WGS84_LAT>24,45,56</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>花蓮</SiteName>
+    <Uvi>4</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>花蓮縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,36,18</WGS84_LON>
+        <WGS84_LAT>23,58,37</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>新屋</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>桃園縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,02,36</WGS84_LON>
+        <WGS84_LAT>25,00,57</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>馬祖</SiteName>
+    <Uvi>2</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>連江縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>119,55,23</WGS84_LON>
+        <WGS84_LAT>26,10,10</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>成功</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>臺東縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,21,55</WGS84_LON>
+        <WGS84_LAT>23,05,57</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>臺北</SiteName>
+    <Uvi>4</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>臺北市</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,30,24</WGS84_LON>
+        <WGS84_LAT>25,02,23</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>日月潭</SiteName>
+    <Uvi>4</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>南投縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>120,54,29</WGS84_LON>
+        <WGS84_LAT>23,52,53</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>澎湖</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>澎湖縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>119,33,19</WGS84_LON>
+        <WGS84_LAT>23,34,02</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>臺南</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>臺南市</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>120,12,17</WGS84_LON>
+        <WGS84_LAT>22,59,36</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>金門</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>金門縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>118,17,21</WGS84_LON>
+        <WGS84_LAT>24,24,27</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>鞍部</SiteName>
+    <Uvi>4</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>臺北市</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,31,12</WGS84_LON>
+        <WGS84_LAT>25,11,11</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>蘭嶼</SiteName>
+    <Uvi>4</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>臺東縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,33,02</WGS84_LON>
+        <WGS84_LAT>22,02,19</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>臺東</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>臺東縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,08,48</WGS84_LON>
+        <WGS84_LAT>22,45,15</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>恆春</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>屏東縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>120,44,17</WGS84_LON>
+        <WGS84_LAT>22,00,20</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>基隆</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>基隆市</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,43,56</WGS84_LON>
+        <WGS84_LAT>25,08,05</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>臺中</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>臺中市</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>120,40,33</WGS84_LON>
+        <WGS84_LAT>24,08,51</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>嘉義</SiteName>
+    <Uvi>3</Uvi>
+    <Unit>中央氣象局</Unit>
+    <County>嘉義市</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>120,25,28</WGS84_LON>
+        <WGS84_LAT>23,29,52</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
+    <SiteName>桃園</SiteName>
+    <Uvi>5</Uvi>
+    <Unit>環境保護署</Unit>
+    <County>桃園縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>121,19,11.87</WGS84_LON>
+        <WGS84_LAT>24,59,41.24</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
+  </Data>
+  <Data>
     <SiteName>阿里山</SiteName>
-    <Uvi>1</Uvi>
+    <Uvi>3</Uvi>
     <Unit>環境保護署</Unit>
     <County>嘉義縣</County>
     <SiteCoordinate>
@@ -11,6 +284,6 @@
         <WGS84_LAT>23,30,30.82</WGS84_LAT>
       </WGS84>
     </SiteCoordinate>
-    <DataCreationDate>2013-08-26 08:00</DataCreationDate>
+    <DataCreationDate>2013-08-26 09:00</DataCreationDate>
   </Data>
 </UvData>
