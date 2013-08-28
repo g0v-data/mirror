@@ -1,156 +1,222 @@
 [
    {
-      "unit" : "環境保護署",
+      "unit" : "中央氣象局",
       "location" : {
-         "lat" : "25.164500",
-         "lon" : "121.449239"
-      },
-      "county" : "新北市",
-      "uvi" : "9",
-      "site_name" : "淡水",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "25.012972",
-         "lon" : "121.458667"
-      },
-      "county" : "新北市",
-      "uvi" : "12",
-      "site_name" : "板橋",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "24.994789",
-         "lon" : "121.319964"
-      },
-      "county" : "桃園縣",
-      "uvi" : "13",
-      "site_name" : "桃園",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "24.565269",
-         "lon" : "120.820200"
-      },
-      "county" : "苗栗縣",
-      "uvi" : "10",
-      "site_name" : "苗栗",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "24.225628",
-         "lon" : "120.568794"
-      },
-      "county" : "台中市",
-      "uvi" : "11",
-      "site_name" : "沙鹿",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "24.066000",
-         "lon" : "120.541519"
-      },
-      "county" : "彰化縣",
-      "uvi" : "8",
-      "site_name" : "彰化",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "23.913000",
-         "lon" : "120.685306"
-      },
-      "county" : "南投縣",
-      "uvi" : "4",
-      "site_name" : "南投",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "23.711853",
-         "lon" : "120.544994"
-      },
-      "county" : "雲林縣",
-      "uvi" : "7",
-      "site_name" : "斗六",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "23.508561",
-         "lon" : "120.801394"
-      },
-      "county" : "嘉義縣",
-      "uvi" : "2",
-      "site_name" : "阿里山",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "23.470608",
-         "lon" : "120.880572"
-      },
-      "county" : "嘉義縣",
-      "uvi" : "2",
-      "site_name" : "塔塔加",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "23.465308",
-         "lon" : "120.247350"
-      },
-      "county" : "嘉義縣",
-      "uvi" : "5",
-      "site_name" : "朴子",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "23.305633",
-         "lon" : "120.317250"
-      },
-      "county" : "台南市",
-      "uvi" : "4",
-      "site_name" : "新營",
-      "data_creation_date" : "2013-08-28 13:00"
-   },
-   {
-      "unit" : "環境保護署",
-      "location" : {
-         "lat" : "22.757506",
-         "lon" : "120.305689"
+         "lat" : "22.567778",
+         "lon" : "120.308056"
       },
       "county" : "高雄市",
-      "uvi" : "3",
-      "site_name" : "橋頭",
-      "data_creation_date" : "2013-08-28 13:00"
+      "uvi" : "2",
+      "site_name" : "高雄",
+      "data_creation_date" : "2013-08-28 14:00"
    },
    {
-      "unit" : "環境保護署",
+      "unit" : "中央氣象局",
       "location" : {
-         "lat" : "22.673081",
-         "lon" : "120.488033"
+         "lat" : "23.489167",
+         "lon" : "120.951667"
+      },
+      "county" : "南投縣",
+      "uvi" : "-999",
+      "site_name" : "玉山",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "24.830000",
+         "lon" : "121.006111"
+      },
+      "county" : "新竹縣",
+      "uvi" : "9",
+      "site_name" : "新竹",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "24.765556",
+         "lon" : "121.748056"
+      },
+      "county" : "宜蘭縣",
+      "uvi" : "-999",
+      "site_name" : "宜蘭",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "23.976944",
+         "lon" : "121.605000"
+      },
+      "county" : "花蓮縣",
+      "uvi" : "7",
+      "site_name" : "花蓮",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "25.015833",
+         "lon" : "121.043333"
+      },
+      "county" : "桃園縣",
+      "uvi" : "8",
+      "site_name" : "新屋",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "26.169444",
+         "lon" : "119.923056"
+      },
+      "county" : "連江縣",
+      "uvi" : "8",
+      "site_name" : "馬祖",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "23.099167",
+         "lon" : "121.365278"
+      },
+      "county" : "臺東縣",
+      "uvi" : "6",
+      "site_name" : "成功",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "25.039722",
+         "lon" : "121.506667"
+      },
+      "county" : "臺北市",
+      "uvi" : "9",
+      "site_name" : "臺北",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "23.881389",
+         "lon" : "120.908056"
+      },
+      "county" : "南投縣",
+      "uvi" : "5",
+      "site_name" : "日月潭",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "23.567222",
+         "lon" : "119.555278"
+      },
+      "county" : "澎湖縣",
+      "uvi" : "6",
+      "site_name" : "澎湖",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "22.993333",
+         "lon" : "120.204722"
+      },
+      "county" : "臺南市",
+      "uvi" : "4",
+      "site_name" : "臺南",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "24.407500",
+         "lon" : "118.289167"
+      },
+      "county" : "金門縣",
+      "uvi" : "7",
+      "site_name" : "金門",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "25.186389",
+         "lon" : "121.520000"
+      },
+      "county" : "臺北市",
+      "uvi" : "4",
+      "site_name" : "鞍部",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "22.038611",
+         "lon" : "121.550556"
+      },
+      "county" : "臺東縣",
+      "uvi" : "1",
+      "site_name" : "蘭嶼",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "22.754167",
+         "lon" : "121.146667"
+      },
+      "county" : "臺東縣",
+      "uvi" : "4",
+      "site_name" : "臺東",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "22.005556",
+         "lon" : "120.738056"
       },
       "county" : "屏東縣",
-      "uvi" : "4",
-      "site_name" : "屏東",
-      "data_creation_date" : "2013-08-28 13:00"
+      "uvi" : "1",
+      "site_name" : "恆春",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "25.134722",
+         "lon" : "121.732222"
+      },
+      "county" : "基隆市",
+      "uvi" : "6",
+      "site_name" : "基隆",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "24.147500",
+         "lon" : "120.675833"
+      },
+      "county" : "臺中市",
+      "uvi" : "5",
+      "site_name" : "臺中",
+      "data_creation_date" : "2013-08-28 14:00"
+   },
+   {
+      "unit" : "中央氣象局",
+      "location" : {
+         "lat" : "23.497778",
+         "lon" : "120.424444"
+      },
+      "county" : "嘉義市",
+      "uvi" : "2",
+      "site_name" : "嘉義",
+      "data_creation_date" : "2013-08-28 14:00"
    }
 ]
