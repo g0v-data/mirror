@@ -10,6 +10,16 @@
       "telephone" : "1910、新竹給水廠03-5714621，5733523、新竹服務所03-5714321"
    },
    {
+      "area" : "新竹市武陵路111號~311號(包含巷道及荷蘭村)、湳中街全部、鐵道路二段(武陵路~湳中街)、東大路二段446巷全部、湳雅街、金竹路、鐵道路二段、三段及東大路二段、三段。",
+      "interval_from" : "2013-09-28T09:00+08",
+      "interval_until" : "2013-09-28T20:00+08",
+      "publish_area" : "300新竹市新竹市",
+      "publish_duration" : "2013-09-23/2013-10-02",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-10-02",
+      "telephone" : "1910、新竹給水廠03-5714621，5733523、新竹服務所03-5714321"
+   },
+   {
       "area" : "【區域1】屏東縣恆春鎮恆公路",
       "interval_from" : "2013-09-09T08:00+08",
       "interval_until" : "2013-10-07T18:00+08",
@@ -38,28 +48,6 @@
       "publish_from" : "2013-09-11",
       "publish_until" : "2013-09-28",
       "telephone" : "04-22210169"
-   },
-   {
-      "area" : "【區域1】南投縣埔里鎮清新里",
-      "interval_comment" : "每日上午9點至晚上6點(每日9小時，假日不施工)",
-      "interval_from" : "2013-09-09T09:00+08",
-      "interval_until" : "2013-10-23T18:00+08",
-      "publish_area" : "545南投縣埔里鎮",
-      "publish_duration" : "2013-09-14/2013-10-24",
-      "publish_from" : "2013-09-14",
-      "publish_until" : "2013-10-24",
-      "telephone" : "049-2915176"
-   },
-   {
-      "area" : "【區域1】新北市三重區重新路五段與五谷王北街交叉口~重新路五段(中油加油站)與光復路一段交叉口(單號側)；五谷王北街2巷全部(含巷弄)；五谷王北街20巷全部(含巷弄)",
-      "interval_comment" : "每日上午9點至下午6點",
-      "interval_from" : "2013-09-21T09:00+08",
-      "interval_until" : "2013-09-22T18:00+08",
-      "publish_area" : "241新北市三重區",
-      "publish_duration" : "2013-09-14/2013-09-23",
-      "publish_from" : "2013-09-14",
-      "publish_until" : "2013-09-23",
-      "telephone" : "(02)2996-6681"
    },
    {
       "area" : "【區域1】高雄市內門區溝坪里、金竹里、永富里、永吉里、永興里、石坑里、內門里、內豊里、觀亭里、中埔里、內東里、內南里、東埔里、內興里、瑞山里、光興里。;高雄市田寮區鹿埔里、古亭里。;高雄市旗山區三協里。",
@@ -307,37 +295,6 @@
       "telephone" : "07-6222814"
    },
    {
-      "area" : "【區域1】高雄市前鎮區前鎮街、鎮旺街、鎮華街、鎮北二街、鎮東五街、鎮州路",
-      "interval_comment" : "每日上午10點至下午6點",
-      "interval_from" : "2013-09-20T10:00+08",
-      "interval_until" : "2013-09-22T18:00+08",
-      "publish_area" : "806高雄市前鎮區",
-      "publish_duration" : "2013-09-18/2013-09-23",
-      "publish_from" : "2013-09-18",
-      "publish_until" : "2013-09-23",
-      "telephone" : "3312292轉237"
-   },
-   {
-      "area" : "【區域1】高雄市鼓山區裕誠路與美術東五路及東三路一帶",
-      "interval_from" : "2013-09-22T14:00+08",
-      "interval_until" : "2013-09-22T17:00+08",
-      "publish_area" : "804高雄市鼓山區",
-      "publish_duration" : "2013-09-18/2013-09-23",
-      "publish_from" : "2013-09-18",
-      "publish_until" : "2013-09-23",
-      "telephone" : "07-3312292-237"
-   },
-   {
-      "area" : "【區域1】花蓮縣鳳林鎮永信路;正信路;水源路",
-      "interval_from" : "2013-09-24T09:30+08",
-      "interval_until" : "2013-09-24T17:30+08",
-      "publish_area" : "975花蓮縣鳳林鎮",
-      "publish_duration" : "2013-09-18/2013-09-25",
-      "publish_from" : "2013-09-18",
-      "publish_until" : "2013-09-25",
-      "telephone" : "038351141"
-   },
-   {
       "area" : "【區域1】花蓮縣鳳林鎮水源路;正信路;永信路",
       "interval_from" : "2013-09-25T09:30+08",
       "interval_until" : "2013-09-25T17:30+08",
@@ -355,86 +312,6 @@
       "publish_duration" : "2013-09-20/2013-09-30",
       "publish_from" : "2013-09-20",
       "publish_until" : "2013-09-30",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】高雄市甲仙區全區降壓;高雄市杉林區集來里",
-      "interval_from" : "2013-09-21T11:30+08",
-      "interval_until" : "2013-09-22T20:00+08",
-      "publish_area" : "847高雄市甲仙區     846高雄市杉林區",
-      "publish_duration" : "2013-09-21/2013-09-23",
-      "publish_from" : "2013-09-21",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】屏東縣恆春鎮大光里、水泉里、龍水里、山海里",
-      "interval_from" : "2013-09-21T10:00+08",
-      "interval_until" : "2013-09-22T12:00+08",
-      "publish_area" : "946屏東縣恆春鎮",
-      "publish_duration" : "2013-09-21/2013-09-23",
-      "publish_from" : "2013-09-21",
-      "publish_until" : "2013-09-23",
-      "telephone" : "08-8880334"
-   },
-   {
-      "area" : "【區域1】高雄市甲仙區全部村里",
-      "interval_from" : "2013-09-21T11:30+08",
-      "interval_until" : "2013-09-22T20:00+08",
-      "publish_area" : "847高雄市甲仙區",
-      "publish_duration" : "2013-09-21/2013-09-23",
-      "publish_from" : "2013-09-21",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】台東縣成功鎮全部村里",
-      "interval_from" : "2013-09-21T22:00+08",
-      "interval_until" : "2013-09-22T18:00+08",
-      "publish_area" : "961台東縣成功鎮",
-      "publish_duration" : "2013-09-21/2013-09-23",
-      "publish_from" : "2013-09-21",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】宜蘭縣大同鄉四季村",
-      "interval_from" : "2013-09-21T22:00+08",
-      "interval_until" : "2013-09-22T18:00+08",
-      "publish_area" : "267宜蘭縣大同鄉",
-      "publish_duration" : "2013-09-21/2013-09-23",
-      "publish_from" : "2013-09-21",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】高雄市楠梓區翠屏里",
-      "interval_from" : "2013-09-21T23:00+08",
-      "interval_until" : "2013-09-22T08:00+08",
-      "publish_area" : "811高雄市楠梓區",
-      "publish_duration" : "2013-09-21/2013-09-23",
-      "publish_from" : "2013-09-21",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】台中市西區台中市西區台灣大道一段與五權路交叉口修漏.停水範圍中華路.中正路一帶修理.",
-      "interval_from" : "2013-09-22T02:00+08",
-      "interval_until" : "2013-09-22T07:00+08",
-      "publish_area" : "403台中市西區",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : "1910   04-22450114"
-   },
-   {
-      "area" : "【區域1】高雄市六龜區全部村里(高勢地區)",
-      "interval_from" : "2013-09-22T07:00+08",
-      "interval_until" : "2013-09-22T12:00+08",
-      "publish_area" : "844高雄市六龜區",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
       "telephone" : ""
    },
    {
@@ -468,96 +345,6 @@
       "telephone" : ""
    },
    {
-      "area" : "【區域1】台南市官田區隆本里;隆田里",
-      "interval_from" : "2013-09-22T09:00+08",
-      "interval_until" : "2013-09-22T15:00+08",
-      "publish_area" : "720台南市官田區",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】屏東縣滿州鄉全部村里",
-      "interval_from" : "2013-09-22T10:00+08",
-      "interval_until" : "2013-09-22T17:00+08",
-      "publish_area" : "947屏東縣滿州鄉",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】桃園縣大園鄉埔心街",
-      "interval_from" : "2013-09-22T10:30+08",
-      "interval_until" : "2013-09-22T13:00+08",
-      "publish_area" : "337桃園縣大園鄉",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】屏東縣佳冬鄉全部村里;屏東縣枋寮鄉全部村里;屏東縣東港鎮全部村里;屏東縣林邊鄉全部村里;屏東縣南州鄉全部村里",
-      "interval_from" : "2013-09-21T20:00+08",
-      "interval_until" : "2013-09-22T17:00+08",
-      "publish_area" : "931屏東縣佳冬鄉     940屏東縣枋寮鄉     928屏東縣東港鎮     927屏東縣林邊鄉     926屏東縣南州鄉",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】台中市北屯區昌平路二段",
-      "interval_from" : "2013-09-22T12:00+08",
-      "interval_until" : "2013-09-22T16:00+08",
-      "publish_area" : "406台中市北屯區",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : "1910   22442469"
-   },
-   {
-      "area" : "【區域1】台南市永康區文化路、永忠路、永大一路~永大五路、永和街、永華路、永勝街、永二街附近一帶",
-      "interval_from" : "2013-09-22T14:00+08",
-      "interval_until" : "2013-09-22T16:00+08",
-      "publish_area" : "710台南市永康區",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】屏東縣三地門鄉口社村;馬兒村;安坡村",
-      "interval_from" : "2013-09-22T12:30+08",
-      "interval_until" : "2013-09-22T18:00+08",
-      "publish_area" : "901屏東縣三地門鄉",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : "087963973"
-   },
-   {
-      "area" : "【區域1】屏東縣三地門鄉青山村",
-      "interval_from" : "2013-09-22T12:30+08",
-      "interval_until" : "2013-09-22T16:30+08",
-      "publish_area" : "901屏東縣三地門鄉",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : "087963973"
-   },
-   {
-      "area" : "【區域1】台南市歸仁區中正南路1段1號~250號附近一帶",
-      "interval_from" : "2013-09-22T11:00+08",
-      "interval_until" : "2013-09-22T16:00+08",
-      "publish_area" : "711台南市歸仁區",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : ""
-   },
-   {
       "area" : "【區域1】新北市烏來區全部村里",
       "interval_from" : "2013-09-22T14:10+08",
       "interval_until" : "2013-09-23T12:00+08",
@@ -568,16 +355,6 @@
       "telephone" : ""
    },
    {
-      "area" : "【區域1】桃園縣蘆竹鄉宏竹路",
-      "interval_from" : "2013-09-22T15:00+08",
-      "interval_until" : "2013-09-22T19:00+08",
-      "publish_area" : "338桃園縣蘆竹鄉",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : "0939867798"
-   },
-   {
       "area" : "【區域1】屏東縣牡丹鄉四林村;屏東縣滿州鄉響林村;長樂村;萬得路",
       "interval_from" : "2013-09-22T17:00+08",
       "interval_until" : "2013-09-25T18:00+08",
@@ -585,26 +362,6 @@
       "publish_duration" : "2013-09-22/2013-09-26",
       "publish_from" : "2013-09-22",
       "publish_until" : "2013-09-26",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】雲林縣西螺鎮全部村里;雲林縣莿桐鄉全部村里",
-      "interval_from" : "2013-09-22T20:00+08",
-      "interval_until" : "2013-09-22T23:00+08",
-      "publish_area" : "648雲林縣西螺鎮     647雲林縣莿桐鄉",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
-      "telephone" : "055862163或055869165"
-   },
-   {
-      "area" : "【區域1】桃園縣龍潭鄉中原路一段附近一帶",
-      "interval_from" : "2013-09-22T22:00+08",
-      "interval_until" : "2013-09-22T23:00+08",
-      "publish_area" : "325桃園縣龍潭鄉",
-      "publish_duration" : "2013-09-22/2013-09-23",
-      "publish_from" : "2013-09-22",
-      "publish_until" : "2013-09-23",
       "telephone" : ""
    },
    {
@@ -648,16 +405,6 @@
       "publish_from" : "2013-09-23",
       "publish_until" : "2013-09-25",
       "telephone" : "2252670*253"
-   },
-   {
-      "area" : "【區域1】雲林縣莿桐鄉全部村里",
-      "interval_from" : "2013-09-23T07:50+08",
-      "interval_until" : "2013-09-23T17:00+08",
-      "publish_area" : "647雲林縣莿桐鄉",
-      "publish_duration" : "2013-09-23/2013-09-24",
-      "publish_from" : "2013-09-23",
-      "publish_until" : "2013-09-24",
-      "telephone" : "055862163或055869165"
    },
    {
       "area" : "【區域1】高雄市鼓山區裕誠路與美術東五路及東三路一帶",
@@ -800,16 +547,6 @@
       "publish_from" : "2013-09-23",
       "publish_until" : "2013-09-24",
       "telephone" : "3312292轉237"
-   },
-   {
-      "area" : "【區域1】雲林縣水林鄉後寮村 海埔村",
-      "interval_from" : "2013-09-23T08:50+08",
-      "interval_until" : "2013-09-23T12:00+08",
-      "publish_area" : "652雲林縣水林鄉",
-      "publish_duration" : "2013-09-23/2013-09-24",
-      "publish_from" : "2013-09-23",
-      "publish_until" : "2013-09-24",
-      "telephone" : "7832040"
    },
    {
       "area" : "【區域1】高雄市林園區林園區東林西路(王公路至田厝路)附近",
@@ -1035,37 +772,6 @@
       "telephone" : "7882410"
    },
    {
-      "area" : "【區域1】台中市大里區向學路〈36巷〉附近一帶‧",
-      "interval_from" : "2013-09-23T10:40+08",
-      "interval_until" : "2013-09-23T13:40+08",
-      "publish_area" : "412台中市大里區",
-      "publish_duration" : "2013-09-23/2013-09-24",
-      "publish_from" : "2013-09-23",
-      "publish_until" : "2013-09-24",
-      "telephone" : "22442469、1910"
-   },
-   {
-      "area" : "【區域1】高雄市橋頭區仕隆里;橋頭里;成功路;橋南里",
-      "interval_comment" : "於9/23至9/27日每日上午9點至下午6點",
-      "interval_from" : "2013-09-23T12:00+08",
-      "interval_until" : "2013-09-27T18:00+08",
-      "publish_area" : "825高雄市橋頭區",
-      "publish_duration" : "2013-09-23/2013-09-28",
-      "publish_from" : "2013-09-23",
-      "publish_until" : "2013-09-28",
-      "telephone" : "07-6222814"
-   },
-   {
-      "area" : "【區域1】苗栗縣苗栗市北苗里〈中華路、義民街、中山北路、豐年路、福星街、三東巷、三西巷〉",
-      "interval_from" : "2013-09-23T10:30+08",
-      "interval_until" : "2013-09-23T18:00+08",
-      "publish_area" : "360苗栗縣苗栗市",
-      "publish_duration" : "2013-09-23/2013-09-24",
-      "publish_from" : "2013-09-23",
-      "publish_until" : "2013-09-24",
-      "telephone" : "免費客服專線：1910、苗栗營運所：037-320334"
-   },
-   {
       "area" : "【區域1】高雄市苓雅區輔仁路177巷24號附近一帶",
       "interval_from" : "2013-09-23T11:8+08",
       "interval_until" : "2013-09-23T13:8+08",
@@ -1128,26 +834,6 @@
       "telephone" : "06-6852135"
    },
    {
-      "area" : "【區域1】桃園縣大溪鎮勝利街",
-      "interval_from" : "2013-09-23T11:32+08",
-      "interval_until" : "2013-09-23T17:00+08",
-      "publish_area" : "335桃園縣大溪鎮",
-      "publish_duration" : "2013-09-23/2013-09-24",
-      "publish_from" : "2013-09-23",
-      "publish_until" : "2013-09-24",
-      "telephone" : ""
-   },
-   {
-      "area" : "【區域1】新北市三峽區中園街.中正路二.三段.大利路.嘉添.添福.大埔路.二鬮路.麻園路.弘道.大同路.",
-      "interval_from" : "2013-09-23T14:00+08",
-      "interval_until" : "2013-09-23T20:00+08",
-      "publish_area" : "237新北市三峽區",
-      "publish_duration" : "2013-09-23/2013-09-24",
-      "publish_from" : "2013-09-23",
-      "publish_until" : "2013-09-24",
-      "telephone" : "26792527.26792224"
-   },
-   {
       "area" : "【區域1】雲林縣口湖鄉埔北村",
       "interval_from" : "2013-09-23T11:50+08",
       "interval_until" : "2013-09-23T17:50+08",
@@ -1187,5 +873,863 @@
       "publish_from" : "2013-09-23",
       "publish_until" : "2013-09-24",
       "telephone" : "0933677718"
+   },
+   {
+      "area" : "【區域1】台中市沙鹿區茄投路一段;中華路一段附近一帶",
+      "interval_from" : "2013-09-23T13:30+08",
+      "interval_until" : "2013-09-23T15:30+08",
+      "publish_area" : "433台中市沙鹿區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】雲林縣斗六市榴南及河南街等沿線",
+      "interval_from" : "2013-09-23T12:29+08",
+      "interval_until" : "2013-09-23T17:00+08",
+      "publish_area" : "640雲林縣斗六市",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "05-5892033"
+   },
+   {
+      "area" : "【區域1】台中市大里區向學路〈36巷〉附近一帶‧",
+      "interval_from" : "2013-09-23T10:40+08",
+      "interval_until" : "2013-09-23T13:40+08",
+      "publish_area" : "412台中市大里區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "22442469、1910"
+   },
+   {
+      "area" : "【區域1】桃園縣中壢市中正路四段沿線區域;桃園縣觀音鄉仁愛路、忠愛路一~二段沿線區域",
+      "interval_from" : "2013-09-23T10:25+08",
+      "interval_until" : "2013-09-23T14:00+08",
+      "publish_area" : "320桃園縣中壢市     328桃園縣觀音鄉",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "03-4251506"
+   },
+   {
+      "area" : "【區域1】嘉義縣竹崎鄉紫雲村;崁腳;嘉義縣番路鄉下坑村;內坑",
+      "interval_from" : "2013-09-23T13:35+08",
+      "interval_until" : "2013-09-23T15:30+08",
+      "publish_area" : "604嘉義縣竹崎鄉     602嘉義縣番路鄉",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "0932879572"
+   },
+   {
+      "area" : "【區域1】台南市鹽水區治水路268巷",
+      "interval_comment" : "下午1點50至下午5點",
+      "interval_from" : "2013-09-23T13:50+08",
+      "interval_until" : "2013-09-23T17:00+08",
+      "publish_area" : "737台南市鹽水區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "06-6322240"
+   },
+   {
+      "area" : "【區域1】高雄市橋頭區仕隆里;橋頭里;成功路;橋南里",
+      "interval_comment" : "於9/23至9/27日每日上午9點至下午6點",
+      "interval_from" : "2013-09-23T12:00+08",
+      "interval_until" : "2013-09-27T18:00+08",
+      "publish_area" : "825高雄市橋頭區",
+      "publish_duration" : "2013-09-23/2013-09-28",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-28",
+      "telephone" : "07-6222814"
+   },
+   {
+      "area" : "【區域1】台中市西屯區環中路.黎明路等附近一帶‧",
+      "interval_from" : "2013-09-23T14:00+08",
+      "interval_until" : "2013-09-23T18:00+08",
+      "publish_area" : "407台中市西屯區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "22442469、1910"
+   },
+   {
+      "area" : "【區域1】高雄市燕巢區西燕里;東燕里;中民路",
+      "interval_from" : "2013-09-23T14:30+08",
+      "interval_until" : "2013-09-23T18:50+08",
+      "publish_area" : "824高雄市燕巢區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "07-6222814"
+   },
+   {
+      "area" : "【區域1】雲林縣水林鄉後寮村 海埔村",
+      "interval_from" : "2013-09-23T08:50+08",
+      "interval_until" : "2013-09-23T12:00+08",
+      "publish_area" : "652雲林縣水林鄉",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "7832040"
+   },
+   {
+      "area" : "【區域1】桃園縣觀音鄉武威村;保生村;觀音村",
+      "interval_from" : "2013-09-23T14:30+08",
+      "interval_until" : "2013-09-23T16:30+08",
+      "publish_area" : "328桃園縣觀音鄉",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "03-3862156"
+   },
+   {
+      "area" : "【區域1】新北市三重區重新路五段與五谷王北街交叉口~重新路五段(中油加油站)與光復路一段交叉口(單號側)；五谷王北街2巷全部(含巷弄)；五谷王北街20巷全部(含巷弄)",
+      "interval_comment" : "每日上午9點至下午6點",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-26T18:00+08",
+      "publish_area" : "241新北市三重區",
+      "publish_duration" : "2013-09-23/2013-09-27",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-27",
+      "telephone" : "(02)2996-6681"
+   },
+   {
+      "area" : "【區域1】台南市安平區育平6.7街.平豐路.永華10街",
+      "interval_from" : "2013-09-23T12:00+08",
+      "interval_until" : "2013-09-23T18:00+08",
+      "publish_area" : "708台南市安平區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "06-3036097"
+   },
+   {
+      "area" : "【區域1】台東縣台東市中華路二段 臨海路二段 新豐里橋 豐谷南路 豐盛路 漢陽南路 文心街 貴州街 文山路 貴州街 梧州街",
+      "interval_from" : "2013-09-23T15:00+08",
+      "interval_until" : "2013-09-23T16:00+08",
+      "publish_area" : "950台東縣台東市",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "陳德昇0939592535"
+   },
+   {
+      "area" : "【區域1】南投縣埔里鎮清新里.同聲里.薰化里.",
+      "interval_from" : "2013-09-23T14:40+08",
+      "interval_until" : "2013-09-23T19:00+08",
+      "publish_area" : "545南投縣埔里鎮",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "049-2915176"
+   },
+   {
+      "area" : "【區域1】雲林縣四湖鄉新庄村;溪底村;四湖村;湖西村;成功路;自強路;信義路;砂崙腳路;新庄路;新興路;關聖路",
+      "interval_comment" : "下午14點30分至18點30分",
+      "interval_from" : "2013-09-23T14:30+08",
+      "interval_until" : "2013-09-23T18:30+08",
+      "publish_area" : "654雲林縣四湖鄉",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "05-6982250"
+   },
+   {
+      "area" : "【區域1】台東縣台東市中華路二段 臨海路二段 新豐里橋 豐谷南路 豐盛路 漢陽南路 文心街 貴州街 文山路 貴州街 梧州街",
+      "interval_from" : "2013-09-23T15:00+08",
+      "interval_until" : "2013-09-23T16:00+08",
+      "publish_area" : "950台東縣台東市",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "陳德昇0939592535"
+   },
+   {
+      "area" : "【區域1】宜蘭縣礁溪鄉大忠路225巷3號至大忠路265-30號",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T11:00+08",
+      "publish_area" : "262宜蘭縣礁溪鄉",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "039323255"
+   },
+   {
+      "area" : "【區域1】台中市太平區永平路二段.永義路.永義二街.東平路.新平路一段.朱厝巷等附近一帶。",
+      "interval_from" : "2013-09-23T14:30+08",
+      "interval_until" : "2013-09-23T18:30+08",
+      "publish_area" : "411台中市太平區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "22442469、1910"
+   },
+   {
+      "area" : "【區域1】宜蘭縣蘇澳鎮中原路",
+      "interval_from" : "2013-09-24T13:00+08",
+      "interval_until" : "2013-09-24T18:00+08",
+      "publish_area" : "270宜蘭縣蘇澳鎮",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "039510028#21 ; 0937849882"
+   },
+   {
+      "area" : "【區域1】高雄市苓雅區苓雅區正言路64巷口附近一帶",
+      "interval_from" : "2013-09-23T15:20+08",
+      "interval_until" : "2013-09-23T18:00+08",
+      "publish_area" : "802高雄市苓雅區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "07-7321319"
+   },
+   {
+      "area" : "【區域1】台中市神岡區中山路",
+      "interval_from" : "2013-09-23T15:30+08",
+      "interval_until" : "2013-09-23T17:30+08",
+      "publish_area" : "429台中市神岡區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "25722643"
+   },
+   {
+      "area" : "【區域1】苗栗縣頭份鎮後庄里",
+      "interval_from" : "2013-09-23T15:34+08",
+      "interval_until" : "2013-09-23T17:30+08",
+      "publish_area" : "351苗栗縣頭份鎮",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】台東縣成功鎮小馬路;都壢路;台東縣東河鄉東河村;隆昌村;興昌村;;都蘭村因高勢地區，會延至晚間９點",
+      "interval_from" : "2013-09-23T09:00+08",
+      "interval_until" : "2013-09-23T17:00+08",
+      "publish_area" : "961台東縣成功鎮     959台東縣東河鄉",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】台中市大肚區永和里;頂街里;磺溪里;大肚里;永順里;成功里",
+      "interval_from" : "2013-09-23T16:15+08",
+      "interval_until" : "2013-09-26T12:00+08",
+      "publish_area" : "432台中市大肚區",
+      "publish_duration" : "2013-09-23/2013-09-27",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-27",
+      "telephone" : "04-26312127"
+   },
+   {
+      "area" : "【區域1】桃園縣大溪鎮勝利街",
+      "interval_from" : "2013-09-23T11:32+08",
+      "interval_until" : "2013-09-23T20:00+08",
+      "publish_area" : "335桃園縣大溪鎮",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】台中市清水區中華路101巷全部",
+      "interval_from" : "2013-09-23T16:40+08",
+      "interval_until" : "2013-09-23T18:40+08",
+      "publish_area" : "436台中市清水區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "04-262226147"
+   },
+   {
+      "area" : "【區域1】台東縣海端鄉崁頂村;台東縣關山鎮月眉里;崁頂",
+      "interval_comment" : "下午16:40點至24日下午6點",
+      "interval_from" : "2013-09-23T16:40+08",
+      "interval_until" : "2013-09-24T16:00+08",
+      "publish_area" : "957台東縣海端鄉     956台東縣關山鎮",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "089862625"
+   },
+   {
+      "area" : "【區域1】桃園縣觀音鄉草漯村;富林村",
+      "interval_from" : "2013-09-23T17:00+08",
+      "interval_until" : "2013-09-24T0:00+08",
+      "publish_area" : "328桃園縣觀音鄉",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "03-3862156"
+   },
+   {
+      "area" : "【區域1】苗栗縣苗栗市北苗里〈中華路、義民街、中山北路、豐年路、福星街、三東巷、三西巷〉",
+      "interval_from" : "2013-09-23T10:30+08",
+      "interval_until" : "2013-09-23T20:00+08",
+      "publish_area" : "360苗栗縣苗栗市",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "免費客服專線：1910、苗栗營運所：037-320334"
+   },
+   {
+      "area" : "【區域1】花蓮縣鳳林鎮永信路;正信路;水源路",
+      "interval_from" : "2013-09-26T09:30+08",
+      "interval_until" : "2013-09-26T17:30+08",
+      "publish_area" : "975花蓮縣鳳林鎮",
+      "publish_duration" : "2013-09-23/2013-09-27",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-27",
+      "telephone" : "038351141"
+   },
+   {
+      "area" : "【區域1】台東縣海端鄉崁頂村;台東縣關山鎮月眉里;崁頂",
+      "interval_comment" : "23日下午4:50點至24日下午6點",
+      "interval_from" : "2013-09-23T16:40+08",
+      "interval_until" : "2013-09-24T16:00+08",
+      "publish_area" : "957台東縣海端鄉     956台東縣關山鎮",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "089862625"
+   },
+   {
+      "area" : "【區域1】台南市善化區小新里",
+      "interval_from" : "2013-09-23T17:00+08",
+      "interval_until" : "2013-09-23T19:00+08",
+      "publish_area" : "741台南市善化區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "06-5973437"
+   },
+   {
+      "area" : "【區域1】台東縣海端鄉崁頂村;台東縣關山鎮月眉里;崁頂",
+      "interval_comment" : "23日下午4:50點至24日下午6點",
+      "interval_from" : "2013-09-23T16:40+08",
+      "interval_until" : "2013-09-24T16:00+08",
+      "publish_area" : "957台東縣海端鄉     956台東縣關山鎮",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "089862625"
+   },
+   {
+      "area" : "【區域1】台南市白河區水火洞往碧雲寺中",
+      "interval_comment" : "下午2點30分至9點30分",
+      "interval_from" : "2013-09-23T14:30+08",
+      "interval_until" : "2013-09-23T21:30+08",
+      "publish_area" : "732台南市白河區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "06-6852135"
+   },
+   {
+      "area" : "【區域1】桃園縣大溪鎮勝利街(全部)、觀音亭",
+      "interval_from" : "2013-09-23T11:26+08",
+      "interval_until" : "2013-09-23T20:00+08",
+      "publish_area" : "335桃園縣大溪鎮",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "3883760"
+   },
+   {
+      "area" : "【區域1】桃園縣觀音鄉工業一路、工業二路、工業三路、工業四路、工業五路、經建一路、經建二路、經建三路、經建四路、經建五路、經建六路、經建七路、國建一路、國建二路、國建三路、國光路、國瑞路、成功路一段、成功路二段、樹林村新村路、樹林村12、13鄰、草漯村18鄰、保障村忠孝路（全部）。",
+      "interval_from" : "2013-09-29T09:00+08",
+      "interval_until" : "2013-09-29T17:00+08",
+      "publish_area" : "328桃園縣觀音鄉",
+      "publish_duration" : "2013-09-23/2013-09-30",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-30",
+      "telephone" : "免付費服務電話：1910  大園服務所:03-3862156"
+   },
+   {
+      "area" : "【區域1】桃園縣大溪鎮福安里(全部);頭寮(全部);依托邦社區(全部)",
+      "interval_from" : "2013-09-23T19:00+08",
+      "interval_until" : "2013-09-24T02:00+08",
+      "publish_area" : "335桃園縣大溪鎮",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "03-3883760"
+   },
+   {
+      "area" : "【區域1】新北市三峽區中園街.中正路二.三段.大利路.嘉添.添福.大埔路.二鬮路.麻園路.弘道.大同路.",
+      "interval_from" : "2013-09-23T14:00+08",
+      "interval_until" : "2013-09-23T22:00+08",
+      "publish_area" : "237新北市三峽區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "26792527.26792224"
+   },
+   {
+      "area" : "【區域1】桃園縣大溪鎮石園路;番仔寮(全部)壓力降低",
+      "interval_from" : "2013-09-23T18:00+08",
+      "interval_until" : "2013-09-24T03:00+08",
+      "publish_area" : "335桃園縣大溪鎮",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "03-3883760"
+   },
+   {
+      "area" : "【區域3】桃園縣新屋鄉九斗村;清華村;頭洲村及文化路",
+      "interval_from" : "2013-9-23T10:00+08",
+      "interval_until" : "2013-9-23T20:00+08",
+      "publish_area" : "327桃園縣新屋鄉",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "03-4789261"
+   },
+   {
+      "area" : "【區域1】桃園縣新屋鄉下田村;下埔村;大坡村;永安村;永興村;石牌村;石磊村;赤欄村;東明村;社子村;後庄村;後湖村;埔頂村;望間村;深圳村;笨港村;蚵間村;新生村;新屋村;�F榔村;桃園縣觀音鄉新興村;保生村;坑尾村;文化路",
+      "interval_from" : "2013-09-23T10:00+08",
+      "interval_until" : "2013-09-24T0:00+08",
+      "publish_area" : "327桃園縣新屋鄉     328桃園縣觀音鄉",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : "03-4789261"
+   },
+   {
+      "area" : "【區域1】台中市西屯區工業九路",
+      "interval_from" : "2013-09-23T21:00+08",
+      "interval_until" : "2013-09-23T23:59+08",
+      "publish_area" : "407台中市西屯區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : "1910  22442469"
+   },
+   {
+      "area" : "【區域1】桃園縣觀音鄉大觀路三段;草漯重劃區全部",
+      "interval_from" : "2013-09-23T20:00+08",
+      "interval_until" : "2013-09-24T06:00+08",
+      "publish_area" : "328桃園縣觀音鄉",
+      "publish_duration" : "2013-09-23/2013-09-25",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-25",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】台南市歸仁區中山路一段",
+      "interval_from" : "2013-09-23T20:30+08",
+      "interval_until" : "2013-09-23T23:30+08",
+      "publish_area" : "711台南市歸仁區",
+      "publish_duration" : "2013-09-23/2013-09-24",
+      "publish_from" : "2013-09-23",
+      "publish_until" : "2013-09-24",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】高雄市鳳山區鳳山區新富路353號方圓500公尺",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "830高雄市鳳山區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "7883714"
+   },
+   {
+      "area" : "【區域1】屏東縣高樹鄉南華村;泰山村;廣福村",
+      "interval_from" : "2013-09-24T08:30+08",
+      "interval_until" : "2013-09-24T10:00+08",
+      "publish_area" : "906屏東縣高樹鄉",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "087963973"
+   },
+   {
+      "area" : "【區域1】台南市官田區官田國中門口",
+      "interval_comment" : "下午14.00-17.00",
+      "interval_from" : "2013-09-24T14:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "720台南市官田區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "5721166"
+   },
+   {
+      "area" : "【區域1】台南市官田區勝利路135號附近",
+      "interval_comment" : "下午14.00-17.00",
+      "interval_from" : "2013-09-24T14:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "720台南市官田區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "5721166"
+   },
+   {
+      "area" : "【區域1】台南市柳營區火燒店，雙和路",
+      "interval_comment" : "上午9點至上午11點",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T11:00+08",
+      "publish_area" : "736台南市柳營區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "06-6322240"
+   },
+   {
+      "area" : "【區域1】南投縣埔里鎮清新里",
+      "interval_comment" : "每日上午9點至晚上6點(每日9小時，假日不施工)",
+      "interval_from" : "2013-09-09T09:00+08",
+      "interval_until" : "2013-10-23T18:00+08",
+      "publish_area" : "545南投縣埔里鎮",
+      "publish_duration" : "2013-09-24/2013-10-24",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-10-24",
+      "telephone" : "049-2915176"
+   },
+   {
+      "area" : "【區域1】新北市樹林區太平路56巷全部",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T16:00+08",
+      "publish_area" : "238新北市樹林區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "02 26812254"
+   },
+   {
+      "area" : "【區域1】新北市汐止區水源路一段;水源路二段;汐碇路",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T12:00+08",
+      "publish_area" : "221新北市汐止區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "86464635"
+   },
+   {
+      "area" : "【區域1】高雄市內門區全部村里;高雄市旗山區三協里;花旗一路;花旗二路;花旗二路;花旗路;花旗一路;楊厝巷;花旗山莊內全部",
+      "interval_from" : "2013-09-26T0:00+08",
+      "interval_until" : "2013-09-28T0:00+08",
+      "publish_area" : "845高雄市內門區     842高雄市旗山區",
+      "publish_duration" : "2013-09-24/2013-09-29",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-29",
+      "telephone" : "07-6613807"
+   },
+   {
+      "area" : "【區域1】台南市安南區安中路3段、安中路4段、本原街3段、本田路3段、海佃路4段;仁安一街;仁安二街;仁安八街;仁安六街;仁安四街;仁安路;本田路三段;本原街三段;本淵一街;安中路三段;安中路四段;海佃路四段;海中街;智安四街;樂安一街;樂安二街;樂安街",
+      "interval_from" : "2013-09-24T08:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "709台南市安南區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "06-3036097"
+   },
+   {
+      "area" : "【區域1】花蓮縣吉安鄉廣豐一街",
+      "interval_from" : "2013-09-24T08:45+08",
+      "interval_until" : "2013-09-24T09:30+08",
+      "publish_area" : "973花蓮縣吉安鄉",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】台中市豐原區水源路坪頂巷",
+      "interval_from" : "2013-09-24T08:50+08",
+      "interval_until" : "2013-09-24T12:50+08",
+      "publish_area" : "420台中市豐原區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "豐原服務所(04)25269895  豐原給水廠(04)25722643"
+   },
+   {
+      "area" : "【區域1】基隆市信義區花源一街;花源七街;花源九街;花源二街;花源三街;花源五街;信二路;東信路;正信路;壽山路;中興路",
+      "interval_comment" : "於9月24日早上9點至下午2點",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T14:00+08",
+      "publish_area" : "201基隆市信義區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "24252103-59"
+   },
+   {
+      "area" : "【區域1】苗栗縣造橋鄉造橋*大坪*大西*大龍*全區",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "361苗栗縣造橋鄉",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "037330637*320334*0933545775"
+   },
+   {
+      "area" : "【區域1】台南市學甲區過港子",
+      "interval_from" : "2013-09-24T09:20+08",
+      "interval_until" : "2013-09-24T16:00+08",
+      "publish_area" : "726台南市學甲區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "7222477"
+   },
+   {
+      "area" : "【區域1】台中市烏日區光日路全部",
+      "interval_from" : "2013-09-24T09:30+08",
+      "interval_until" : "2013-09-24T12:30+08",
+      "publish_area" : "414台中市烏日區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "0423381614"
+   },
+   {
+      "area" : "【區域1】雲林縣斗南鎮田頭里",
+      "interval_from" : "2013-09-24T09:30+08",
+      "interval_until" : "2013-09-24T12:00+08",
+      "publish_area" : "630雲林縣斗南鎮",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "05-5972682"
+   },
+   {
+      "area" : "【區域1】苗栗縣頭份鎮盧竹里全部",
+      "interval_from" : "2013-09-24T09:10+08",
+      "interval_until" : "2013-09-24T11:40+08",
+      "publish_area" : "351苗栗縣頭份鎮",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "037-623500     037-628000           0911-688881"
+   },
+   {
+      "area" : "【區域1】桃園縣八德市八德市 大明里、大發里;桃園縣龜山鄉龜山鄉 山頂村;新北市三峽區全部村里、樹林區 柑園地區、北大社區;新北市土城區全部村里;新北市中和區中和區明穗里;新北市新莊區全部村里、共計78里。【新莊區思源路以西地區】。;新北市樹林區全部村里、樹林區全部（柑園地區5里除外）。板橋區溪崑地區六里。新莊區西盛里（鐵路以東部分）。;龜山鄉迴龍地區（萬壽路1段、龍祥街、龍泉街、龍新街、龍江街、龍興街、自由街、龍華街、龍鳳街）。;新北市鶯歌區全部村里、高地區-鶯歌國際新城、湖山路、東湖路、中湖路延後6小時供水。",
+      "interval_from" : "2013-09-28T04:00+08",
+      "interval_until" : "2013-09-29T02:00+08",
+      "publish_area" : "334桃園縣八德市     333桃園縣龜山鄉     237新北市三峽區     236新北市土城區     235新北市中和區     242新北市新莊區     238新北市樹林區     239新北市鶯歌區",
+      "publish_duration" : "2013-09-24/2013-09-30",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-30",
+      "telephone" : "客服中心：1910   區管理處：2996-8961    板新給水廠：2671-1416"
+   },
+   {
+      "area" : "【區域1】台南市北區成功路、金華路4.5段、臨安路2段",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "704台南市北區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "06-3036097"
+   },
+   {
+      "area" : "【區域1】桃園縣大溪鎮信義路340號以後(全部)",
+      "interval_from" : "2013-09-24T10:00+08",
+      "interval_until" : "2013-09-24T16:00+08",
+      "publish_area" : "335桃園縣大溪鎮",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "03-3883760"
+   },
+   {
+      "area" : "【區域1】南投縣草屯鎮正言街;正興街;正榮街;新生路",
+      "interval_comment" : "每日上午9點至下午6點",
+      "interval_from" : "2013-09-26T09:00+08",
+      "interval_until" : "2013-10-04T18:00+08",
+      "publish_area" : "542南投縣草屯鎮",
+      "publish_duration" : "2013-09-24/2013-10-05",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-10-05",
+      "telephone" : "049-2563505"
+   },
+   {
+      "area" : "【區域1】雲林縣西螺鎮全部村里;雲林縣莿桐鄉全部村里",
+      "interval_from" : "2013-09-23T07:50+08",
+      "interval_until" : "2013-09-24T17:30+08",
+      "publish_area" : "648雲林縣西螺鎮     647雲林縣莿桐鄉",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "055862163或055869165"
+   },
+   {
+      "area" : "【區域1】苗栗縣造橋鄉平興村.造橋村",
+      "interval_from" : "2013-09-24T09:30+08",
+      "interval_until" : "2013-09-24T16:00+08",
+      "publish_area" : "361苗栗縣造橋鄉",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "037-623500     037-628000           0911-688881"
+   },
+   {
+      "area" : "【區域1】雲林縣口湖鄉全部減壓供水;雲林縣元長鄉全部減壓供水;雲林縣水林鄉全部減壓供水;雲林縣北港鎮全部減壓供水;雲林縣四湖鄉溪底村減壓供水",
+      "interval_comment" : "場內轄區水壓降低",
+      "interval_from" : "2013-09-24T22:00+08",
+      "interval_until" : "2013-09-25T16:00+08",
+      "publish_area" : "653雲林縣口湖鄉     655雲林縣元長鄉     652雲林縣水林鄉     651雲林縣北港鎮     654雲林縣四湖鄉",
+      "publish_duration" : "2013-09-24/2013-09-26",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-26",
+      "telephone" : "7832040"
+   },
+   {
+      "area" : "【區域3】雲林縣口湖鄉全部減壓供水;雲林縣元長鄉全部減壓供水;雲林縣水林鄉全部減壓供水;雲林縣北港鎮全部減壓供水;雲林縣四湖鄉溪底村減壓供水",
+      "interval_comment" : "場內轄區水壓降低",
+      "interval_from" : "2013-09-24T22:00+08",
+      "interval_until" : "2013-09-25T16:00+08",
+      "publish_area" : "653雲林縣口湖鄉     655雲林縣元長鄉     652雲林縣水林鄉     651雲林縣北港鎮     654雲林縣四湖鄉",
+      "publish_duration" : "2013-09-24/2013-09-26",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-26",
+      "telephone" : "7832040"
+   },
+   {
+      "area" : "【區域1】高雄市苓雅區武廟路135巷與建民路口附近一帶",
+      "interval_from" : "2013-09-24T10:00+08",
+      "interval_until" : "2013-09-24T12:00+08",
+      "publish_area" : "802高雄市苓雅區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "07-7321319"
+   },
+   {
+      "area" : "【區域1】台南市仁德區德善二街口至德善路390號(含巷弄)",
+      "interval_from" : "2013-09-24T10:00+08",
+      "interval_until" : "2013-09-24T14:00+08",
+      "publish_area" : "717台南市仁德區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】台中市神岡區大洲路;豐洲路;前寮路;光啟路;(含附近巷、弄)",
+      "interval_from" : "2013-09-24T11:00+08",
+      "interval_until" : "2013-09-24T16:00+08",
+      "publish_area" : "429台中市神岡區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "(04)25722643  (04)25262721"
+   },
+   {
+      "area" : "【區域1】桃園縣新屋鄉新生村;新屋村;清華村;埔頂村;後湖村;社子村及楊梅老飯店;桃園縣楊梅市上田里;瑞原里",
+      "interval_from" : "2013-09-24T08:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "327桃園縣新屋鄉     326桃園縣楊梅市",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "03-4789261"
+   },
+   {
+      "area" : "【區域1】花蓮縣花蓮市重慶路;中原路",
+      "interval_from" : "2013-09-24T10:40+08",
+      "interval_until" : "2013-09-24T12:30+08",
+      "publish_area" : "970花蓮縣花蓮市",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】新北市中和區員山路501號~611號 ;民富街全部;中山路三段2號~100號;以上包含巷弄",
+      "interval_comment" : "當日9:00~18:00，施工完畢送水，如遇大雨延後。",
+      "interval_from" : "2013-09-24T09:00+08",
+      "interval_until" : "2013-09-24T18:00+08",
+      "publish_area" : "235新北市中和區",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "29102196 ro 1910"
+   },
+   {
+      "area" : "【區域1】南投縣南投市三興里;文林路;文化路;民族路",
+      "interval_from" : "2013-09-24T10:50+08",
+      "interval_until" : "2013-09-24T14:00+08",
+      "publish_area" : "540南投縣南投市",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "0492222635"
+   },
+   {
+      "area" : "【區域1】桃園縣桃園市春日路(1721至1931號含1731巷、1733巷、1775巷、1823巷)、龜山鄉民生北路一段1~81號、水汴二路、新南路二段、和愛街、有恆街",
+      "interval_from" : "2013-09-24T10:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "330桃園縣桃園市",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "03 3346128~9"
+   },
+   {
+      "area" : "【區域1】新北市泰山區應化街;中港南路;壽山路",
+      "interval_from" : "2013-09-28T04:00+08",
+      "interval_until" : "2013-09-29T02:00+08",
+      "publish_area" : "243新北市泰山區",
+      "publish_duration" : "2013-09-24/2013-09-30",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-30",
+      "telephone" : "29097480"
+   },
+   {
+      "area" : "【區域1】花蓮縣鳳林鎮林榮里",
+      "interval_from" : "2013-09-24T11:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "975花蓮縣鳳林鎮",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "038762058"
+   },
+   {
+      "area" : "【區域1】新北市土城區清水路168-280號含巷弄",
+      "interval_comment" : "上午9點至下午6點",
+      "interval_from" : "2013-09-17T09:00+08",
+      "interval_until" : "2013-09-25T18:00+08",
+      "publish_area" : "236新北市土城區",
+      "publish_duration" : "2013-09-24/2013-09-26",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-26",
+      "telephone" : "02-22655172;02-22655672"
+   },
+   {
+      "area" : "【區域1】花蓮縣花蓮市國富八街;國富三街;國富五街;國富六街;國富七街",
+      "interval_from" : "2013-09-24T13:00+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "970花蓮縣花蓮市",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : ""
+   },
+   {
+      "area" : "【區域1】彰化縣彰化市南郭路",
+      "interval_from" : "2013-09-24T11:30+08",
+      "interval_until" : "2013-09-24T17:00+08",
+      "publish_area" : "500彰化縣彰化市",
+      "publish_duration" : "2013-09-24/2013-09-25",
+      "publish_from" : "2013-09-24",
+      "publish_until" : "2013-09-25",
+      "telephone" : "04-7353883"
    }
 ]
