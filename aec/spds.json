@@ -1,15 +1,15 @@
 [
    {
       "ratio" : 100,
-      "localtime" : "2013-10-05T17:11:33+08",
+      "localtime" : "2013-10-05T17:12:33+08",
       "status" : 0,
       "status_text" : "發電運轉",
-      "power" : 648,
+      "power" : 649,
       "machine" : "核一廠一號機"
    },
    {
       "ratio" : 100,
-      "localtime" : "2013-10-05T17:11:33+08",
+      "localtime" : "2013-10-05T17:12:33+08",
       "status" : 0,
       "status_text" : "發電運轉",
       "power" : 654,
@@ -17,34 +17,34 @@
    },
    {
       "ratio" : 100,
-      "localtime" : "2013-10-05T17:11:33+08",
+      "localtime" : "2013-10-05T17:12:33+08",
       "status" : 0,
       "status_text" : "發電運轉",
-      "power" : 1000,
+      "power" : 1005,
       "machine" : "核二廠一號機"
    },
    {
       "ratio" : 100,
-      "localtime" : "2013-10-05T17:11:33+08",
+      "localtime" : "2013-10-05T17:12:33+08",
       "status" : 0,
       "status_text" : "發電運轉",
-      "power" : 1013,
+      "power" : 1016,
       "machine" : "核二廠二號機"
    },
    {
       "ratio" : 100,
-      "localtime" : "2013-10-05T17:11:33+08",
+      "localtime" : "2013-10-05T17:12:33+08",
       "status" : 0,
       "status_text" : "發電運轉",
-      "power" : 972,
+      "power" : 975,
       "machine" : "核三廠一號機"
    },
    {
       "ratio" : 100,
-      "localtime" : "2013-10-05T17:11:33+08",
+      "localtime" : "2013-10-05T17:12:33+08",
       "status" : 0,
       "status_text" : "發電運轉",
-      "power" : 970,
+      "power" : 972,
       "machine" : "核三廠二號機"
    }
 ]
