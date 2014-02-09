@@ -2144,11 +2144,11 @@
             "title" : "計費方式"
          },
          {
-            "description" : "UTF-8;",
+            "description" : "Unicode;",
             "title" : "編碼格式"
          },
          {
-            "description" : "呂小姐",
+            "description" : "周小姐",
             "title" : "資料集提供機關聯絡人"
          },
          {
@@ -2161,7 +2161,7 @@
          }
       ],
       "link" : {
-         "csv" : "http://event.motc.gov.tw/uploaddowndoc?file=opendata/201308061439500.zip&filedisplay=%E5%B0%8F%E5%AE%A2%E8%B2%A8%E8%BB%8A%E7%A7%9F%E8%B3%83%E7%87%9F%E9%81%8B%E7%8B%80%E6%B3%81%E8%AA%BF%E6%9F%A5.zip&flag=doc"
+         "csv" : "http://event.motc.gov.tw/uploaddowndoc?file=opendata/201402051144560.zip&filedisplay=101%E5%B9%B4%E5%B0%8F%E5%AE%A2%E8%B2%A8%E7%A7%9F%E8%B3%83%E8%AA%BF%E6%9F%A5.zip&flag=doc"
       },
       "title" : "小客貨車租賃業營運狀況調查資料"
    },
@@ -17232,7 +17232,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "「廳名稱」、「電話」、「住址」  ",
+            "description" : "主要欄位有「廳名稱」、「電話」、「住址」  ",
             "title" : "主要欄位說明"
          },
          {
@@ -17289,7 +17289,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "「年度」、「性別」、「人數」、「百分比」",
+            "description" : "主要欄位有「年度」、「女性人數」、「女性人數百分比」、「男性人數」、「男性人數百分比」、「總計」  ",
             "title" : "主要欄位說明"
          },
          {
@@ -17389,7 +17389,7 @@
       "link" : {
          "csv" : "http://www.hakka.gov.tw/public/opendata/Hakka-composer.csv"
       },
-      "title" : "台灣客籍作曲家"
+      "title" : "台灣客籍作曲家-X"
    },
    {
       "_detail" : "",
@@ -17435,7 +17435,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#734",
+            "description" : "02-8512-8554",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -17460,7 +17460,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "「名稱」、「古蹟及歷史建築種類」、「所有權屬」、「文化資產清冊名稱」、「文化資產清冊類別」、「文化資產清冊主管機關」、「文化資產清冊公告文號」、「文化資產清冊公告時間」",
+            "description" : "主要欄位有「名稱」、「古蹟及歷史建築種類」、「所有權屬」、「名稱」、「類別」、「主管機關」、「公告文號」、「公告時間」",
             "title" : "主要欄位說明"
          },
          {
@@ -17517,7 +17517,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "「菜餚名稱」、「創作者」、「菜餚特色」  ",
+            "description" : "主要欄位有「菜餚名稱」、「創作者」、「菜餚特色」、「連結網址」  ",
             "title" : "主要欄位說明"
          },
          {
@@ -17574,7 +17574,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "校名、學院、系所、研究中心、聯絡電話、地址、網址",
+            "description" : "「校名」、「學院」、「系所」、「研究中心」、「聯絡電話」、「地址」、「網址」",
             "title" : "主要欄位說明"
          },
          {
@@ -17606,7 +17606,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#812",
+            "description" : "02-8512-8517",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -17663,7 +17663,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#761",
+            "description" : "02-8512-8534",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -17720,7 +17720,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#761",
+            "description" : "02-8512-8534",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -17745,7 +17745,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "「唱片公司」、「唱片編號」、「類別曲種」、「曲目」、「表演者」、「備註」",
+            "description" : "主要欄位有「唱片公司」、「唱片編號」、「類別曲種」、「曲目」、「表演者」、「備註」",
             "title" : "主要欄位說明"
          },
          {
@@ -17834,7 +17834,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#734",
+            "description" : "02-8512-8554",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -17859,7 +17859,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "主要欄位有「節目名稱」、「節目介紹」、「主持人介紹」。",
+            "description" : "主要欄位有「節目名稱」、「節目介紹」、「主持人」、「主持人介紹」。",
             "title" : "主要欄位說明"
          },
          {
@@ -17891,7 +17891,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#768",
+            "description" : "02-8512-8533",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -17916,7 +17916,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "「社團名稱」、「負責人」、「社團性質」  ",
+            "description" : "主要欄位有「社團名稱」、「負責人」、「社團性質」  ",
             "title" : "主要欄位說明"
          },
          {
@@ -18016,7 +18016,7 @@
       "link" : {
          "csv" : "http://www.hakka.gov.tw/public/opendata/Hakka-musicians.csv"
       },
-      "title" : "客家音樂工作者"
+      "title" : "客家音樂工作者-X"
    },
    {
       "_detail" : "",
@@ -18030,7 +18030,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "「縣市」、「鄉鎮」、「景點名稱」、「景點介紹」  ",
+            "description" : "主要欄位有「縣市」、「鄉鎮」、「景點名稱」、「景點介紹」、「地址」、「連結網址」",
             "title" : "主要欄位說明"
          },
          {
@@ -18119,7 +18119,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#734",
+            "description" : "02-8512-8554",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -18176,7 +18176,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#734",
+            "description" : "02-8512-8554",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -18233,7 +18233,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#730",
+            "description" : "02-8512-8549",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -18258,7 +18258,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "「年度」、「項目」、「性別」、「人數」、「百分比」",
+            "description" : "主要欄位有「年度」、「報名者/通過者」、「女性人數」、「女性人數百分比」、「男性人數」、「男性人數百分比」、「總計」",
             "title" : "主要欄位說明"
          },
          {
@@ -18347,7 +18347,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#720",
+            "description" : "02-8512-8548",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -18404,7 +18404,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#734",
+            "description" : "02-8512-8554",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -18461,7 +18461,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#734",
+            "description" : "02-8512-8554",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -18486,7 +18486,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "名稱、郵遞區號、地址、緯度、經度、景點特色、電話、大眾運輸、自行開車、營業時間、最低消費/入場費",
+            "description" : "「名稱」、「郵遞區號」、「地址」、「緯度」、「經度」、「景點特色」、「電話」、「大眾運輸」、「自行開車」、「營業時間」、「最低消費/入場費」",
             "title" : "主要欄位說明"
          },
          {
@@ -18518,7 +18518,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#743",
+            "description" : "02-8512-8541",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -18586,7 +18586,7 @@
       "link" : {
          "csv" : "http://www.hakka.gov.tw/public/opendata/Grants-acad-gen.csv"
       },
-      "title" : "獎助客家學術研究性別統計"
+      "title" : "獎助客家學術研究性別統計-X"
    },
    {
       "_detail" : "",
@@ -18643,7 +18643,7 @@
       "link" : {
          "csv" : "http://www.hakka.gov.tw/public/opendata/Grants-dis-gen.csv"
       },
-      "title" : "獎助客家研究優良博碩士論文性別統計"
+      "title" : "獎助客家研究優良博碩士論文性別統計-X"
    },
    {
       "_detail" : "",
@@ -18700,7 +18700,7 @@
       "link" : {
          "csv" : "http://www.hakka.gov.tw/public/opendata/Natural-Land.csv"
       },
-      "title" : "自然地景"
+      "title" : "自然地景-X"
    },
    {
       "_detail" : "",
@@ -18746,7 +18746,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-87894567#734",
+            "description" : "02-8512-8554",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -18869,7 +18869,7 @@
          }
       ],
       "link" : {
-         "csv" : "http://www.sa.gov.tw/weblink/亞奧院運單項協會.csv"
+         "csv" : "http://www.sa.gov.tw/wSite/public/Data/f1391757151603.csv"
       },
       "title" : "亞奧運單項協會名錄"
    },
@@ -18983,7 +18983,7 @@
          }
       ],
       "link" : {
-         "csv" : "http://www.sa.gov.tw/weblink/各縣市體育會.csv"
+         "csv" : "http://www.sa.gov.tw/wSite/public/Data/f1391757168670.csv"
       },
       "title" : "各縣市體育會名錄"
    },
@@ -20980,7 +20980,7 @@
          }
       ],
       "link" : {
-         "csv" : "http://www.sa.gov.tw/resource/WebData/2033_1_2013_10_14_%e5%8e%9f%e4%bd%8f%e6%b0%91%e9%81%8b%e5%8b%95%e6%9c%83%e6%ad%b7%e5%b1%86%e8%b3%87%e6%96%99.rar"
+         "csv" : "http://www.sa.gov.tw/wSite/public/Data/f1391757090180.csv"
       },
       "title" : "歷屆原住民運動會資料"
    },
@@ -21151,7 +21151,7 @@
          }
       ],
       "link" : {
-         "csv" : "http://www.sa.gov.tw/weblink/體育基金會-資料集.csv"
+         "csv" : "http://www.sa.gov.tw/wSite/public/Data/f1391757134228.csv"
       },
       "title" : "財團法人體育基金會名錄"
    },
@@ -24433,7 +24433,7 @@
          }
       ],
       "link" : {
-         "csv" : "http://www.mof.gov.tw/public/Attachment/41714484528.csv"
+         "csv" : "http://www.mof.gov.tw/public/Attachment/42617343022.csv"
       },
       "title" : "財政部法規異動表"
    },
@@ -34510,11 +34510,11 @@
             "title" : "編碼格式"
          },
          {
-            "description" : "張先生",
+            "description" : "馮小姐",
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "04-22595700#413",
+            "description" : "04-22500712",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -35882,7 +35882,7 @@
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "02-85902812",
+            "description" : "02-85902801",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
@@ -35935,11 +35935,11 @@
             "title" : "編碼格式"
          },
          {
-            "description" : "張先生",
+            "description" : "馮小姐",
             "title" : "資料集提供機關聯絡人"
          },
          {
-            "description" : "04-22595700#413",
+            "description" : "04-22500712#121",
             "title" : "資料集提供機關聯絡人電話"
          },
          {
