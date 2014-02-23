@@ -6782,7 +6782,6 @@
          }
       ],
       "link" : {
-         "csv" : "http://lvr.land.moi.gov.tw/opendata/lvr_landBcsv.zip",
          "txt" : "http://lvr.land.moi.gov.tw/opendata/lvr_landBtxt.zip",
          "xml" : "http://lvr.land.moi.gov.tw/opendata/lvr_landBxml.zip"
       },
@@ -11474,7 +11473,7 @@
             "title" : "資料集描述"
          },
          {
-            "description" : "日期（西元年月）、\t領先指標綜合指數（數值）、領先指標6個月平滑化年變動率（數值）、同時指標綜合指數（數值）、同時指標循環波動（不含趨勢）（數值）、落後指標綜合指數（數值）、落後指標循環波動（不含趨勢）（數值）、景氣對策信號(分數)、景氣對策信號(燈號)",
+            "description" : "日期（西元年月）、 領先指標綜合指數（數值）、領先指標循環波動（不含趨勢）（數值）、同時指標綜合指數（數值）、同時指標循環波動（不含趨勢）（數值）、落後指標綜合指數（數值）、落後指標循環波動（不含趨勢）（數值）、景氣對策信號(分數)、景氣對策信號(燈號)  ",
             "title" : "主要欄位說明"
          },
          {
@@ -11510,7 +11509,7 @@
             "title" : "資料集提供機關聯絡人電話"
          },
          {
-            "description" : "每月更新，請選擇最新年月之「景氣概況 新聞稿」之「新聞稿附件數列(csv檔案格式)」",
+            "description" : "原則上國發會每月27日下午4:00發布前月景氣指標與對策信號，  以2月為例，2月27日發布1月景氣指標與對策信號。  如果27日為星期六，則會提早一天發布。  如果27日為星期日，則會延後一天發布。",
             "title" : "備註"
          }
       ],
@@ -53512,7 +53511,7 @@
          }
       ],
       "link" : {
-         "csv" : "http://www.nta.gov.tw/_admin/_upload/Announce/3914/file/近一個月公益彩券營業報告書簡表.csv"
+         "csv" : "http://www.nta.gov.tw/_admin/_upload/Announce/6250/file/近一個月公益彩券營業報告書簡表.csv"
       },
       "title" : "公益彩券營業報告書簡表"
    },
@@ -53683,7 +53682,7 @@
          }
       ],
       "link" : {
-         "csv" : "http://www.fnp.gov.tw/Web/Data/main/01-10301.csv"
+         "csv" : "http://www.fnp.gov.tw/Web/Data/main/01-10302.csv"
       },
       "title" : "國有非公用土地提供綠美化資訊公開"
    },
