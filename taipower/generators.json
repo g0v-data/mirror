@@ -2,10 +2,10 @@
    {
       "capacity" : "636.0",
       "device" : "核一#1",
-      "generating" : "621.0",
+      "generating" : "621.9",
       "power_type" : "Nuclear",
-      "ratio" : "97.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "97.8%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "636.0",
@@ -13,15 +13,15 @@
       "generating" : "0.0",
       "power_type" : "Nuclear",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "985.0",
       "device" : "核二#1",
-      "generating" : "985.3",
+      "generating" : "986.6",
       "power_type" : "Nuclear",
-      "ratio" : "100.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "100.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "985.0",
@@ -29,7 +29,7 @@
       "generating" : "990.7",
       "power_type" : "Nuclear",
       "ratio" : "100.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "951.0",
@@ -37,7 +37,7 @@
       "generating" : "941.5",
       "power_type" : "Nuclear",
       "ratio" : "99.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "951.0",
@@ -45,47 +45,47 @@
       "generating" : "0.0",
       "power_type" : "Nuclear",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "300.0",
       "device" : "林口#1",
-      "generating" : "186.1",
+      "generating" : "184.2",
       "power_type" : "Coal",
-      "ratio" : "62.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "61.4%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "300.0",
       "device" : "林口#2",
-      "generating" : "246.9",
+      "generating" : "247.3",
       "power_type" : "Coal",
-      "ratio" : "82.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "82.4%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#1",
-      "generating" : "527.3",
+      "generating" : "524.3",
       "power_type" : "Coal",
-      "ratio" : "95.9%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "95.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#2",
-      "generating" : "525.1",
+      "generating" : "522.8",
       "power_type" : "Coal",
-      "ratio" : "95.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "95.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#3",
-      "generating" : "537.2",
+      "generating" : "533.8",
       "power_type" : "Coal",
-      "ratio" : "97.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "97.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
@@ -93,111 +93,111 @@
       "generating" : "0.0",
       "power_type" : "Coal",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#5",
-      "generating" : "542.8",
+      "generating" : "538.9",
       "power_type" : "Coal",
-      "ratio" : "98.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "98.0%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#6",
-      "generating" : "531.6",
+      "generating" : "525.4",
       "power_type" : "Coal",
-      "ratio" : "96.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "95.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#7",
-      "generating" : "529.6",
+      "generating" : "526.5",
       "power_type" : "Coal",
-      "ratio" : "96.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "95.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#8",
-      "generating" : "535.4",
+      "generating" : "532.9",
       "power_type" : "Coal",
-      "ratio" : "97.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "96.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#9",
-      "generating" : "520.4",
+      "generating" : "518.8",
       "power_type" : "Coal",
-      "ratio" : "94.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "94.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "台中#10",
-      "generating" : "530.1",
+      "generating" : "529.0",
       "power_type" : "Coal",
-      "ratio" : "96.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "96.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "500.0",
       "device" : "興達#1",
-      "generating" : "480.9",
+      "generating" : "483.4",
       "power_type" : "Coal",
-      "ratio" : "96.2%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "96.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "500.0",
       "device" : "興達#2",
-      "generating" : "479.0",
+      "generating" : "484.1",
       "power_type" : "Coal",
-      "ratio" : "95.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "96.8%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "興達#3",
-      "generating" : "528.3",
+      "generating" : "522.1",
       "power_type" : "Coal",
-      "ratio" : "96.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "94.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "興達#4",
-      "generating" : "500.9",
+      "generating" : "502.4",
       "power_type" : "Coal",
-      "ratio" : "91.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "91.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "622.1",
       "device" : "汽電共生",
-      "generating" : "1393.5",
+      "generating" : "1526.9",
       "power_type" : "Co-Gen",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "648.6",
       "device" : "和平#1",
-      "generating" : "605.1",
+      "generating" : "619.5",
       "power_type" : "IPP-Coal",
-      "ratio" : "93.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "95.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "648.6",
       "device" : "和平#2",
-      "generating" : "605.2",
+      "generating" : "606.5",
       "power_type" : "IPP-Coal",
-      "ratio" : "93.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "93.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "600.0",
@@ -205,111 +205,111 @@
       "generating" : "0.0",
       "power_type" : "IPP-Coal",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "600.0",
       "device" : "麥寮#2",
-      "generating" : "572.6",
+      "generating" : "569.6",
       "power_type" : "IPP-Coal",
-      "ratio" : "95.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "94.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "600.0",
       "device" : "麥寮#3",
-      "generating" : "575.6",
+      "generating" : "572.5",
       "power_type" : "IPP-Coal",
-      "ratio" : "95.9%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "95.4%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "742.7",
       "device" : "大潭CC#1",
-      "generating" : "491.2",
+      "generating" : "538.6",
       "power_type" : "LNG",
-      "ratio" : "66.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "72.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "742.7",
       "device" : "大潭CC#2",
-      "generating" : "232.1",
+      "generating" : "230.9",
       "power_type" : "LNG",
-      "ratio" : "31.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "31.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "724.7",
       "device" : "大潭CC#3",
-      "generating" : "391.1",
+      "generating" : "386.7",
       "power_type" : "LNG",
-      "ratio" : "54.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "53.4%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "724.7",
       "device" : "大潭CC#4",
-      "generating" : "530.4",
+      "generating" : "653.7",
       "power_type" : "LNG",
-      "ratio" : "73.2%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "90.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "724.7",
       "device" : "大潭CC#5",
-      "generating" : "275.8",
+      "generating" : "326.9",
       "power_type" : "LNG",
-      "ratio" : "38.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "45.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "724.7",
       "device" : "大潭CC#6",
-      "generating" : "387.5",
+      "generating" : "383.5",
       "power_type" : "LNG",
-      "ratio" : "53.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "52.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "258.5",
       "device" : "通霄CC#1",
-      "generating" : "221.2",
+      "generating" : "221.0",
       "power_type" : "LNG",
-      "ratio" : "85.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "85.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "258.5",
       "device" : "通霄CC#2",
-      "generating" : "239.4",
+      "generating" : "239.7",
       "power_type" : "LNG",
-      "ratio" : "92.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "92.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "246.8",
       "device" : "通霄CC#3",
-      "generating" : "216.8",
+      "generating" : "217.0",
       "power_type" : "LNG",
-      "ratio" : "87.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "87.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "358.0",
       "device" : "通霄CC#4",
-      "generating" : "304.1",
+      "generating" : "304.5",
       "power_type" : "LNG",
-      "ratio" : "84.9%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "85.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "386.0",
       "device" : "通霄CC#5",
-      "generating" : "309.7",
+      "generating" : "310.6",
       "power_type" : "LNG",
-      "ratio" : "80.2%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "80.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "321.2",
@@ -317,15 +317,15 @@
       "generating" : "0.0",
       "power_type" : "LNG",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "445.2",
       "device" : "興達CC#1",
-      "generating" : "238.0",
+      "generating" : "236.0",
       "power_type" : "LNG",
-      "ratio" : "53.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "53.0%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "445.2",
@@ -333,87 +333,87 @@
       "generating" : "132.4",
       "power_type" : "LNG",
       "ratio" : "29.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "445.2",
       "device" : "興達CC#3",
-      "generating" : "232.7",
+      "generating" : "228.6",
       "power_type" : "LNG",
-      "ratio" : "52.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "51.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "445.2",
       "device" : "興達CC#4",
-      "generating" : "232.9",
+      "generating" : "230.2",
       "power_type" : "LNG",
-      "ratio" : "52.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "51.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "445.2",
       "device" : "興達CC#5",
-      "generating" : "229.1",
+      "generating" : "226.4",
       "power_type" : "LNG",
-      "ratio" : "51.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "50.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "288.8",
       "device" : "南部CC#1",
-      "generating" : "121.5",
+      "generating" : "119.4",
       "power_type" : "LNG",
-      "ratio" : "42.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "41.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "288.8",
       "device" : "南部CC#2",
-      "generating" : "233.3",
+      "generating" : "219.5",
       "power_type" : "LNG",
-      "ratio" : "80.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "76.0%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "288.8",
       "device" : "南部CC#3",
-      "generating" : "222.7",
+      "generating" : "224.5",
       "power_type" : "LNG",
-      "ratio" : "77.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "77.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "251.4",
       "device" : "南部CC#4",
-      "generating" : "224.9",
+      "generating" : "228.7",
       "power_type" : "LNG",
-      "ratio" : "89.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "91.0%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "500.0",
       "device" : "大林#5",
-      "generating" : "148.1",
+      "generating" : "145.5",
       "power_type" : "LNG",
-      "ratio" : "29.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "29.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "550.0",
       "device" : "大林#6",
-      "generating" : "168.6",
+      "generating" : "167.8",
       "power_type" : "LNG",
-      "ratio" : "30.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "30.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "450.0",
       "device" : "海湖#1",
-      "generating" : "83.1",
+      "generating" : "223.0",
       "power_type" : "IPP-LNG",
-      "ratio" : "18.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "49.6%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "450.0",
@@ -421,31 +421,31 @@
       "generating" : "0.0",
       "power_type" : "IPP-LNG",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "600.0",
       "device" : "新桃#1",
-      "generating" : "52.7",
+      "generating" : "52.2",
       "power_type" : "IPP-LNG",
-      "ratio" : "8.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "8.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "480.0",
       "device" : "國光#1",
-      "generating" : "387.8",
+      "generating" : "387.6",
       "power_type" : "IPP-LNG",
       "ratio" : "80.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "490.0",
       "device" : "星彰#1",
-      "generating" : "215.3",
+      "generating" : "226.3",
       "power_type" : "IPP-LNG",
-      "ratio" : "43.9%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "46.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "490.0",
@@ -453,7 +453,7 @@
       "generating" : "0.0",
       "power_type" : "IPP-LNG",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "670.0",
@@ -461,15 +461,15 @@
       "generating" : "8.9",
       "power_type" : "IPP-LNG",
       "ratio" : "1.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "490.0",
       "device" : "豐德#1",
-      "generating" : "81.9",
+      "generating" : "157.7",
       "power_type" : "IPP-LNG",
-      "ratio" : "16.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "32.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "490.0",
@@ -477,23 +477,23 @@
       "generating" : "0.0",
       "power_type" : "IPP-LNG",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "500.0",
       "device" : "協和#1",
-      "generating" : "146.8",
+      "generating" : "146.1",
       "power_type" : "Oil",
-      "ratio" : "29.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "29.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "500.0",
       "device" : "協和#2",
-      "generating" : "156.2",
+      "generating" : "151.7",
       "power_type" : "Oil",
-      "ratio" : "31.2%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "30.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "500.0",
@@ -501,15 +501,15 @@
       "generating" : "0.0",
       "power_type" : "Oil",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "500.0",
       "device" : "協和#4",
-      "generating" : "147.4",
+      "generating" : "146.1",
       "power_type" : "Oil",
-      "ratio" : "29.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "29.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "375.0",
@@ -517,7 +517,7 @@
       "generating" : "0.0",
       "power_type" : "Oil",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "375.0",
@@ -525,7 +525,7 @@
       "generating" : "0.0",
       "power_type" : "Oil",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
@@ -533,7 +533,7 @@
       "generating" : "0.0",
       "power_type" : "Diesel",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
@@ -541,7 +541,7 @@
       "generating" : "0.0",
       "power_type" : "Diesel",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
@@ -549,7 +549,7 @@
       "generating" : "0.0",
       "power_type" : "Diesel",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
@@ -557,7 +557,7 @@
       "generating" : "0.0",
       "power_type" : "Diesel",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
@@ -565,7 +565,7 @@
       "generating" : "0.0",
       "power_type" : "Diesel",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "140.0",
@@ -573,7 +573,7 @@
       "generating" : "0.0",
       "power_type" : "Diesel",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "140.0",
@@ -581,7 +581,7 @@
       "generating" : "0.0",
       "power_type" : "Diesel",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "295.4",
@@ -589,7 +589,7 @@
       "generating" : "75.0",
       "power_type" : "Diesel",
       "ratio" : "25.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "78.0",
@@ -597,7 +597,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "78.0",
@@ -605,7 +605,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "78.0",
@@ -613,7 +613,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "90.0",
@@ -621,7 +621,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "90.0",
@@ -629,7 +629,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "90.0",
@@ -637,7 +637,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "90.0",
@@ -645,7 +645,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "54.4",
@@ -653,15 +653,15 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "54.4",
       "device" : "谷關#2",
-      "generating" : "26.7",
+      "generating" : "26.4",
       "power_type" : "Hydro",
-      "ratio" : "49.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "48.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "54.4",
@@ -669,7 +669,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "54.4",
@@ -677,7 +677,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.5",
@@ -685,7 +685,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.5",
@@ -693,7 +693,7 @@
       "generating" : "18.1",
       "power_type" : "Hydro",
       "ratio" : "80.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.5",
@@ -701,7 +701,7 @@
       "generating" : "18.1",
       "power_type" : "Hydro",
       "ratio" : "80.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.5",
@@ -709,7 +709,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "105.0",
@@ -717,7 +717,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "66.7",
@@ -725,23 +725,23 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "66.7",
       "device" : "馬鞍#2",
-      "generating" : "27.8",
+      "generating" : "27.5",
       "power_type" : "Hydro",
-      "ratio" : "41.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "41.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "40.0",
       "device" : "卓蘭#1",
-      "generating" : "39.0",
+      "generating" : "39.9",
       "power_type" : "Hydro",
-      "ratio" : "97.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "99.8%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "40.0",
@@ -749,7 +749,7 @@
       "generating" : "39.8",
       "power_type" : "Hydro",
       "ratio" : "99.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "10.4",
@@ -757,23 +757,23 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "10.4",
       "device" : "萬大#2",
-      "generating" : "5.8",
+      "generating" : "8.5",
       "power_type" : "Hydro",
-      "ratio" : "56.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "82.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "15.3",
       "device" : "萬大#3",
-      "generating" : "8.2",
+      "generating" : "8.8",
       "power_type" : "Hydro",
-      "ratio" : "53.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "57.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "19.7",
@@ -781,55 +781,55 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "20.9",
       "device" : "松林#1&2",
-      "generating" : "2.8",
+      "generating" : "7.3",
       "power_type" : "Hydro",
-      "ratio" : "13.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "34.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.0",
       "device" : "大觀一#1",
-      "generating" : "5.0",
+      "generating" : "2.1",
       "power_type" : "Hydro",
-      "ratio" : "22.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "9.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.0",
       "device" : "大觀一#2",
-      "generating" : "4.5",
+      "generating" : "3.0",
       "power_type" : "Hydro",
-      "ratio" : "20.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "13.6%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.0",
       "device" : "大觀一#3",
-      "generating" : "3.8",
+      "generating" : "3.2",
       "power_type" : "Hydro",
-      "ratio" : "17.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "14.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.0",
       "device" : "大觀一#4",
-      "generating" : "4.1",
+      "generating" : "3.0",
       "power_type" : "Hydro",
-      "ratio" : "18.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "13.6%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "22.0",
       "device" : "大觀一#5",
-      "generating" : "4.9",
+      "generating" : "2.9",
       "power_type" : "Hydro",
-      "ratio" : "22.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "13.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "21.8",
@@ -837,7 +837,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "21.8",
@@ -845,7 +845,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "12.8",
@@ -853,39 +853,39 @@
       "generating" : "1.4",
       "power_type" : "Hydro",
       "ratio" : "11.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "32.0",
       "device" : "立霧#1&#2",
-      "generating" : "17.3",
+      "generating" : "17.4",
       "power_type" : "Hydro",
-      "ratio" : "54.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "54.4%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "48.6",
       "device" : "龍澗#1",
-      "generating" : "31.7",
+      "generating" : "31.5",
       "power_type" : "Hydro",
-      "ratio" : "65.2%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "64.8%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "48.6",
       "device" : "龍澗#2",
-      "generating" : "47.7",
+      "generating" : "47.8",
       "power_type" : "Hydro",
-      "ratio" : "98.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "98.4%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "61.2",
       "device" : "碧海#1",
-      "generating" : "16.2",
+      "generating" : "16.1",
       "power_type" : "Hydro",
-      "ratio" : "26.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "26.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "35.5",
@@ -893,7 +893,7 @@
       "generating" : "22.6",
       "power_type" : "Hydro",
       "ratio" : "63.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "31.6",
@@ -901,7 +901,7 @@
       "generating" : "20.0",
       "power_type" : "Hydro",
       "ratio" : "63.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "9.8",
@@ -909,7 +909,7 @@
       "generating" : "3.0",
       "power_type" : "Hydro",
       "ratio" : "30.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "7.2",
@@ -917,15 +917,15 @@
       "generating" : "3.0",
       "power_type" : "Hydro",
       "ratio" : "41.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "54.6",
       "device" : "東部小水力(註6)",
-      "generating" : "38.0",
+      "generating" : "38.3",
       "power_type" : "Hydro",
-      "ratio" : "69.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "70.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "70.0",
@@ -933,7 +933,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "45.0",
@@ -941,7 +941,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "45.0",
@@ -949,7 +949,7 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "50.0",
@@ -957,15 +957,15 @@
       "generating" : "0.0",
       "power_type" : "Hydro",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "40.0",
       "device" : "義興#1",
-      "generating" : "31.4",
+      "generating" : "32.1",
       "power_type" : "Hydro",
-      "ratio" : "78.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "80.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "16.7",
@@ -973,15 +973,15 @@
       "generating" : "5.7",
       "power_type" : "Hydro",
       "ratio" : "34.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "20.3",
       "device" : "嘉南西口&嘉南烏山頭",
-      "generating" : "0.0",
+      "generating" : "0.1",
       "power_type" : "Hydro",
-      "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "0.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.1",
@@ -989,7 +989,7 @@
       "generating" : "N/A",
       "power_type" : "Hydro",
       "ratio" : "N/A",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "2.0",
@@ -997,111 +997,111 @@
       "generating" : "1.6",
       "power_type" : "Hydro",
       "ratio" : "80.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "4.0",
       "device" : "石門",
-      "generating" : "2.5",
+      "generating" : "1.9",
       "power_type" : "Wind",
-      "ratio" : "62.9%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "46.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "6.0",
       "device" : "林口",
-      "generating" : "6.0",
+      "generating" : "5.8",
       "power_type" : "Wind",
-      "ratio" : "100.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "96.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "15.1",
       "device" : "大潭",
       "generating" : "10.2",
       "power_type" : "Wind",
-      "ratio" : "67.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "67.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "30.0",
       "device" : "觀園",
       "generating" : "25.3",
       "power_type" : "Wind",
-      "ratio" : "84.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "84.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "12.0",
       "device" : "香山",
-      "generating" : "6.3",
+      "generating" : "6.9",
       "power_type" : "Wind",
-      "ratio" : "52.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "57.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "6.0",
       "device" : "中火",
-      "generating" : "0.9",
+      "generating" : "1.4",
       "power_type" : "Wind",
-      "ratio" : "14.9%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "23.6%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "36.0",
       "device" : "中港",
-      "generating" : "5.9",
+      "generating" : "5.7",
       "power_type" : "Wind",
-      "ratio" : "16.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "15.8%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "23.0",
       "device" : "王功",
-      "generating" : "23.6",
+      "generating" : "23.5",
       "power_type" : "Wind",
-      "ratio" : "102.5%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "102.0%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "62.0",
       "device" : "彰工",
-      "generating" : "57.2",
+      "generating" : "58.5",
       "power_type" : "Wind",
-      "ratio" : "92.2%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "94.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "46.0",
       "device" : "麥寮",
-      "generating" : "41.6",
+      "generating" : "44.0",
       "power_type" : "Wind",
-      "ratio" : "90.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "95.6%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "28.0",
       "device" : "四湖",
-      "generating" : "21.0",
+      "generating" : "17.1",
       "power_type" : "Wind",
-      "ratio" : "74.9%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "61.0%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "4.5",
       "device" : "恆春",
       "generating" : "0.2",
       "power_type" : "Wind",
-      "ratio" : "4.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "4.4%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "4.8",
       "device" : "澎湖中屯",
       "generating" : "3.9",
       "power_type" : "Wind",
-      "ratio" : "81.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "81.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "4.0",
@@ -1109,15 +1109,15 @@
       "generating" : "4.0",
       "power_type" : "Wind",
       "ratio" : "100.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "5.4",
       "device" : "澎湖湖西",
       "generating" : "5.5",
       "power_type" : "Wind",
-      "ratio" : "101.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "102.6%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "55.2",
@@ -1125,55 +1125,55 @@
       "generating" : "33.0",
       "power_type" : "Wind",
       "ratio" : "59.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "41.4",
       "device" : "鹿威鹿港",
-      "generating" : "33.0",
+      "generating" : "34.4",
       "power_type" : "Wind",
-      "ratio" : "79.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "83.1%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "48.3",
       "device" : "觀威觀音&桃威觀屋",
-      "generating" : "35.8",
+      "generating" : "41.4",
       "power_type" : "Wind",
-      "ratio" : "74.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "85.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "75.9",
       "device" : "中威大安",
-      "generating" : "38.0",
+      "generating" : "35.9",
       "power_type" : "Wind",
-      "ratio" : "50.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "47.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "6.9",
       "device" : "崎威崎頂",
-      "generating" : "1.8",
+      "generating" : "1.5",
       "power_type" : "Wind",
-      "ratio" : "26.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "21.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "11.5",
       "device" : "豐威新豐",
-      "generating" : "5.7",
+      "generating" : "4.8",
       "power_type" : "Wind",
-      "ratio" : "49.6%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "41.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "34.0",
       "device" : "龍威後龍",
-      "generating" : "26.2",
+      "generating" : "28.8",
       "power_type" : "Wind",
-      "ratio" : "77.1%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "84.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "16.1",
@@ -1181,7 +1181,7 @@
       "generating" : "N/A",
       "power_type" : "Wind",
       "ratio" : "N/A",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.5",
@@ -1189,7 +1189,7 @@
       "generating" : "0.000",
       "power_type" : "Solar",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "1.5",
@@ -1197,31 +1197,31 @@
       "generating" : "0.000",
       "power_type" : "Solar",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "1.0",
       "device" : "興達",
-      "generating" : "0.002",
+      "generating" : "0.005",
       "power_type" : "Solar",
-      "ratio" : "0.2%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "0.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.1",
       "device" : "民雄",
-      "generating" : "0.000",
+      "generating" : "0.002",
       "power_type" : "Solar",
-      "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "3.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.1",
       "device" : "中部儲運",
-      "generating" : "0.003",
+      "generating" : "0.002",
       "power_type" : "Solar",
-      "ratio" : "3.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "2.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.1",
@@ -1229,23 +1229,23 @@
       "generating" : "0.004",
       "power_type" : "Solar",
       "ratio" : "3.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "4.6",
       "device" : "永安鹽灘",
-      "generating" : "0.201",
+      "generating" : "0.450",
       "power_type" : "Solar",
-      "ratio" : "4.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "9.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.1",
       "device" : "路北",
-      "generating" : "0.000",
+      "generating" : "0.005",
       "power_type" : "Solar",
-      "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "8.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.0",
@@ -1253,47 +1253,47 @@
       "generating" : "0.002",
       "power_type" : "Solar",
       "ratio" : "5.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.6",
       "device" : "大潭",
-      "generating" : "0.051",
+      "generating" : "0.045",
       "power_type" : "Solar",
-      "ratio" : "7.8%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "6.9%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "1.5",
       "device" : "核三廠",
-      "generating" : "0.495",
+      "generating" : "0.236",
       "power_type" : "Solar",
-      "ratio" : "33.9%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "16.2%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.2",
       "device" : "七美",
-      "generating" : "0.025",
+      "generating" : "0.038",
       "power_type" : "Solar",
-      "ratio" : "16.7%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "25.3%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.1",
       "device" : "尖山",
-      "generating" : "0.008",
+      "generating" : "0.018",
       "power_type" : "Solar",
-      "ratio" : "11.4%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "25.7%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.0",
       "device" : "卓蘭",
-      "generating" : "0.000",
+      "generating" : "0.001",
       "power_type" : "Solar",
-      "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "ratio" : "2.5%",
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "0.1",
@@ -1301,7 +1301,7 @@
       "generating" : "0.003",
       "power_type" : "Solar",
       "ratio" : "3.3%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "307.8",
@@ -1309,7 +1309,7 @@
       "generating" : "N/A",
       "power_type" : "Solar",
       "ratio" : "N/A",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "250.0",
@@ -1317,7 +1317,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "250.0",
@@ -1325,7 +1325,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "250.0",
@@ -1333,7 +1333,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "250.0",
@@ -1341,7 +1341,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "267.0",
@@ -1349,7 +1349,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "267.0",
@@ -1357,7 +1357,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "267.0",
@@ -1365,7 +1365,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "267.0",
@@ -1373,7 +1373,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "267.0",
@@ -1381,7 +1381,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "267.0",
@@ -1389,23 +1389,23 @@
       "generating" : "0.0",
       "power_type" : "Pumping Gen",
       "ratio" : "0.0%",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
       "device" : "大觀二#1",
-      "generating" : "-231.7",
+      "generating" : "0.0",
       "power_type" : "Pumping Load",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
       "device" : "大觀二#2",
-      "generating" : "-233.5",
+      "generating" : "0.0",
       "power_type" : "Pumping Load",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
@@ -1413,7 +1413,7 @@
       "generating" : "0.0",
       "power_type" : "Pumping Load",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
@@ -1421,47 +1421,47 @@
       "generating" : "0.0",
       "power_type" : "Pumping Load",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
       "device" : "明潭#1",
-      "generating" : "-260.7",
+      "generating" : "-236.8",
       "power_type" : "Pumping Load",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
       "device" : "明潭#2",
+      "generating" : "0.0",
+      "power_type" : "Pumping Load",
+      "ratio" : "-",
+      "updated_at" : "2014-05-05T08:00+08"
+   },
+   {
+      "capacity" : "-",
+      "device" : "明潭#3",
+      "generating" : "0.0",
+      "power_type" : "Pumping Load",
+      "ratio" : "-",
+      "updated_at" : "2014-05-05T08:00+08"
+   },
+   {
+      "capacity" : "-",
+      "device" : "明潭#4",
       "generating" : "-256.0",
       "power_type" : "Pumping Load",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
-   },
-   {
-      "capacity" : "-",
-      "device" : "明潭#3",
-      "generating" : "0.0",
-      "power_type" : "Pumping Load",
-      "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
-   },
-   {
-      "capacity" : "-",
-      "device" : "明潭#4",
-      "generating" : "-255.0",
-      "power_type" : "Pumping Load",
-      "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
       "device" : "明潭#5",
-      "generating" : "-258.3",
+      "generating" : "-258.0",
       "power_type" : "Pumping Load",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    },
    {
       "capacity" : "-",
@@ -1469,6 +1469,6 @@
       "generating" : "0.0",
       "power_type" : "Pumping Load",
       "ratio" : "-",
-      "updated_at" : "2014-05-05T07:50+08"
+      "updated_at" : "2014-05-05T08:00+08"
    }
 ]
