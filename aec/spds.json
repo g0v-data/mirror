@@ -1,50 +1,50 @@
 [
    {
+      "status" : 0,
       "machine" : "核一廠一號機",
-      "status_text" : "發電運轉",
-      "status" : 0,
+      "ratio" : 100,
+      "localtime" : "2014-05-15T21:00:07+08",
       "power" : 648,
-      "localtime" : "2014-05-15T20:59:07+08",
-      "ratio" : 100
-   },
-   {
-      "machine" : "核一廠二號機",
-      "status_text" : "機組大修",
-      "status" : 1,
-      "power" : 0,
-      "localtime" : "2014-05-15T20:59:07+08",
-      "ratio" : 0
-   },
-   {
-      "ratio" : 100,
-      "localtime" : "2014-05-15T20:59:07+08",
-      "status" : 0,
-      "power" : 1017,
-      "status_text" : "發電運轉",
-      "machine" : "核二廠一號機"
-   },
-   {
-      "machine" : "核二廠二號機",
-      "status_text" : "發電運轉",
-      "power" : 1018,
-      "status" : 0,
-      "localtime" : "2014-05-15T20:59:07+08",
-      "ratio" : 100
-   },
-   {
-      "status" : 0,
-      "power" : 978,
-      "localtime" : "2014-05-15T20:59:07+08",
-      "ratio" : 100,
-      "machine" : "核三廠一號機",
       "status_text" : "發電運轉"
    },
    {
-      "ratio" : 100,
-      "localtime" : "2014-05-15T20:59:07+08",
-      "status" : 0,
-      "power" : 978,
+      "power" : 0,
+      "status_text" : "機組大修",
+      "localtime" : "2014-05-15T21:00:07+08",
+      "ratio" : 0,
+      "machine" : "核一廠二號機",
+      "status" : 1
+   },
+   {
+      "power" : 1020,
       "status_text" : "發電運轉",
+      "localtime" : "2014-05-15T21:00:07+08",
+      "ratio" : 100,
+      "status" : 0,
+      "machine" : "核二廠一號機"
+   },
+   {
+      "power" : 1021,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-05-15T21:00:07+08",
+      "ratio" : 100,
+      "status" : 0,
+      "machine" : "核二廠二號機"
+   },
+   {
+      "power" : 980,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-05-15T21:00:07+08",
+      "ratio" : 100,
+      "status" : 0,
+      "machine" : "核三廠一號機"
+   },
+   {
+      "status_text" : "發電運轉",
+      "power" : 980,
+      "localtime" : "2014-05-15T21:00:07+08",
+      "ratio" : 100,
+      "status" : 0,
       "machine" : "核三廠二號機"
    }
 ]
