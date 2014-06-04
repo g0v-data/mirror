@@ -1,50 +1,50 @@
 [
    {
-      "status" : 0,
-      "power" : 638,
-      "localtime" : "2014-06-04T20:46:10+08",
-      "ratio" : 100,
       "machine" : "核一廠一號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "ratio" : 59,
-      "machine" : "核一廠二號機",
-      "status_text" : "發電運轉",
-      "power" : 315,
+      "power" : 639,
+      "localtime" : "2014-06-04T20:47:10+08",
       "status" : 0,
-      "localtime" : "2014-06-04T20:46:10+08"
-   },
-   {
-      "machine" : "核二廠一號機",
-      "status_text" : "發電運轉",
-      "ratio" : 100,
-      "status" : 0,
-      "power" : 1010,
-      "localtime" : "2014-06-04T20:46:10+08"
-   },
-   {
-      "power" : 1017,
-      "status" : 0,
-      "localtime" : "2014-06-04T20:46:10+08",
-      "ratio" : 100,
-      "machine" : "核二廠二號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "machine" : "核三廠一號機",
-      "status_text" : "發電運轉",
-      "ratio" : 100,
-      "power" : 978,
-      "status" : 0,
-      "localtime" : "2014-06-04T20:46:10+08"
-   },
-   {
-      "status" : 0,
-      "power" : 976,
-      "localtime" : "2014-06-04T20:46:10+08",
-      "machine" : "核三廠二號機",
       "status_text" : "發電運轉",
       "ratio" : 100
+   },
+   {
+      "machine" : "核一廠二號機",
+      "power" : 317,
+      "localtime" : "2014-06-04T20:47:10+08",
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "ratio" : 60
+   },
+   {
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "localtime" : "2014-06-04T20:47:10+08",
+      "power" : 1011,
+      "machine" : "核二廠一號機"
+   },
+   {
+      "ratio" : 100,
+      "status" : 0,
+      "localtime" : "2014-06-04T20:47:10+08",
+      "status_text" : "發電運轉",
+      "power" : 1015,
+      "machine" : "核二廠二號機"
+   },
+   {
+      "power" : 979,
+      "machine" : "核三廠一號機",
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-06-04T20:47:10+08",
+      "status" : 0
+   },
+   {
+      "power" : 977,
+      "machine" : "核三廠二號機",
+      "ratio" : 100,
+      "localtime" : "2014-06-04T20:47:10+08",
+      "status" : 0,
+      "status_text" : "發電運轉"
    }
 ]
