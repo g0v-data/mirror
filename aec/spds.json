@@ -1,50 +1,50 @@
 [
    {
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "power" : 49,
       "machine" : "核一廠一號機",
+      "power" : 51,
+      "status_text" : "發電運轉",
       "ratio" : 15,
-      "localtime" : "2014-06-05T21:23:12+08"
-   },
-   {
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "ratio" : 89,
-      "localtime" : "2014-06-05T21:23:12+08",
-      "machine" : "核一廠二號機",
-      "power" : 575
-   },
-   {
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "machine" : "核二廠一號機",
-      "power" : 1008,
-      "ratio" : 100,
-      "localtime" : "2014-06-05T21:23:12+08"
-   },
-   {
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "ratio" : 100,
-      "localtime" : "2014-06-05T21:23:12+08",
-      "power" : 1017,
-      "machine" : "核二廠二號機"
-   },
-   {
-      "power" : 979,
-      "machine" : "核三廠一號機",
-      "ratio" : 100,
-      "localtime" : "2014-06-05T21:23:12+08",
-      "status_text" : "發電運轉",
+      "localtime" : "2014-06-05T21:24:13+08",
       "status" : 0
    },
    {
-      "status_text" : "發電運轉",
       "status" : 0,
-      "machine" : "核三廠二號機",
+      "localtime" : "2014-06-05T21:24:13+08",
+      "ratio" : 89,
+      "status_text" : "發電運轉",
+      "power" : 574,
+      "machine" : "核一廠二號機"
+   },
+   {
+      "status" : 0,
+      "localtime" : "2014-06-05T21:24:13+08",
+      "power" : 1013,
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "machine" : "核二廠一號機"
+   },
+   {
+      "status" : 0,
+      "localtime" : "2014-06-05T21:24:13+08",
+      "power" : 1017,
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "machine" : "核二廠二號機"
+   },
+   {
+      "localtime" : "2014-06-05T21:24:13+08",
+      "status" : 0,
+      "machine" : "核三廠一號機",
+      "status_text" : "發電運轉",
+      "ratio" : 100,
+      "power" : 980
+   },
+   {
+      "status" : 0,
+      "localtime" : "2014-06-05T21:24:13+08",
       "power" : 979,
-      "localtime" : "2014-06-05T21:23:12+08",
-      "ratio" : 100
+      "status_text" : "發電運轉",
+      "ratio" : 100,
+      "machine" : "核三廠二號機"
    }
 ]
