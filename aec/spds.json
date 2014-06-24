@@ -1,50 +1,50 @@
 [
    {
-      "status_text" : "發電運轉",
-      "localtime" : "2014-06-24T21:32:44+08",
       "ratio" : 87,
-      "status" : 0,
+      "localtime" : "2014-06-24T21:33:44+08",
       "machine" : "核一廠一號機",
-      "power" : 545
-   },
-   {
-      "status_text" : "發電運轉",
-      "localtime" : "2014-06-24T21:32:44+08",
       "status" : 0,
-      "ratio" : 100,
-      "machine" : "核一廠二號機",
-      "power" : 645
-   },
-   {
-      "localtime" : "2014-06-24T21:32:44+08",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "ratio" : 100,
-      "machine" : "核二廠一號機",
-      "power" : 1014
-   },
-   {
-      "status_text" : "發電運轉",
-      "localtime" : "2014-06-24T21:32:44+08",
-      "status" : 0,
-      "ratio" : 100,
-      "machine" : "核二廠二號機",
-      "power" : 1013
-   },
-   {
-      "power" : 975,
-      "machine" : "核三廠一號機",
-      "status" : 0,
-      "ratio" : 100,
-      "status_text" : "發電運轉",
-      "localtime" : "2014-06-24T21:32:44+08"
-   },
-   {
-      "power" : 974,
-      "machine" : "核三廠二號機",
-      "status" : 0,
-      "ratio" : 100,
-      "localtime" : "2014-06-24T21:32:44+08",
+      "power" : 547,
       "status_text" : "發電運轉"
+   },
+   {
+      "ratio" : 100,
+      "localtime" : "2014-06-24T21:33:44+08",
+      "machine" : "核一廠二號機",
+      "power" : 645,
+      "status" : 0,
+      "status_text" : "發電運轉"
+   },
+   {
+      "localtime" : "2014-06-24T21:33:44+08",
+      "machine" : "核二廠一號機",
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "power" : 1011
+   },
+   {
+      "ratio" : 100,
+      "localtime" : "2014-06-24T21:33:44+08",
+      "machine" : "核二廠二號機",
+      "power" : 1013,
+      "status" : 0,
+      "status_text" : "發電運轉"
+   },
+   {
+      "localtime" : "2014-06-24T21:33:44+08",
+      "machine" : "核三廠一號機",
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "power" : 974
+   },
+   {
+      "localtime" : "2014-06-24T21:33:44+08",
+      "machine" : "核三廠二號機",
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "power" : 975
    }
 ]
