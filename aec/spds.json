@@ -1,50 +1,50 @@
 [
    {
       "status_text" : "發電運轉",
+      "status" : 0,
+      "ratio" : 100,
+      "localtime" : "2014-07-13T14:18:16+08",
       "machine" : "核一廠一號機",
-      "power" : 635,
-      "ratio" : 100,
-      "localtime" : "2014-07-13T14:17:21+08",
-      "status" : 0
+      "power" : 634
    },
    {
-      "status" : 0,
-      "localtime" : "2014-07-13T14:17:21+08",
-      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "power" : 641,
       "machine" : "核一廠二號機",
-      "status_text" : "發電運轉",
-      "power" : 640
-   },
-   {
-      "ratio" : 100,
-      "status_text" : "發電運轉",
-      "machine" : "核二廠一號機",
-      "power" : 1011,
+      "localtime" : "2014-07-13T14:18:16+08",
       "status" : 0,
-      "localtime" : "2014-07-13T14:17:21+08"
-   },
-   {
-      "ratio" : 100,
-      "status_text" : "發電運轉",
-      "machine" : "核二廠二號機",
-      "power" : 1010,
-      "status" : 0,
-      "localtime" : "2014-07-13T14:17:21+08"
-   },
-   {
-      "status" : 0,
-      "localtime" : "2014-07-13T14:17:21+08",
-      "ratio" : 100,
-      "status_text" : "發電運轉",
-      "machine" : "核三廠一號機",
-      "power" : 972
-   },
-   {
-      "localtime" : "2014-07-13T14:17:21+08",
-      "status" : 0,
-      "power" : 973,
-      "status_text" : "發電運轉",
-      "machine" : "核三廠二號機",
       "ratio" : 100
+   },
+   {
+      "localtime" : "2014-07-13T14:18:16+08",
+      "power" : 1008,
+      "machine" : "核二廠一號機",
+      "status" : 0,
+      "ratio" : 100,
+      "status_text" : "發電運轉"
+   },
+   {
+      "status_text" : "發電運轉",
+      "ratio" : 100,
+      "status" : 0,
+      "localtime" : "2014-07-13T14:18:16+08",
+      "machine" : "核二廠二號機",
+      "power" : 1005
+   },
+   {
+      "status_text" : "發電運轉",
+      "power" : 970,
+      "machine" : "核三廠一號機",
+      "localtime" : "2014-07-13T14:18:16+08",
+      "status" : 0,
+      "ratio" : 100
+   },
+   {
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "ratio" : 100,
+      "machine" : "核三廠二號機",
+      "power" : 971,
+      "localtime" : "2014-07-13T14:18:16+08"
    }
 ]
