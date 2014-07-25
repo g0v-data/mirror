@@ -1,50 +1,50 @@
 [
    {
+      "status_text" : "發電運轉",
+      "ratio" : 100,
+      "power" : 640,
       "machine" : "核一廠一號機",
-      "power" : 639,
-      "status_text" : "發電運轉",
-      "ratio" : 100,
       "status" : 0,
-      "localtime" : "2014-07-25T09:50:40+08"
+      "localtime" : "2014-07-25T09:51:40+08"
    },
    {
       "ratio" : 100,
-      "status" : 0,
-      "localtime" : "2014-07-25T09:50:40+08",
+      "status_text" : "發電運轉",
+      "power" : 646,
+      "localtime" : "2014-07-25T09:51:40+08",
       "machine" : "核一廠二號機",
-      "power" : 648,
-      "status_text" : "發電運轉"
-   },
-   {
-      "localtime" : "2014-07-25T09:50:40+08",
-      "status" : 0,
-      "ratio" : 100,
-      "machine" : "核二廠一號機",
-      "status_text" : "發電運轉",
-      "power" : 1010
-   },
-   {
-      "ratio" : 100,
-      "localtime" : "2014-07-25T09:50:40+08",
-      "status" : 0,
-      "machine" : "核二廠二號機",
-      "power" : 1014,
-      "status_text" : "發電運轉"
-   },
-   {
-      "ratio" : 100,
-      "localtime" : "2014-07-25T09:50:40+08",
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "power" : 975,
-      "machine" : "核三廠一號機"
-   },
-   {
-      "power" : 978,
-      "status_text" : "發電運轉",
-      "machine" : "核三廠二號機",
-      "ratio" : 100,
-      "localtime" : "2014-07-25T09:50:40+08",
       "status" : 0
+   },
+   {
+      "machine" : "核二廠一號機",
+      "status" : 0,
+      "localtime" : "2014-07-25T09:51:40+08",
+      "power" : 1011,
+      "status_text" : "發電運轉",
+      "ratio" : 100
+   },
+   {
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-07-25T09:51:40+08",
+      "machine" : "核二廠二號機",
+      "status" : 0,
+      "power" : 1014
+   },
+   {
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-07-25T09:51:40+08",
+      "status" : 0,
+      "machine" : "核三廠一號機",
+      "power" : 977
+   },
+   {
+      "status_text" : "發電運轉",
+      "ratio" : 100,
+      "power" : 977,
+      "status" : 0,
+      "machine" : "核三廠二號機",
+      "localtime" : "2014-07-25T09:51:40+08"
    }
 ]
