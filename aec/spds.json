@@ -1,50 +1,50 @@
 [
    {
-      "status" : 0,
-      "localtime" : "2014-07-27T03:13:42+08",
-      "power" : 638,
       "ratio" : 100,
+      "status_text" : "發電運轉",
+      "power" : 637,
+      "localtime" : "2014-07-27T03:14:43+08",
       "machine" : "核一廠一號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "status" : 0,
-      "localtime" : "2014-07-27T03:13:42+08",
-      "power" : 646,
-      "machine" : "核一廠二號機",
-      "ratio" : 100,
-      "status_text" : "發電運轉"
-   },
-   {
-      "localtime" : "2014-07-27T03:13:42+08",
-      "status" : 0,
-      "ratio" : 100,
-      "power" : 1006,
-      "machine" : "核二廠一號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "localtime" : "2014-07-27T03:13:42+08",
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "power" : 1011,
-      "ratio" : 100,
-      "machine" : "核二廠二號機"
-   },
-   {
-      "power" : 972,
-      "machine" : "核三廠一號機",
-      "ratio" : 100,
-      "status_text" : "發電運轉",
-      "localtime" : "2014-07-27T03:13:42+08",
       "status" : 0
    },
    {
-      "localtime" : "2014-07-27T03:13:42+08",
+      "machine" : "核一廠二號機",
+      "localtime" : "2014-07-27T03:14:43+08",
       "status" : 0,
-      "status_text" : "發電運轉",
-      "power" : 973,
       "ratio" : 100,
-      "machine" : "核三廠二號機"
+      "status_text" : "發電運轉",
+      "power" : 644
+   },
+   {
+      "machine" : "核二廠一號機",
+      "localtime" : "2014-07-27T03:14:43+08",
+      "status" : 0,
+      "ratio" : 100,
+      "power" : 1008,
+      "status_text" : "發電運轉"
+   },
+   {
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "power" : 1008,
+      "machine" : "核二廠二號機",
+      "localtime" : "2014-07-27T03:14:43+08",
+      "status" : 0
+   },
+   {
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "power" : 971,
+      "machine" : "核三廠一號機",
+      "localtime" : "2014-07-27T03:14:43+08",
+      "status" : 0
+   },
+   {
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "power" : 974,
+      "machine" : "核三廠二號機",
+      "localtime" : "2014-07-27T03:14:43+08",
+      "status" : 0
    }
 ]
