@@ -1,50 +1,50 @@
 [
    {
-      "ratio" : 100,
+      "power" : 635,
       "status" : 0,
+      "localtime" : "2014-07-26T21:51:45+08",
+      "ratio" : 100,
       "machine" : "核一廠一號機",
-      "status_text" : "發電運轉",
-      "power" : 638,
-      "localtime" : "2014-07-26T21:50:43+08"
+      "status_text" : "發電運轉"
    },
    {
-      "status_text" : "發電運轉",
-      "machine" : "核一廠二號機",
-      "power" : 646,
-      "localtime" : "2014-07-26T21:50:43+08",
       "ratio" : 100,
-      "status" : 0
-   },
-   {
-      "status_text" : "發電運轉",
-      "machine" : "核二廠一號機",
-      "power" : 1009,
-      "localtime" : "2014-07-26T21:50:43+08",
-      "ratio" : 100,
-      "status" : 0
-   },
-   {
-      "status_text" : "發電運轉",
-      "machine" : "核二廠二號機",
-      "localtime" : "2014-07-26T21:50:43+08",
-      "power" : 1014,
-      "ratio" : 100,
-      "status" : 0
-   },
-   {
-      "status_text" : "發電運轉",
-      "machine" : "核三廠一號機",
-      "power" : 977,
-      "localtime" : "2014-07-26T21:50:43+08",
-      "ratio" : 100,
-      "status" : 0
-   },
-   {
-      "power" : 979,
-      "localtime" : "2014-07-26T21:50:43+08",
-      "status_text" : "發電運轉",
-      "machine" : "核三廠二號機",
+      "localtime" : "2014-07-26T21:51:45+08",
+      "power" : 645,
       "status" : 0,
-      "ratio" : 100
+      "status_text" : "發電運轉",
+      "machine" : "核一廠二號機"
+   },
+   {
+      "ratio" : 100,
+      "power" : 1009,
+      "status" : 0,
+      "localtime" : "2014-07-26T21:51:45+08",
+      "status_text" : "發電運轉",
+      "machine" : "核二廠一號機"
+   },
+   {
+      "ratio" : 100,
+      "localtime" : "2014-07-26T21:51:45+08",
+      "power" : 1013,
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "machine" : "核二廠二號機"
+   },
+   {
+      "ratio" : 100,
+      "status" : 0,
+      "power" : 976,
+      "localtime" : "2014-07-26T21:51:45+08",
+      "status_text" : "發電運轉",
+      "machine" : "核三廠一號機"
+   },
+   {
+      "power" : 977,
+      "status" : 0,
+      "localtime" : "2014-07-26T21:51:45+08",
+      "ratio" : 100,
+      "machine" : "核三廠二號機",
+      "status_text" : "發電運轉"
    }
 ]
