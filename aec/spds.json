@@ -1,50 +1,50 @@
 [
    {
-      "status" : 0,
-      "ratio" : 100,
-      "localtime" : "2014-08-10T11:35:09+08",
-      "status_text" : "發電運轉",
       "machine" : "核一廠一號機",
-      "power" : 638
-   },
-   {
       "status" : 0,
-      "ratio" : 100,
+      "power" : 634,
+      "localtime" : "2014-08-10T11:36:08+08",
       "status_text" : "發電運轉",
-      "localtime" : "2014-08-10T11:35:09+08",
-      "power" : 644,
-      "machine" : "核一廠二號機"
-   },
-   {
-      "ratio" : 100,
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "localtime" : "2014-08-10T11:35:09+08",
-      "power" : 1007,
-      "machine" : "核二廠一號機"
-   },
-   {
-      "ratio" : 58,
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "localtime" : "2014-08-10T11:35:09+08",
-      "power" : 528,
-      "machine" : "核二廠二號機"
-   },
-   {
-      "machine" : "核三廠一號機",
-      "power" : 978,
-      "localtime" : "2014-08-10T11:35:09+08",
-      "status_text" : "發電運轉",
-      "status" : 0,
       "ratio" : 100
    },
    {
-      "ratio" : 92,
-      "status" : 0,
-      "power" : 901,
-      "machine" : "核三廠二號機",
+      "ratio" : 100,
+      "power" : 642,
+      "localtime" : "2014-08-10T11:36:08+08",
       "status_text" : "發電運轉",
-      "localtime" : "2014-08-10T11:35:09+08"
+      "status" : 0,
+      "machine" : "核一廠二號機"
+   },
+   {
+      "power" : 1006,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-08-10T11:36:08+08",
+      "ratio" : 100,
+      "machine" : "核二廠一號機",
+      "status" : 0
+   },
+   {
+      "ratio" : 58,
+      "power" : 526,
+      "localtime" : "2014-08-10T11:36:08+08",
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "machine" : "核二廠二號機"
+   },
+   {
+      "status" : 0,
+      "machine" : "核三廠一號機",
+      "ratio" : 100,
+      "power" : 978,
+      "localtime" : "2014-08-10T11:36:08+08",
+      "status_text" : "發電運轉"
+   },
+   {
+      "machine" : "核三廠二號機",
+      "status" : 0,
+      "localtime" : "2014-08-10T11:36:08+08",
+      "status_text" : "發電運轉",
+      "power" : 903,
+      "ratio" : 92
    }
 ]
