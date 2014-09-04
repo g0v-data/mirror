@@ -1,50 +1,50 @@
 [
    {
-      "status_text" : "發電運轉",
       "ratio" : 100,
-      "status" : 0,
+      "status_text" : "發電運轉",
       "machine" : "核一廠一號機",
-      "power" : 631,
-      "localtime" : "2014-09-04T10:27:58+08"
-   },
-   {
-      "power" : 642,
-      "localtime" : "2014-09-04T10:27:58+08",
-      "machine" : "核一廠二號機",
-      "status_text" : "發電運轉",
+      "power" : 633,
       "status" : 0,
-      "ratio" : 100
+      "localtime" : "2014-09-04T10:29:00+08"
    },
    {
-      "power" : 970,
-      "localtime" : "2014-09-04T10:27:58+08",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "ratio" : 97,
-      "machine" : "核二廠一號機"
-   },
-   {
-      "localtime" : "2014-09-04T10:27:58+08",
-      "power" : 948,
-      "machine" : "核二廠二號機",
-      "status_text" : "發電運轉",
-      "ratio" : 96,
-      "status" : 0
-   },
-   {
-      "localtime" : "2014-09-04T10:27:58+08",
-      "power" : 974,
-      "machine" : "核三廠一號機",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "ratio" : 100
-   },
-   {
-      "localtime" : "2014-09-04T10:27:58+08",
-      "power" : 973,
-      "machine" : "核三廠二號機",
       "ratio" : 100,
       "status_text" : "發電運轉",
-      "status" : 0
+      "machine" : "核一廠二號機",
+      "power" : 642,
+      "status" : 0,
+      "localtime" : "2014-09-04T10:29:00+08"
+   },
+   {
+      "power" : 969,
+      "status" : 0,
+      "localtime" : "2014-09-04T10:29:00+08",
+      "machine" : "核二廠一號機",
+      "ratio" : 97,
+      "status_text" : "發電運轉"
+   },
+   {
+      "ratio" : 96,
+      "status_text" : "發電運轉",
+      "power" : 952,
+      "localtime" : "2014-09-04T10:29:00+08",
+      "status" : 0,
+      "machine" : "核二廠二號機"
+   },
+   {
+      "machine" : "核三廠一號機",
+      "power" : 973,
+      "localtime" : "2014-09-04T10:29:00+08",
+      "status" : 0,
+      "ratio" : 100,
+      "status_text" : "發電運轉"
+   },
+   {
+      "machine" : "核三廠二號機",
+      "power" : 975,
+      "status" : 0,
+      "localtime" : "2014-09-04T10:29:00+08",
+      "ratio" : 100,
+      "status_text" : "發電運轉"
    }
 ]
