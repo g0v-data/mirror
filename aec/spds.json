@@ -1,50 +1,50 @@
 [
    {
-      "status_text" : "發電運轉",
-      "ratio" : 100,
-      "power" : 631,
-      "localtime" : "2014-09-06T21:19:06+08",
+      "status" : 0,
       "machine" : "核一廠一號機",
-      "status" : 0
+      "power" : 635,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-09-06T21:20:06+08",
+      "ratio" : 100
    },
    {
-      "localtime" : "2014-09-06T21:19:06+08",
-      "machine" : "核一廠二號機",
-      "status" : 0,
+      "ratio" : 98,
+      "localtime" : "2014-09-06T21:20:06+08",
       "status_text" : "發電運轉",
       "power" : 620,
-      "ratio" : 97
-   },
-   {
-      "machine" : "核二廠一號機",
-      "localtime" : "2014-09-06T21:19:06+08",
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "ratio" : 100,
-      "power" : 1011
-   },
-   {
-      "status" : 0,
-      "localtime" : "2014-09-06T21:19:06+08",
-      "machine" : "核二廠二號機",
-      "ratio" : 100,
-      "power" : 1011,
-      "status_text" : "發電運轉"
-   },
-   {
-      "status" : 0,
-      "machine" : "核三廠一號機",
-      "localtime" : "2014-09-06T21:19:06+08",
-      "power" : 275,
-      "ratio" : 34,
-      "status_text" : "發電運轉"
-   },
-   {
-      "status_text" : "發電運轉",
-      "power" : 976,
-      "ratio" : 100,
-      "localtime" : "2014-09-06T21:19:06+08",
-      "machine" : "核三廠二號機",
+      "machine" : "核一廠二號機",
       "status" : 0
+   },
+   {
+      "power" : 1010,
+      "machine" : "核二廠一號機",
+      "status" : 0,
+      "ratio" : 100,
+      "localtime" : "2014-09-06T21:20:06+08",
+      "status_text" : "發電運轉"
+   },
+   {
+      "ratio" : 100,
+      "localtime" : "2014-09-06T21:20:06+08",
+      "status_text" : "發電運轉",
+      "power" : 1012,
+      "machine" : "核二廠二號機",
+      "status" : 0
+   },
+   {
+      "ratio" : 34,
+      "localtime" : "2014-09-06T21:20:06+08",
+      "status_text" : "發電運轉",
+      "power" : 277,
+      "machine" : "核三廠一號機",
+      "status" : 0
+   },
+   {
+      "status" : 0,
+      "machine" : "核三廠二號機",
+      "power" : 975,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-09-06T21:20:06+08",
+      "ratio" : 100
    }
 ]
