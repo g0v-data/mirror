@@ -1,50 +1,50 @@
 [
    {
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "machine" : "核一廠一號機",
-      "localtime" : "2014-09-08T20:14:10+08",
-      "power" : 640,
-      "ratio" : 100
-   },
-   {
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "localtime" : "2014-09-08T20:14:10+08",
-      "machine" : "核一廠二號機",
-      "power" : 642,
-      "ratio" : 100
-   },
-   {
-      "localtime" : "2014-09-08T20:14:10+08",
-      "machine" : "核二廠一號機",
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "ratio" : 77,
-      "power" : 725
-   },
-   {
+      "localtime" : "2014-09-08T20:15:10+08",
+      "power" : 637,
       "ratio" : 100,
-      "power" : 1016,
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "machine" : "核一廠一號機"
+   },
+   {
+      "localtime" : "2014-09-08T20:15:10+08",
+      "power" : 642,
+      "ratio" : 100,
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "machine" : "核一廠二號機"
+   },
+   {
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "machine" : "核二廠一號機",
+      "ratio" : 77,
+      "localtime" : "2014-09-08T20:15:10+08",
+      "power" : 724
+   },
+   {
+      "status_text" : "發電運轉",
       "machine" : "核二廠二號機",
-      "localtime" : "2014-09-08T20:14:10+08",
-      "status_text" : "發電運轉",
-      "status" : 0
+      "status" : 0,
+      "ratio" : 100,
+      "power" : 1015,
+      "localtime" : "2014-09-08T20:15:10+08"
    },
    {
-      "power" : 970,
       "ratio" : 99,
-      "status" : 0,
       "status_text" : "發電運轉",
-      "localtime" : "2014-09-08T20:14:10+08",
-      "machine" : "核三廠一號機"
+      "status" : 0,
+      "machine" : "核三廠一號機",
+      "localtime" : "2014-09-08T20:15:10+08",
+      "power" : 968
    },
    {
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "localtime" : "2014-09-08T20:14:10+08",
       "machine" : "核三廠二號機",
-      "power" : 974,
-      "ratio" : 100
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "ratio" : 99,
+      "localtime" : "2014-09-08T20:15:10+08",
+      "power" : 974
    }
 ]
