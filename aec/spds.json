@@ -1,50 +1,50 @@
 [
    {
-      "machine" : "核一廠一號機",
-      "status_text" : "發電運轉",
-      "localtime" : "2014-09-17T09:06:21+08",
-      "power" : 632,
+      "localtime" : "2014-09-17T09:07:21+08",
       "ratio" : 100,
-      "status" : 0
-   },
-   {
-      "machine" : "核一廠二號機",
       "power" : 634,
       "status_text" : "發電運轉",
-      "localtime" : "2014-09-17T09:06:21+08",
-      "ratio" : 100,
-      "status" : 0
-   },
-   {
-      "status_text" : "發電運轉",
-      "localtime" : "2014-09-17T09:06:21+08",
-      "power" : 1005,
-      "machine" : "核二廠一號機",
-      "ratio" : 100,
-      "status" : 0
-   },
-   {
-      "machine" : "核二廠二號機",
-      "power" : 983,
-      "status_text" : "發電運轉",
-      "localtime" : "2014-09-17T09:06:21+08",
-      "ratio" : 98,
-      "status" : 0
-   },
-   {
-      "localtime" : "2014-09-17T09:06:21+08",
-      "status_text" : "發電運轉",
-      "power" : 975,
-      "machine" : "核三廠一號機",
-      "ratio" : 100,
-      "status" : 0
-   },
-   {
       "status" : 0,
+      "machine" : "核一廠一號機"
+   },
+   {
+      "localtime" : "2014-09-17T09:07:21+08",
       "ratio" : 100,
-      "machine" : "核三廠二號機",
-      "power" : 974,
+      "power" : 634,
       "status_text" : "發電運轉",
-      "localtime" : "2014-09-17T09:06:21+08"
+      "status" : 0,
+      "machine" : "核一廠二號機"
+   },
+   {
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "power" : 1005,
+      "localtime" : "2014-09-17T09:07:21+08",
+      "ratio" : 100,
+      "machine" : "核二廠一號機"
+   },
+   {
+      "localtime" : "2014-09-17T09:07:21+08",
+      "ratio" : 98,
+      "power" : 980,
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "machine" : "核二廠二號機"
+   },
+   {
+      "localtime" : "2014-09-17T09:07:21+08",
+      "ratio" : 100,
+      "power" : 977,
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "machine" : "核三廠一號機"
+   },
+   {
+      "localtime" : "2014-09-17T09:07:21+08",
+      "ratio" : 100,
+      "power" : 976,
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "machine" : "核三廠二號機"
    }
 ]
