@@ -1,50 +1,50 @@
 [
    {
-      "status" : 0,
-      "ratio" : 100,
-      "power" : 647,
-      "localtime" : "2014-10-15T16:56:19+08",
-      "machine" : "核一廠一號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "status" : 0,
-      "ratio" : 100,
-      "power" : 652,
-      "localtime" : "2014-10-15T16:56:19+08",
-      "machine" : "核一廠二號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "status" : 0,
-      "ratio" : 100,
-      "power" : 1013,
-      "localtime" : "2014-10-15T16:56:19+08",
-      "machine" : "核二廠一號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "ratio" : 1,
-      "status_text" : "機組大修",
-      "machine" : "核二廠二號機",
-      "power" : 0,
-      "localtime" : "2014-10-15T16:56:19+08",
-      "status" : 1
-   },
-   {
-      "status" : 0,
-      "ratio" : 100,
-      "power" : 978,
-      "localtime" : "2014-10-15T16:56:19+08",
-      "machine" : "核三廠一號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "localtime" : "2014-10-15T16:56:19+08",
-      "power" : 730,
-      "machine" : "核三廠二號機",
+      "localtime" : "2014-10-15T16:57:16+08",
+      "power" : 646,
       "status_text" : "發電運轉",
-      "ratio" : 78,
+      "machine" : "核一廠一號機",
+      "ratio" : 100,
       "status" : 0
+   },
+   {
+      "status" : 0,
+      "machine" : "核一廠二號機",
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-10-15T16:57:16+08",
+      "power" : 651
+   },
+   {
+      "machine" : "核二廠一號機",
+      "ratio" : 100,
+      "status" : 0,
+      "localtime" : "2014-10-15T16:57:16+08",
+      "power" : 1013,
+      "status_text" : "發電運轉"
+   },
+   {
+      "status_text" : "機組大修",
+      "power" : 0,
+      "localtime" : "2014-10-15T16:57:16+08",
+      "status" : 1,
+      "ratio" : 1,
+      "machine" : "核二廠二號機"
+   },
+   {
+      "status" : 0,
+      "machine" : "核三廠一號機",
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "power" : 978,
+      "localtime" : "2014-10-15T16:57:16+08"
+   },
+   {
+      "status_text" : "發電運轉",
+      "localtime" : "2014-10-15T16:57:16+08",
+      "power" : 729,
+      "status" : 0,
+      "ratio" : 78,
+      "machine" : "核三廠二號機"
    }
 ]
