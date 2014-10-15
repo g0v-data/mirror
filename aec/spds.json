@@ -1,50 +1,50 @@
 [
    {
+      "machine" : "核一廠一號機",
       "status_text" : "發電運轉",
-      "power" : 648,
-      "ratio" : 100,
+      "localtime" : "2014-10-15T12:34:15+08",
+      "power" : 643,
       "status" : 0,
-      "localtime" : "2014-10-15T12:33:15+08",
-      "machine" : "核一廠一號機"
-   },
-   {
-      "ratio" : 100,
-      "power" : 651,
-      "status_text" : "發電運轉",
-      "machine" : "核一廠二號機",
-      "localtime" : "2014-10-15T12:33:15+08",
-      "status" : 0
-   },
-   {
-      "ratio" : 100,
-      "power" : 1016,
-      "status_text" : "發電運轉",
-      "machine" : "核二廠一號機",
-      "localtime" : "2014-10-15T12:33:15+08",
-      "status" : 0
-   },
-   {
-      "ratio" : 1,
-      "power" : 0,
-      "status_text" : "機組大修",
-      "machine" : "核二廠二號機",
-      "localtime" : "2014-10-15T12:33:15+08",
-      "status" : 1
-   },
-   {
-      "localtime" : "2014-10-15T12:33:15+08",
-      "status" : 0,
-      "machine" : "核三廠一號機",
-      "status_text" : "發電運轉",
-      "power" : 978,
       "ratio" : 100
    },
    {
-      "status" : 0,
-      "localtime" : "2014-10-15T12:33:15+08",
-      "machine" : "核三廠二號機",
-      "power" : 730,
+      "ratio" : 100,
+      "machine" : "核一廠二號機",
       "status_text" : "發電運轉",
-      "ratio" : 78
+      "power" : 650,
+      "status" : 0,
+      "localtime" : "2014-10-15T12:34:15+08"
+   },
+   {
+      "ratio" : 100,
+      "localtime" : "2014-10-15T12:34:15+08",
+      "status_text" : "發電運轉",
+      "power" : 1014,
+      "status" : 0,
+      "machine" : "核二廠一號機"
+   },
+   {
+      "machine" : "核二廠二號機",
+      "status_text" : "機組大修",
+      "status" : 1,
+      "power" : 0,
+      "localtime" : "2014-10-15T12:34:15+08",
+      "ratio" : 1
+   },
+   {
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "power" : 980,
+      "localtime" : "2014-10-15T12:34:15+08",
+      "machine" : "核三廠一號機",
+      "ratio" : 100
+   },
+   {
+      "ratio" : 78,
+      "machine" : "核三廠二號機",
+      "status_text" : "發電運轉",
+      "power" : 730,
+      "localtime" : "2014-10-15T12:34:15+08",
+      "status" : 0
    }
 ]
