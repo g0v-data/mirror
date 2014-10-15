@@ -1,50 +1,50 @@
 [
    {
+      "ratio" : 100,
+      "localtime" : "2014-10-15T15:11:15+08",
       "machine" : "核一廠一號機",
-      "status_text" : "發電運轉",
       "power" : 644,
-      "ratio" : 100,
-      "status" : 0,
-      "localtime" : "2014-10-15T15:10:17+08"
-   },
-   {
-      "machine" : "核一廠二號機",
-      "ratio" : 100,
       "status_text" : "發電運轉",
-      "power" : 648,
-      "status" : 0,
-      "localtime" : "2014-10-15T15:10:17+08"
-   },
-   {
-      "status" : 0,
-      "localtime" : "2014-10-15T15:10:17+08",
-      "machine" : "核二廠一號機",
-      "ratio" : 100,
-      "status_text" : "發電運轉",
-      "power" : 1013
-   },
-   {
-      "machine" : "核二廠二號機",
-      "ratio" : 1,
-      "status_text" : "機組大修",
-      "power" : 2,
-      "status" : 1,
-      "localtime" : "2014-10-15T15:10:17+08"
-   },
-   {
-      "localtime" : "2014-10-15T15:10:17+08",
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "ratio" : 100,
-      "power" : 976,
-      "machine" : "核三廠一號機"
-   },
-   {
-      "status_text" : "發電運轉",
-      "ratio" : 78,
-      "power" : 729,
-      "machine" : "核三廠二號機",
-      "localtime" : "2014-10-15T15:10:17+08",
       "status" : 0
+   },
+   {
+      "ratio" : 100,
+      "machine" : "核一廠二號機",
+      "localtime" : "2014-10-15T15:11:15+08",
+      "power" : 649,
+      "status_text" : "發電運轉",
+      "status" : 0
+   },
+   {
+      "ratio" : 100,
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "power" : 1013,
+      "localtime" : "2014-10-15T15:11:15+08",
+      "machine" : "核二廠一號機"
+   },
+   {
+      "status_text" : "機組大修",
+      "status" : 1,
+      "machine" : "核二廠二號機",
+      "localtime" : "2014-10-15T15:11:15+08",
+      "power" : 0,
+      "ratio" : 1
+   },
+   {
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "power" : 978,
+      "localtime" : "2014-10-15T15:11:15+08",
+      "machine" : "核三廠一號機",
+      "ratio" : 100
+   },
+   {
+      "ratio" : 78,
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "power" : 729,
+      "localtime" : "2014-10-15T15:11:15+08",
+      "machine" : "核三廠二號機"
    }
 ]
