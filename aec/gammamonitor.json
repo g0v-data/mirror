@@ -172,4 +172,101 @@
       "localtime" : "2014-10-16T11:35:00+08",
       "value" : "0.055",
       "station_en" : "YEHLIU"
-  
+   },
+   {
+      "value" : "0.057",
+      "station" : "陽明山",
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station_en" : "YANGMINSHAN"
+   },
+   {
+      "station_en" : "YUNLIN",
+      "value" : "0.058",
+      "station" : "雲林",
+      "localtime" : "2014-10-16T11:35:00+08"
+   },
+   {
+      "value" : "0.053",
+      "station" : "新竹",
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station_en" : "HSINCHU"
+   },
+   {
+      "station_en" : "WANLI",
+      "value" : "0.077",
+      "station" : "萬里",
+      "localtime" : "2014-10-16T11:35:00+08"
+   },
+   {
+      "station" : "嘉義",
+      "localtime" : "2014-10-16T11:35:00+08",
+      "value" : "0.044",
+      "station_en" : "CHIAYI"
+   },
+   {
+      "station_en" : "CHANGHUA",
+      "value" : "0.065",
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "彰化"
+   },
+   {
+      "station_en" : "MANJHOU",
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "滿州",
+      "value" : "0.047"
+   },
+   {
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "澎湖",
+      "value" : "0.052",
+      "station_en" : "PENGHU"
+   },
+   {
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "墾丁",
+      "value" : "0.055",
+      "station_en" : "KENTING"
+   },
+   {
+      "value" : "0.057",
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "澳底",
+      "station_en" : "AODI"
+   },
+   {
+      "station_en" : "TOUCHENG",
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "頭城",
+      "value" : "0.051"
+   },
+   {
+      "station_en" : "LUNGMEN",
+      "value" : "0.054",
+      "station" : "龍門",
+      "localtime" : "2014-10-16T11:35:00+08"
+   },
+   {
+      "value" : "0.061",
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "龍泉",
+      "station_en" : "LUNGCHUAN"
+   },
+   {
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "龍潭",
+      "value" : "0.053",
+      "station_en" : "LUNGTAN"
+   },
+   {
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "雙溪",
+      "value" : "0.060",
+      "station_en" : "SHUANGSI"
+   },
+   {
+      "localtime" : "2014-10-16T11:35:00+08",
+      "station" : "蘭嶼",
+      "value" : "0.043",
+      "station_en" : "LANYU"
+   }
+]
