@@ -1,50 +1,50 @@
 [
    {
-      "localtime" : "2014-10-17T02:44:22+08",
-      "machine" : "核一廠一號機",
       "ratio" : 100,
-      "status" : 0,
+      "localtime" : "2014-10-17T02:45:22+08",
       "status_text" : "發電運轉",
-      "power" : 651
+      "status" : 0,
+      "power" : 650,
+      "machine" : "核一廠一號機"
    },
    {
-      "localtime" : "2014-10-17T02:44:22+08",
+      "status" : 0,
       "machine" : "核一廠二號機",
+      "power" : 655,
       "ratio" : 100,
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "power" : 656
+      "localtime" : "2014-10-17T02:45:22+08",
+      "status_text" : "發電運轉"
    },
    {
-      "localtime" : "2014-10-17T02:44:22+08",
+      "status_text" : "發電運轉",
+      "localtime" : "2014-10-17T02:45:22+08",
+      "ratio" : 100,
       "machine" : "核二廠一號機",
-      "ratio" : 100,
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "power" : 1021
-   },
-   {
-      "status_text" : "發電運轉",
-      "power" : 93,
-      "localtime" : "2014-10-17T02:44:22+08",
-      "machine" : "核二廠二號機",
-      "ratio" : 15,
+      "power" : 1020,
       "status" : 0
    },
    {
-      "localtime" : "2014-10-17T02:44:22+08",
-      "ratio" : 100,
-      "machine" : "核三廠一號機",
+      "machine" : "核二廠二號機",
+      "power" : 98,
       "status" : 0,
       "status_text" : "發電運轉",
-      "power" : 979
+      "localtime" : "2014-10-17T02:45:22+08",
+      "ratio" : 16
+   },
+   {
+      "ratio" : 100,
+      "localtime" : "2014-10-17T02:45:22+08",
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "machine" : "核三廠一號機",
+      "power" : 981
    },
    {
       "machine" : "核三廠二號機",
-      "ratio" : 78,
-      "localtime" : "2014-10-17T02:44:22+08",
+      "power" : 735,
       "status" : 0,
       "status_text" : "發電運轉",
-      "power" : 733
+      "ratio" : 79,
+      "localtime" : "2014-10-17T02:45:22+08"
    }
 ]
