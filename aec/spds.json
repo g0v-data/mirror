@@ -1,50 +1,50 @@
 [
    {
+      "localtime" : "2014-10-19T23:50:27+08",
       "ratio" : 100,
-      "power" : 649,
       "machine" : "核一廠一號機",
-      "status" : 0,
+      "power" : 647,
       "status_text" : "發電運轉",
-      "localtime" : "2014-10-19T23:49:26+08"
+      "status" : 0
    },
    {
-      "power" : 651,
-      "ratio" : 100,
+      "localtime" : "2014-10-19T23:50:27+08",
+      "status" : 0,
+      "status_text" : "發電運轉",
       "machine" : "核一廠二號機",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "localtime" : "2014-10-19T23:49:26+08"
-   },
-   {
-      "power" : 1018,
-      "ratio" : 100,
-      "machine" : "核二廠一號機",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "localtime" : "2014-10-19T23:49:26+08"
-   },
-   {
-      "ratio" : 76,
-      "power" : 728,
-      "status_text" : "發電運轉",
-      "localtime" : "2014-10-19T23:49:26+08",
-      "status" : 0,
-      "machine" : "核二廠二號機"
-   },
-   {
-      "machine" : "核三廠一號機",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "localtime" : "2014-10-19T23:49:26+08",
-      "ratio" : 100,
-      "power" : 980
-   },
-   {
-      "machine" : "核三廠二號機",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "localtime" : "2014-10-19T23:49:26+08",
-      "power" : 979,
+      "power" : 650,
       "ratio" : 100
+   },
+   {
+      "localtime" : "2014-10-19T23:50:27+08",
+      "machine" : "核二廠一號機",
+      "power" : 1013,
+      "ratio" : 100,
+      "status" : 0,
+      "status_text" : "發電運轉"
+   },
+   {
+      "machine" : "核二廠二號機",
+      "power" : 725,
+      "ratio" : 76,
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-10-19T23:50:27+08"
+   },
+   {
+      "power" : 977,
+      "machine" : "核三廠一號機",
+      "ratio" : 100,
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-10-19T23:50:27+08"
+   },
+   {
+      "ratio" : 100,
+      "machine" : "核三廠二號機",
+      "power" : 979,
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "localtime" : "2014-10-19T23:50:27+08"
    }
 ]
