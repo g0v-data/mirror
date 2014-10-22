@@ -1,50 +1,50 @@
 [
    {
-      "power" : 647,
+      "status" : 0,
+      "machine" : "核一廠一號機",
+      "ratio" : 100,
+      "localtime" : "2014-10-23T06:26:30+08",
+      "power" : 648,
+      "status_text" : "發電運轉"
+   },
+   {
+      "power" : 656,
+      "localtime" : "2014-10-23T06:26:30+08",
       "status_text" : "發電運轉",
       "status" : 0,
-      "localtime" : "2014-10-23T06:25:30+08",
-      "machine" : "核一廠一號機",
+      "ratio" : 100,
+      "machine" : "核一廠二號機"
+   },
+   {
+      "power" : 1017,
+      "localtime" : "2014-10-23T06:26:30+08",
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "ratio" : 100,
+      "machine" : "核二廠一號機"
+   },
+   {
+      "power" : 0,
+      "localtime" : "2014-10-23T06:26:30+08",
+      "status_text" : "機組停機",
+      "status" : 6,
+      "machine" : "核二廠二號機",
+      "ratio" : 3
+   },
+   {
+      "power" : 978,
+      "localtime" : "2014-10-23T06:26:30+08",
+      "status_text" : "發電運轉",
+      "status" : 0,
+      "machine" : "核三廠一號機",
       "ratio" : 100
    },
    {
-      "ratio" : 100,
-      "localtime" : "2014-10-23T06:25:30+08",
       "status" : 0,
-      "machine" : "核一廠二號機",
-      "power" : 654,
+      "ratio" : 100,
+      "machine" : "核三廠二號機",
+      "localtime" : "2014-10-23T06:26:30+08",
+      "power" : 978,
       "status_text" : "發電運轉"
-   },
-   {
-      "status_text" : "發電運轉",
-      "power" : 1015,
-      "ratio" : 100,
-      "machine" : "核二廠一號機",
-      "status" : 0,
-      "localtime" : "2014-10-23T06:25:30+08"
-   },
-   {
-      "ratio" : 3,
-      "status" : 6,
-      "localtime" : "2014-10-23T06:25:30+08",
-      "machine" : "核二廠二號機",
-      "power" : 0,
-      "status_text" : "機組停機"
-   },
-   {
-      "status" : 0,
-      "localtime" : "2014-10-23T06:25:30+08",
-      "machine" : "核三廠一號機",
-      "ratio" : 100,
-      "power" : 977,
-      "status_text" : "發電運轉"
-   },
-   {
-      "status_text" : "發電運轉",
-      "power" : 976,
-      "ratio" : 100,
-      "localtime" : "2014-10-23T06:25:30+08",
-      "status" : 0,
-      "machine" : "核三廠二號機"
    }
 ]
