@@ -1,50 +1,50 @@
 [
    {
       "status_text" : "發電運轉",
+      "localtime" : "2014-11-08T09:35:08+08",
+      "power" : 650,
       "machine" : "核一廠一號機",
-      "ratio" : 100,
-      "localtime" : "2014-11-08T09:34:08+08",
-      "power" : 649,
-      "status" : 0
-   },
-   {
-      "ratio" : 100,
       "status" : 0,
-      "power" : 656,
-      "localtime" : "2014-11-08T09:34:08+08",
-      "status_text" : "發電運轉",
-      "machine" : "核一廠二號機"
-   },
-   {
-      "localtime" : "2014-11-08T09:34:08+08",
-      "status" : 0,
-      "power" : 882,
-      "ratio" : 88,
-      "machine" : "核二廠一號機",
-      "status_text" : "發電運轉"
-   },
-   {
-      "ratio" : 100,
-      "power" : 1029,
-      "status" : 0,
-      "localtime" : "2014-11-08T09:34:08+08",
-      "status_text" : "發電運轉",
-      "machine" : "核二廠二號機"
-   },
-   {
-      "machine" : "核三廠一號機",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "power" : 979,
-      "localtime" : "2014-11-08T09:34:08+08",
       "ratio" : 100
    },
    {
-      "machine" : "核三廠二號機",
-      "status_text" : "發電運轉",
-      "localtime" : "2014-11-08T09:34:08+08",
+      "ratio" : 100,
       "status" : 0,
-      "power" : 981,
+      "power" : 657,
+      "localtime" : "2014-11-08T09:35:08+08",
+      "machine" : "核一廠二號機",
+      "status_text" : "發電運轉"
+   },
+   {
+      "power" : 867,
+      "machine" : "核二廠一號機",
+      "localtime" : "2014-11-08T09:35:08+08",
+      "status_text" : "發電運轉",
+      "ratio" : 87,
+      "status" : 0
+   },
+   {
+      "status_text" : "發電運轉",
+      "localtime" : "2014-11-08T09:35:08+08",
+      "power" : 1024,
+      "machine" : "核二廠二號機",
+      "status" : 0,
+      "ratio" : 100
+   },
+   {
+      "status_text" : "發電運轉",
+      "power" : 976,
+      "localtime" : "2014-11-08T09:35:08+08",
+      "machine" : "核三廠一號機",
+      "status" : 0,
+      "ratio" : 100
+   },
+   {
+      "status_text" : "發電運轉",
+      "power" : 977,
+      "machine" : "核三廠二號機",
+      "localtime" : "2014-11-08T09:35:08+08",
+      "status" : 0,
       "ratio" : 100
    }
 ]
