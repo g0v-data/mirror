@@ -1,50 +1,50 @@
 [
    {
-      "localtime" : "2014-11-23T11:21:01+08",
-      "status_text" : "發電運轉",
-      "status" : 0,
       "machine" : "核一廠一號機",
+      "power" : 651,
       "ratio" : 100,
-      "power" : 654
-   },
-   {
-      "localtime" : "2014-11-23T11:21:01+08",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "ratio" : 100,
-      "machine" : "核一廠二號機",
-      "power" : 655
-   },
-   {
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "power" : 1018,
-      "machine" : "核二廠一號機",
-      "ratio" : 100,
-      "localtime" : "2014-11-23T11:21:01+08"
-   },
-   {
-      "localtime" : "2014-11-23T11:21:01+08",
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "ratio" : 100,
-      "machine" : "核二廠二號機",
-      "power" : 1028
-   },
-   {
-      "localtime" : "2014-11-23T11:21:01+08",
-      "ratio" : 82,
-      "machine" : "核三廠一號機",
-      "power" : 794,
+      "localtime" : "2014-11-23T11:22:00+08",
       "status_text" : "發電運轉",
       "status" : 0
    },
    {
-      "localtime" : "2014-11-23T11:21:01+08",
-      "power" : 978,
       "ratio" : 100,
-      "machine" : "核三廠二號機",
+      "power" : 655,
+      "machine" : "核一廠二號機",
+      "localtime" : "2014-11-23T11:22:00+08",
+      "status_text" : "發電運轉",
+      "status" : 0
+   },
+   {
       "status" : 0,
-      "status_text" : "發電運轉"
+      "power" : 1020,
+      "ratio" : 100,
+      "machine" : "核二廠一號機",
+      "status_text" : "發電運轉",
+      "localtime" : "2014-11-23T11:22:00+08"
+   },
+   {
+      "power" : 1028,
+      "ratio" : 100,
+      "machine" : "核二廠二號機",
+      "localtime" : "2014-11-23T11:22:00+08",
+      "status_text" : "發電運轉",
+      "status" : 0
+   },
+   {
+      "machine" : "核三廠一號機",
+      "ratio" : 82,
+      "power" : 795,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-11-23T11:22:00+08",
+      "status" : 0
+   },
+   {
+      "machine" : "核三廠二號機",
+      "ratio" : 100,
+      "power" : 978,
+      "localtime" : "2014-11-23T11:22:00+08",
+      "status_text" : "發電運轉",
+      "status" : 0
    }
 ]
