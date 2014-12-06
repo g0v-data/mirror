@@ -1,50 +1,50 @@
 [
    {
+      "localtime" : "2014-12-07T07:45:00+08",
       "machine" : "核一廠一號機",
-      "localtime" : "2014-12-07T07:44:00+08",
-      "power" : 654,
+      "status" : 0,
       "ratio" : 100,
-      "status" : 0,
-      "status_text" : "發電運轉"
-   },
-   {
-      "machine" : "核一廠二號機",
-      "power" : 659,
-      "ratio" : 100,
-      "localtime" : "2014-12-07T07:44:00+08",
-      "status" : 0,
-      "status_text" : "發電運轉"
-   },
-   {
-      "status" : 0,
       "status_text" : "發電運轉",
+      "power" : 652
+   },
+   {
+      "status" : 0,
+      "ratio" : 100,
+      "power" : 661,
+      "status_text" : "發電運轉",
+      "localtime" : "2014-12-07T07:45:00+08",
+      "machine" : "核一廠二號機"
+   },
+   {
+      "localtime" : "2014-12-07T07:45:00+08",
       "machine" : "核二廠一號機",
-      "power" : 556,
-      "localtime" : "2014-12-07T07:44:00+08",
-      "ratio" : 59
+      "ratio" : 59,
+      "status" : 0,
+      "power" : 557,
+      "status_text" : "發電運轉"
    },
    {
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "machine" : "核二廠二號機",
-      "localtime" : "2014-12-07T07:44:00+08",
-      "power" : 1028,
-      "ratio" : 100
-   },
-   {
-      "status" : 0,
-      "status_text" : "發電運轉",
-      "machine" : "核三廠一號機",
-      "localtime" : "2014-12-07T07:44:00+08",
-      "power" : 979,
-      "ratio" : 100
-   },
-   {
-      "status_text" : "發電運轉",
-      "status" : 0,
-      "localtime" : "2014-12-07T07:44:00+08",
-      "power" : 981,
       "ratio" : 100,
-      "machine" : "核三廠二號機"
+      "status" : 0,
+      "status_text" : "發電運轉",
+      "power" : 1031,
+      "localtime" : "2014-12-07T07:45:00+08",
+      "machine" : "核二廠二號機"
+   },
+   {
+      "localtime" : "2014-12-07T07:45:00+08",
+      "machine" : "核三廠一號機",
+      "ratio" : 100,
+      "status" : 0,
+      "power" : 980,
+      "status_text" : "發電運轉"
+   },
+   {
+      "machine" : "核三廠二號機",
+      "localtime" : "2014-12-07T07:45:00+08",
+      "status_text" : "發電運轉",
+      "power" : 980,
+      "status" : 0,
+      "ratio" : 100
    }
 ]
