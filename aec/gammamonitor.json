@@ -1,272 +1,272 @@
 [
    {
       "station_en" : "SHIHMAN",
+      "localtime" : "2014-12-31T09:20:00+08",
       "station" : "石門",
-      "value" : "0.056",
-      "localtime" : "2014-12-31T09:15:00+08"
+      "value" : "0.056"
    },
    {
-      "station_en" : "SHANGI",
+      "value" : "0.059",
       "station" : "三芝",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.059"
-   },
-   {
-      "station" : "石崩山",
-      "station_en" : "SHIHBENGSHAN",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.066"
-   },
-   {
-      "station_en" : "MAOLIN",
-      "station" : "茂林",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.052"
-   },
-   {
-      "value" : "0.047",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station_en" : "CHINSHAN",
-      "station" : "金山"
-   },
-   {
-      "station_en" : "YEHLIU",
-      "station" : "野柳",
-      "value" : "0.051",
+      "station_en" : "SHANGI",
       "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "station" : "大鵬",
-      "station_en" : "TAPERNG",
-      "value" : "0.060",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "station" : "陽明山",
-      "station_en" : "YANGMINSHAN",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.059"
-   },
-   {
-      "station" : "大坪",
-      "station_en" : "TAPING",
-      "value" : "0.062",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "value" : "0.074",
-      "localtime" : "2014-12-31T09:10:00+08",
-      "station_en" : "WANLI",
-      "station" : "萬里"
-   },
-   {
-      "value" : "0.057",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station_en" : "TAIPEI",
-      "station" : "台北"
-   },
-   {
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.063",
-      "station" : "宜蘭",
-      "station_en" : "ILAN"
-   },
-   {
-      "station_en" : "LUNGTAN",
-      "station" : "龍潭",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.050"
-   },
-   {
-      "station" : "台中",
-      "station_en" : "TAICHUNG",
-      "value" : "0.073",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "station" : "台東",
-      "station_en" : "TAITUNG",
-      "value" : "0.051",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "station_en" : "KAOHSIUNG",
-      "station" : "高雄",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.065"
-   },
-   {
-      "value" : "0.069",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "恆春",
-      "station_en" : "HENGCHUN"
-   },
-   {
-      "station" : "龍泉",
-      "station_en" : "LUNGCHUAN",
-      "value" : "0.058",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.051",
-      "station_en" : "TAKUANG",
-      "station" : "大光"
-   },
-   {
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.054",
-      "station" : "墾丁",
-      "station_en" : "KENTING"
-   },
-   {
-      "station" : "後壁湖",
-      "station_en" : "HOUBIHU",
-      "value" : "0.055",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "value" : "0.050",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "澳底",
-      "station_en" : "AODI"
-   },
-   {
-      "station_en" : "GONGLIAO",
-      "station" : "貢寮",
-      "value" : "0.054",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "value" : "0.115",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "阿里山",
-      "station_en" : "ALISHAN"
-   },
-   {
-      "station_en" : "KINMEN",
-      "station" : "金門",
-      "value" : "0.090",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "station_en" : "LANYU",
-      "station" : "蘭嶼",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.041"
-   },
-   {
-      "value" : "0.061",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "台南",
-      "station_en" : "TAINAN"
-   },
-   {
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.051",
-      "station_en" : "LUNGMEN",
-      "station" : "龍門"
-   },
-   {
-      "value" : "0.065",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "雙溪",
-      "station_en" : "SHUANGSI"
    },
    {
       "value" : "0.064",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "三港",
-      "station_en" : "SANGANG"
+      "station" : "石崩山",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "SHIHBENGSHAN"
    },
    {
       "value" : "0.052",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station_en" : "HSINCHU",
-      "station" : "新竹"
+      "station" : "茂林",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "MAOLIN"
    },
    {
-      "value" : "0.052",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "花蓮",
-      "station_en" : "HUALINE"
-   },
-   {
-      "station" : "澎湖",
-      "station_en" : "PENGHU",
-      "value" : "0.052",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "value" : "0.056",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station_en" : "MATZU",
-      "station" : "馬祖"
-   },
-   {
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.048",
-      "station_en" : "MANJHOU",
-      "station" : "滿州"
-   },
-   {
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.070",
-      "station_en" : "BANCIAO",
-      "station" : "板橋"
-   },
-   {
-      "value" : "0.048",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "屏東市",
-      "station_en" : "PINGTONG"
-   },
-   {
-      "station" : "基隆",
-      "station_en" : "KEELUNG",
-      "value" : "0.051",
-      "localtime" : "2014-12-31T09:15:00+08"
-   },
-   {
-      "station" : "頭城",
-      "station_en" : "TOUCHENG",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.052"
-   },
-   {
-      "station" : "竹北",
-      "station_en" : "JHUBEI",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.050"
-   },
-   {
-      "localtime" : "2014-12-31T09:15:00+08",
       "value" : "0.047",
-      "station_en" : "MIAOLI",
-      "station" : "苗栗"
+      "station" : "金山",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "CHINSHAN"
    },
    {
-      "value" : "0.054",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "station" : "南投",
-      "station_en" : "NANTOU"
+      "station_en" : "YEHLIU",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "野柳",
+      "value" : "0.051"
    },
    {
-      "station" : "彰化",
-      "station_en" : "CHANGHUA",
+      "station_en" : "TAPERNG",
       "localtime" : "2014-12-31T09:15:00+08",
+      "value" : "0.060",
+      "station" : "大鵬"
+   },
+   {
+      "value" : "0.059",
+      "station" : "陽明山",
+      "station_en" : "YANGMINSHAN",
+      "localtime" : "2014-12-31T09:20:00+08"
+   },
+   {
+      "value" : "0.062",
+      "station" : "大坪",
+      "station_en" : "TAPING",
+      "localtime" : "2014-12-31T09:15:00+08"
+   },
+   {
+      "station_en" : "WANLI",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "萬里",
+      "value" : "0.074"
+   },
+   {
+      "station" : "台北",
+      "value" : "0.057",
+      "localtime" : "2014-12-31T09:15:00+08",
+      "station_en" : "TAIPEI"
+   },
+   {
+      "station_en" : "ILAN",
+      "localtime" : "2014-12-31T09:15:00+08",
+      "value" : "0.063",
+      "station" : "宜蘭"
+   },
+   {
+      "value" : "0.050",
+      "station" : "龍潭",
+      "localtime" : "2014-12-31T09:15:00+08",
+      "station_en" : "LUNGTAN"
+   },
+   {
+      "localtime" : "2014-12-31T09:15:00+08",
+      "station_en" : "TAICHUNG",
+      "value" : "0.073",
+      "station" : "台中"
+   },
+   {
+      "value" : "0.051",
+      "station" : "台東",
+      "localtime" : "2014-12-31T09:15:00+08",
+      "station_en" : "TAITUNG"
+   },
+   {
+      "station_en" : "KAOHSIUNG",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "高雄",
       "value" : "0.065"
    },
    {
-      "station" : "雲林",
-      "station_en" : "YUNLIN",
-      "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.054"
+      "station_en" : "HENGCHUN",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "恆春",
+      "value" : "0.069"
    },
    {
-      "station_en" : "CHIAYI",
-      "station" : "嘉義",
+      "value" : "0.058",
+      "station" : "龍泉",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "LUNGCHUAN"
+   },
+   {
+      "value" : "0.051",
+      "station" : "大光",
       "localtime" : "2014-12-31T09:15:00+08",
-      "value" : "0.049"
+      "station_en" : "TAKUANG"
+   },
+   {
+      "value" : "0.054",
+      "station" : "墾丁",
+      "station_en" : "KENTING",
+      "localtime" : "2014-12-31T09:15:00+08"
+   },
+   {
+      "station" : "後壁湖",
+      "value" : "0.056",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "HOUBIHU"
+   },
+   {
+      "station_en" : "AODI",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "value" : "0.049",
+      "station" : "澳底"
+   },
+   {
+      "value" : "0.054",
+      "station" : "貢寮",
+      "station_en" : "GONGLIAO",
+      "localtime" : "2014-12-31T09:20:00+08"
+   },
+   {
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "ALISHAN",
+      "station" : "阿里山",
+      "value" : "0.113"
+   },
+   {
+      "station" : "金門",
+      "value" : "0.090",
+      "station_en" : "KINMEN",
+      "localtime" : "2014-12-31T09:20:00+08"
+   },
+   {
+      "station_en" : "LANYU",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "蘭嶼",
+      "value" : "0.041"
+   },
+   {
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "TAINAN",
+      "value" : "0.062",
+      "station" : "台南"
+   },
+   {
+      "station_en" : "LUNGMEN",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "龍門",
+      "value" : "0.051"
+   },
+   {
+      "station_en" : "SHUANGSI",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "雙溪",
+      "value" : "0.065"
+   },
+   {
+      "station_en" : "SANGANG",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "三港",
+      "value" : "0.063"
+   },
+   {
+      "station_en" : "HSINCHU",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station" : "新竹",
+      "value" : "0.051"
+   },
+   {
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "HUALINE",
+      "value" : "0.053",
+      "station" : "花蓮"
+   },
+   {
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "PENGHU",
+      "value" : "0.049",
+      "station" : "澎湖"
+   },
+   {
+      "value" : "0.058",
+      "station" : "馬祖",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "MATZU"
+   },
+   {
+      "value" : "0.048",
+      "station" : "滿州",
+      "station_en" : "MANJHOU",
+      "localtime" : "2014-12-31T09:20:00+08"
+   },
+   {
+      "station" : "板橋",
+      "value" : "0.071",
+      "station_en" : "BANCIAO",
+      "localtime" : "2014-12-31T09:20:00+08"
+   },
+   {
+      "value" : "0.048",
+      "station" : "屏東市",
+      "station_en" : "PINGTONG",
+      "localtime" : "2014-12-31T09:15:00+08"
+   },
+   {
+      "station" : "基隆",
+      "value" : "0.051",
+      "localtime" : "2014-12-31T09:15:00+08",
+      "station_en" : "KEELUNG"
+   },
+   {
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "TOUCHENG",
+      "station" : "頭城",
+      "value" : "0.053"
+   },
+   {
+      "value" : "0.051",
+      "station" : "竹北",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "JHUBEI"
+   },
+   {
+      "station" : "苗栗",
+      "value" : "0.047",
+      "station_en" : "MIAOLI",
+      "localtime" : "2014-12-31T09:20:00+08"
+   },
+   {
+      "station" : "南投",
+      "value" : "0.054",
+      "localtime" : "2014-12-31T09:15:00+08",
+      "station_en" : "NANTOU"
+   },
+   {
+      "localtime" : "2014-12-31T09:15:00+08",
+      "station_en" : "CHANGHUA",
+      "value" : "0.065",
+      "station" : "彰化"
+   },
+   {
+      "station" : "雲林",
+      "value" : "0.055",
+      "localtime" : "2014-12-31T09:20:00+08",
+      "station_en" : "YUNLIN"
+   },
+   {
+      "station" : "嘉義",
+      "value" : "0.049",
+      "localtime" : "2014-12-31T09:15:00+08",
+      "station_en" : "CHIAYI"
    }
 ]
