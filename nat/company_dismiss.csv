@@ -1,0 +1,1399 @@
+
+<!DOCTYPE html>
+
+
+
+<html lang="zh-Hant-TW">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <title>全國商工行政服務入口網</title>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+            <meta http-equiv="X-UA-Compatible" content="IE=9" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,maximum-scale=1.0">
+            <link href="css/bootstrap.css" rel="stylesheet">
+            <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+            <link href="css/font-awesome.min.css" rel="stylesheet">
+            <link href="css/styles.css" rel="stylesheet">
+            <link href="css/jasny-bootstrap.css" rel="stylesheet">
+            <link href="css/normalize.css" rel="stylesheet">
+            <link href="css/Commerce_layout.css" rel="stylesheet"> 
+            <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --> 
+            <!--[if lt IE 9]> 
+              <script src="js/html5shiv.min.js"></script> 
+              <script src="js/respond.min.js"></script> 
+            <![endif]-->
+            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+            <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+            <script type="text/javascript" src="ie/respond.min.js"></script>-->
+            <script src="js/jquery.min.js"></script>
+            <script src="js/bootstrap.js"></script>
+            <script src="js/jasny-bootstrap.js"></script>
+            <script src="js/analytics.js" type="text/javascript"></script>
+            <script>
+                $('tbody.rowlink').rowlink()
+            </script>
+            <noscript>
+            本Script功能提供設定表格點選一行產生連結，此項功能，不影響你閱讀本網站連結資訊。
+            </noscript>
+            <script>
+                $(document).ready(function() {
+                    if ($(window).width() > 768) {
+                        $('.navbar-default .dropdown').on('mouseover', function() {
+                            $('.dropdown-toggle', this).next('.dropdown-menu').show();
+                        }).on('mouseout', function() {
+                            $('.dropdown-toggle', this).next('.dropdown-menu').hide();
+                        });
+                    }
+                    else {
+                        $('.navbar-default .dropdown').off('mouseover').off('mouseout');
+                    }
+                    $('.dropdown-toggle').click(function() {
+                        if ($(this).next('.dropdown-menu').is(':visible')) {
+                            window.location = $(this).attr('href');
+                        }
+                    });
+                });
+            </script>
+            <noscript>
+            本Script功能提供滑鼠滑過次要選單就會顯示該選單選項，不用滑鼠點擊才會顯示該選單選項。
+            </noscript>
+            <script>
+                /* __________________ Mobile Menu __________________*/
+                $(document).ready(function() {
+                    $('.navbar').clone().removeClass('hidden-xs').appendTo('.mobile-menu');
+                }); //end
+            </script>
+            <noscript>
+            本Script功能提供在簡易版網站將次要選單從原本位置往上挪移到主選單下方，讓螢幕畫面更方便操作。
+            </noscript>
+            <!-- fix IE form placeholder 2015/8/17-->
+            <script type="text/javascript">
+                var test = document.createElement('input');
+                if (!('placeholder' in test)) {
+                    $('input').each(function() {
+                        if ($(this).attr('placeholder') != "" && this.value == "") {
+                            $(this).val($(this).attr('placeholder'))
+                                    .css('color', '#666')
+                                    .on({
+                                        focus: function() {
+                                            if (this.value == $(this).attr('placeholder')) {
+                                                $(this).val("").css('color', '#000');
+                                            }
+                                        },
+                                        blur: function() {
+                                            if (this.value == "") {
+                                                $(this).val($(this).attr('placeholder'))
+                                                        .css('color', '#666');
+                                            }
+                                        }
+                                    });
+                        }
+                    });
+                }
+            </script>
+            <style>
+                .border-radius {
+                    behavior: url(pie/PIE.htc);
+                    position: relative;
+                    zoom: 1;
+                }
+                h4 .h6 {
+                    color: #000057;
+                }
+            </style>
+        </head>
+        <body>
+            <!-- Start Header -->
+            <nav class="header">
+                <div class="container">
+                    <!-- Brand Logo -->
+                    <div class="navbar-header col-lg-5 col-md-5 col-sm-12 col-xs-12" style="padding-top:10px;">
+                        <a href="index.jsp">
+                            <img class="hidden-xs" src="img/logo.png" style="width:350px;" alt="經濟部標章圖片">
+                            <img class="visible-xs" src="img/logo_xs.png" alt="經濟部標章圖片">
+                        </a>
+                    </div>
+                    <div class="nav-container col-lg-7 col-md-7 col-sm-12 col-xs-12 ">
+                        <ul class="navigation hidden-xs" >
+                            <li><a href="#" accesskey="U" class="accessibility" title="上方功能區塊"><span style="color: #231815;">:::</span></a></li>
+                            <li><a href="classNAction.do?method=siteMap">網站導覽</a></li><li>|</li> 
+                            <li><a href="index.jsp">回首頁</a> </li><li>|</li>
+                            <li><a href="English/index.jsp">English</a></li><li>|</li>
+                            <li><a href="simple/index.jsp">簡易版</a></li><li>|</li> 
+                            <li><a href="classNAction.do?method=feedback">首長信箱</a></li><li>|</li> 
+                            <li><a href="https://www.facebook.com/moea.gov.tw" target="_blank">經濟部facebook</a></li><li>|</li>
+                            <li><a href="subclassNAction.do?method=getFile&pk=659">公務專區</a></li><li>|</li>
+                            <li><a href="rssAction.do?method=showRss"><img src="img/RSS-icon.png" alt="RSS" style="width:23px;border-width:0px;" /></a></li>
+                            <li>
+                                <!-- AddToAny BEGIN -->
+                                <a class="a2a_dd" href="https://www.addtoany.com/share">
+                                    <img src="img/Apps-Sharing-icon.png" alt="分享" style="width:23px;border-width:0px;" /></a>
+                                <script type="text/javascript">
+                                    var a2a_config = a2a_config || {};
+                                    a2a_config.locale = "zh-TW";
+                                    a2a_config.prioritize = ["facebook", "line", "twitter", "google_plus", "linkedin", "plurk", "email", "print"];
+                                </script>
+                                <script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+                                <!-- AddToAny END -->
+                            </li>
+                        
+                    </ul> 
+                </div>
+                <!--MENU CLONES HERE--> 
+                <div class="mobile-menu visible-xs"></div>
+            </div> <!-- end of.container -->       
+        </nav>
+        <!-- End of header -->
+        <!-- Start banner-wrap -->
+        <div class="banner-wrap" >
+            <div class="container">
+                <div class="row">
+                    <!-- Start banner-center -->
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 banner-center  text-left">
+                        <h4> 登記家數統計 <br> 
+                            <span class="h6"> 公司 <font style="font-size:20px;"> 695877</font> 家</span><br> 
+                            <span class="h6"> 商號 <font style="font-size:20px;"> 852246</font> 家</span> 
+                        </h4>
+                    </div>
+                    <!-- End banner-center -->
+                    <!-- Start banner-right -->
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 banner-right text-left">
+                        <h4>預查可領件編號<br> 
+                            <span class="h6"> <font style="font-size:20px;"> 106092713</font></span>
+                        </h4>
+                    </div>
+                    <!-- End banner-right -->
+                    <!-- Start banner-left -->
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 banner-left text-center">
+                        <!-- Start search form -->
+                        <form id="search-form" name="searchForm" method="get" action="searchAction.do?">
+                            <input type="hidden" name="method" value="doSearch" />
+                            <div class="search-input">
+                                <label for="search-input" style="display:none;">全站檢索</label>
+                                <input id="search-input" accesskey="S" name="qStr" type="text" placeholder="全站檢索" size="20">
+                                <button class="search-submit" type="submit"><img src="img/icon_search.png" alt="搜尋圖片"></button>
+                            </div>
+                        </form>
+                        <!-- End search form -->
+                        <div>
+                            <p class="hotsearch"><a href="hotSearch.jsp" target="_blank">【熱門查詢】公司/商業/工廠登記資料</a></p>
+                            <p class="subtitle"><a href="searchAction.do?method=search">進階檢索</a></p>
+                        </div>
+                    </div>
+                    <!-- End banner-left -->
+                </div>
+                <!-- End row -->
+            </div>
+            <!-- End banner-container -->
+        </div>
+        <nav class="navbar navbar-default hidden-xs" role="navigation">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12">		
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>		
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" >
+                            <ul class="nav navbar-nav navbar-left">
+                                
+
+                                <li class="dropdown visible-xs hidden-md">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">頂端資訊 <span class="caret"></span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="classNAction.do?method=siteMap">網站導覽</a></li>
+                                        <li><a href="index.jsp">回首頁</a></li>
+                                        <li><a href="English/index.jsp">English</a></li>
+                                        <li><a href="simple/index.jsp">簡易版</a></li>
+                                        <li><a href="classNAction.do?method=feedback">首長信箱</a></li>
+                                        <li><a href="https://www.facebook.com/moea.gov.tw" target="_blank">經濟部facebook</a></li>
+                                        <li><a href="subclassNAction.do?method=getFile&pk=659">公務專區</a></li>
+                                        <li><a href="rssAction.do?method=showRss"><img src="img/RSS-icon.png" alt="RSS" style="width:21px;border-width:0px;" /></a></li>
+                            <li>
+                                <!-- AddToAny BEGIN -->
+                                <a class="a2a_dd" href="https://www.addtoany.com/share">
+                                    <img src="img/Apps-Sharing-icon.png" alt="分享" style="width:21px;border-width:0px;" /></a>
+                                <script type="text/javascript">
+                                    var a2a_config = a2a_config || {};
+                                    a2a_config.locale = "zh-TW";
+                                    a2a_config.prioritize = ["facebook", "line", "twitter", "google_plus", "linkedin", "plurk", "email", "print"];
+                                </script>
+                                <script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+                                <!-- AddToAny END -->
+                            </li>
+
+                                        
+                                    </ul>
+                                </li>
+
+<li class="dropdown">
+<a id="topC1" href="classNAction.do?method=list&pkGcisClassN=1" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">認識商業司<span class="caret"></span></a>
+<ul class="dropdown-menu nav-first" role="menu">
+<li><a href="subclassNAction.do?method=getFile&pk=70">司長簡介</a></li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=679">組織職掌與聯絡資訊</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=682">組織架構</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=680">主要職掌/主管法規</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=681">服務窗口及聯絡電話</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=4">商業發展政策</a>
+<ul class="dropdown-menu">
+<li><a href="ebook\Introduction_of_Commerce_in_the_Republic_of_China/index.html" target="_blank">中華民國商業簡介</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=662">歷年施政計畫</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=661">商業發展歷年推動成果</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=838">行政及政策類或科技類計畫</a></li>
+</ul>
+</li>
+<li><a href="subclassNAction.do?method=getFile&pk=5">資訊安全</a></li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=6">為民服務規範</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=72">經濟部商業司民眾抱怨處理作業規定</a></li>
+<li><a href="matterAction.do?method=showFile&fileNo=t80006">經濟部商業司為民服務守則</a></li>
+<li><a href="matterAction.do?method=showFile&fileNo=t80052">經濟部商業司106年度提升服務效能執行計畫</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=74">經濟部商業司不定期為民服務考核</a></li>
+</ul>
+</li>
+<li><a href="subclassNAction.do?method=getFile&pk=7">交通指南</a></li>
+</ul>
+</li>
+<li class="slash hidden-xs"></li>
+<li class="dropdown">
+<a id="topC2" href="classNAction.do?method=list&pkGcisClassN=2" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">焦點消息<span class="caret"></span></a>
+<ul class="dropdown-menu " role="menu">
+<li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=5">即時新聞</a></li>
+<li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=1">重大政策</a></li>
+<li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=4">活動訊息</a></li>
+<li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=6">真相說明</a></li>
+<li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=2">就業資訊</a></li>
+<li><a href="classNAction.do?method=close">閉鎖性公司專區</a></li>
+<li><a href="classNAction.do?method=accounting">商業會計專區</a></li>
+<li><a href="classNAction.do?method=limitedPartner">有限合夥專區</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=763">公司法修法專區</a></li>
+</ul>
+</li>
+<li class="slash hidden-xs"></li>
+<li class="dropdown">
+<a id="topC18" href="classNAction.do?method=list&pkGcisClassN=18" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">線上申辦<span class="caret"></span></a>
+<ul class="dropdown-menu " role="menu">
+<li><a href="subclassNAction.do?method=getFile&pk=633">線上企業開辦</a></li>
+<li><a href="https://onestop.nat.gov.tw/oss/identity/Identity/init.do" target="_blank">公司與商業及有限合夥一站式線上申請作業</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=635">公司名稱預查網路申請系統</a></li>
+<li><a href="https://gcis.nat.gov.tw/eicm/eicm/bank/index.jsp" target="_blank">名稱及所營事業預查核覆系統</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=637">公司名稱預查一維條碼申請系統</a></li>
+<li><a href="https://gcis.nat.gov.tw/eicm/eicm/prefixedit/indexLimit.jsp" target="_blank">有限合夥名稱預查一維條碼申請系統</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=638">工商憑證申請</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=639">國際貿易局線上申辦服務</a></li>
+<li><a href="https://csoas.moeaidb.gov.tw/csoas/login.do" target="_blank">工業局線上申辦服務</a></li>
+<li><a href="https://gcis.nat.gov.tw/fdas/fda/dangLogin.jsp" target="_blank">工廠危險物品申報網</a></li>
+<li><a href="https://ppstrq.nat.gov.tw/pps" target="_blank">動產擔保交易線上登記及公示查詢服務</a></li>
+</ul>
+</li>
+<li class="slash hidden-xs"></li>
+<li class="dropdown">
+<a id="topC3" href="classNAction.do?method=list&pkGcisClassN=3" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">主要業務<span class="caret"></span></a>
+<ul class="dropdown-menu " role="menu">
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=514">公司與有限合夥名稱預查</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=643">公司預查申辦業務說明</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=644">公司預查申請表之填寫說明</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=671">有限合夥預查申辦業務說明</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=672">有限合夥預查申請表之填寫說明</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=14">公司登記</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=20">本國公司登記</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=673">有限合夥登記</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=21">外國公司認許（在臺分公司）、辦事處</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=22">大陸公司申請許可及設立在臺分公司、申請許可及設立辦事處報備</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=653">服務提供者證明書</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=663">商業名稱預查及登記</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=664">商業名稱預查</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=665">商業登記</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=627">商業行政資訊</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=647">工商憑證申請服務</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=648">商工行政開放資料服務</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=529">商業會計</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=674">商業會計法之制定及解釋</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=677">營利事業有無累積虧損查詢清冊表格(政治獻金)</a></li>
+</ul>
+</li>
+<li><a href="subclassNAction.do?method=getFile&pk=840">銀樓業防制洗錢</a></li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=528">商品標示消費者保護與電子遊戲場</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=645">電子遊戲場業</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=646">商品標示</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=755">消費者權益保護</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=18">商業組織法制</a>
+<ul class="dropdown-menu">
+<li><a href="classNAction.do?method=close" target="_blank">閉鎖性公司專區</a></li>
+<li><a href="https://gcis.nat.gov.tw/elaw/index.jsp">商業法令解釋(商工法規檢索)</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=17">網路零售</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=654">網路零售業(含平台)管理</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=655">憑證實務作業基準審查</a></li>
+</ul>
+</li>
+<li><a href="subclassNAction.do?method=getFile&pk=16">智慧通路與物流</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=530">商業創新研發與餐飲科技應用推廣</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=15">連鎖加盟業及工商綜合區</a></li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=592">投資抵減及經濟事務財團法人管理</a>
+<ul class="dropdown-menu">
+<li><a href="subclassNAction.do?method=getFile&pk=649">公司研究發展支出投資抵減</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=650">中小企業研究發展支出投資抵減</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=651">經濟事務財團法人登記須知</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=652">補(捐)助民間團體推動商業發展活動</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="slash hidden-xs"></li>
+<li class="dropdown">
+<a id="topC4" href="classNAction.do?method=list&pkGcisClassN=4" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">商工查詢服務<span class="caret"></span></a>
+<ul class="dropdown-menu " role="menu">
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=getFile&pk=23">公司登記查詢</a>
+<ul class="dropdown-menu">
+<li><a href="https://gcis.nat.gov.tw/pub/cmpy/cmpyInfoListAction.do" target="_blank">公司及分公司基本資料查詢 </a></li>
+<li><a href="https://gcis.nat.gov.tw/gps/gpsInit/GpsInit/init.do" target="_blank">公司及分公司基本資料查詢(圖形版)</a></li>
+<li><a href="https://gcis.nat.gov.tw/pub/cmpy/nameSearchListAction.do" target="_blank">公司名稱暨所營事業預查輔助查詢</a></li>
+<li><a href="https://gcis.nat.gov.tw/pub/cmpy/prefCaseListAction.do" target="_blank">公司預查案件進度查詢</a></li>
+<li><a href="https://gcis.nat.gov.tw/pub/cmpy/cmpyCaseListAction.do" target="_blank">公司登記案件進度查詢 </a></li>
+<li><a href="https://gcis.nat.gov.tw/pub/cmpy/report.jsp" target="_blank">公司登記資料相關清冊下載 </a></li>
+<li><a href="https://gcis.nat.gov.tw/pub/cmpy/factorySelfPublishAction.do?method=queryPage" target="_blank">廠商自行登載事項</a></li>
+<li><a href="https://gcis.nat.gov.tw/auth/cmpy/RegisteredData/query.do" target="_blank">公司登記資料查詢 </a></li>
+<li><a href="https://gcis.nat.gov.tw/auth/cmpy/RelatedPerson/query.do" target="_blank">關係人公司基本資料查詢 </a></li>
+<li><a href="https://gcis.nat.gov.tw/StatisticQry/cmpy/index.jsp" target="_blank">公司統計資料查詢 </a></li>
+<li><a href="subclassNAction.do?method=list&pk=126">企業併購資料查詢</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=getFile&pk=24">商業登記查詢</a>
+<ul class="dropdown-menu">
+<li><a href="https://gcis.nat.gov.tw/moeadsBF/dirbf-frame.jsp?showgcislocation=true&agencycode=allbf&showbusi=true&showfact=false" target="_blank">全部機關 商業登記資料查詢</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=483">單一機關 商業登記資料查詢</a></li>
+<li><a href="https://gcis.nat.gov.tw/pub/cmpy/factorySelfPublishAction.do?method=queryPage" target="_blank">廠商自行登載事項</a></li>
+<li><a href="https://gcis.nat.gov.tw/gps/gpsBussInit/GpsBussInit/init.do" target="_blank">商業登記資料查詢(圖形版)</a></li>
+</ul>
+</li>
+<li><a href="https://gcis.nat.gov.tw/lmpub/lms/dir.jsp?showgcislocation=true&agencycode=allbf" target="_blank">有限合夥登記查詢</a></li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=getFile&pk=25">工廠登記查詢</a>
+<ul class="dropdown-menu">
+<li><a href="https://gcis.nat.gov.tw/moeadsBF/dirbf-frame.jsp?showgcislocation=true&agencycode=allbf&showbusi=false&showfact=true" target="_blank">全部機關 工廠登記資料進行查詢</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=484">單一機關 工廠登記資料進行查詢</a></li>
+<li><a href="https://gcis.nat.gov.tw/gps/gpsFactInit/GpsFactInit/init.do" target="_blank">工廠登記資料查詢(圖形版)</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=getFile&pk=26">相關資訊查詢服務</a>
+<ul class="dropdown-menu">
+<li><a href="https://ppstrq.nat.gov.tw/main/query/PropertyQuery/propertyQuery.do" target="_blank">全國動產擔保交易公示查詢網站</a></li>
+<li><a href="http://www.moea.gov.tw/Mns/dos/content/ContentLink.aspx?menu_id=6849" target="_blank">公司及商業登記公務統計報表</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=81">商業行政電腦語音及傳真查詢系統</a></li>
+<li><a href="https://gcis.nat.gov.tw/jsm/publicdata/PublicShowV2.jsp" target="_blank">經濟事務財團法人資料查詢</a></li>
+<li><a href="https://onestop.nat.gov.tw/oss/ossWeb/GcrApply/initPage.do" target="_blank">電子遊戲機評鑑及查驗申請 </a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=89">評鑑通過電子遊戲機名錄</a></li>
+<li><a href="http://www.etax.nat.gov.tw/etwmain/front/ETW113W1" target="_blank">營業（稅籍）登記資料公示查詢 </a></li>
+<li><a href="https://gcis.nat.gov.tw/cod/index.jsp" target="_blank">公司行號及有限合夥營業項目代碼表檢索系統</a></li>
+<li><a href="https://gcis.nat.gov.tw/ALWB/home" target="_blank">公司與商業登記前應經許可業務暨項目查詢服務平台</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="slash hidden-xs"></li>
+<li class="dropdown">
+<a id="topC5" href="classNAction.do?method=list&pkGcisClassN=5" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">法令解釋<span class="caret"></span></a>
+<ul class="dropdown-menu " role="menu">
+<li><a href="https://gcis.nat.gov.tw/elaw/index.jsp" target="_blank">商工行政法規檢索系統</a></li>
+<li><a href="https://gcis.nat.gov.tw/elaw/lawDtlAction.do?method=browse" target="_blank">商工行政法規一覽表</a></li>
+<li><a href="https://gcis.nat.gov.tw/elaw/welcome.do?anchor=1" target="_blank">即時公司法解釋</a></li>
+<li><a href="https://gcis.nat.gov.tw/elaw/welcome.do?anchor=2" target="_blank">公司登記相關法令解釋 </a></li>
+<li><a href="https://gcis.nat.gov.tw/elaw/welcome.do?anchor=3" target="_blank">企業併購法解釋</a></li>
+<li><a href="http://law.moj.gov.tw/" target="_blank">全國法規資料庫</a></li>
+</ul>
+</li>
+<li class="slash hidden-xs"></li>
+<li class="dropdown">
+<a id="topC20" href="classNAction.do?method=list&pkGcisClassN=20" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">資料下載<span class="caret"></span></a>
+<ul class="dropdown-menu " role="menu">
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=685">公司與有限合夥名稱預查行政書表&參考資料</a>
+<ul class="dropdown-menu" style="margin-left:-41.9em; margin-left:5.5em\9;">
+<li><a href="subclassNAction.do?method=getFile&pk=686">公司名稱預查</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=687">有限合夥名稱預查</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=688">公司與商業登記前應經許可業務暨項目總表</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=701">公司與有限合夥登記行政書表&參考資料</a>
+<ul class="dropdown-menu" style="margin-left:-30.4em; margin-left:5.5em\9;">
+<li><a href="subclassNAction.do?method=getFile&pk=702">公司登記</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=703">有限合夥登記</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=704">商業名稱預查及登記行政書表&參考資料</a>
+<ul class="dropdown-menu" style="margin-left:-30.4em; margin-left:5.5em\9;">
+<li><a href="subclassNAction.do?method=getFile&pk=705">商業名稱預查</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=706">商業登記</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=707">商業會計行政書表&參考資料</a>
+<ul class="dropdown-menu" style="margin-left:-43.5em; margin-left:5.5em\9;">
+<li><a href="subclassNAction.do?method=getFile&pk=708">商業會計法之制定及解釋</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=709">會計師簽證案件清單及公司決算書表申報表格</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=711">營利事業有無累積虧損查詢清冊表格(政治獻金)</a></li>
+</ul>
+</li>
+<li><a href="subclassNAction.do?method=getFile&pk=712">工業行政參考資料</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=713">工商綜合區行政書表&參考資料</a></li>
+<li class="dropdown-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=list&pk=714">其他行政書表&參考資料</a>
+<ul class="dropdown-menu" style="margin-left:-42.2em; margin-left:5.5em\9;">
+<li><a href="subclassNAction.do?method=getFile&pk=715">商工行政開放資料服務</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=716">商品標示參考資料</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=717">電子遊戲場業行政書表&參考資料</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=718">定型化契約參考資料</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=719">網路零售業(含平台)管理行政書表&參考資料</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=720">憑證實務作業基準審查</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=721">投資抵減及經濟事務財團法人管理行政書表</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=794">「經濟部提供科技事業或文化創意產業具市場性意見書作業要點」申請書表</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=723">『商業團體分業標準』問答集內容</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=825">《勞基法新制上路》商業服務業調適指引手冊</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="slash hidden-xs"></li>
+<li class="dropdown">
+<a id="topC7" href="classNAction.do?method=list&pkGcisClassN=7" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">與民互動<span class="caret"></span></a>
+<ul class="dropdown-menu " role="menu">
+<li><a href="https://gcis.nat.gov.tw/crm/index.jsp" target="_blank">諮詢服務（常用問題集）</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=518">諮詢專線／首長信箱</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=695">政府資訊公開區</a></li>
+</ul>
+</li>
+<li class="slash hidden-xs"></li>
+<li class="dropdown">
+<a id="topC8" href="classNAction.do?method=list&pkGcisClassN=8" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">相關網站<span class="caret"></span></a>
+<ul class="dropdown-menu nav-last" role="menu">
+<li class="dropdown-submenu left-submenu">
+<a tabindex="-1" href="subclassNAction.do?method=getFile&pk=46">全國工商機構網站</a>
+<ul class="dropdown-menu" style="margin-left:3em; margin-left:5.5em\9;">
+<li><a href="subclassNAction.do?method=getFile&pk=62">工商行政機關網站</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=63">工商公協會網站</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=64">工商服務團體網站</a></li>
+</ul>
+</li>
+<li><a href="subclassNAction.do?method=getFile&pk=76">行業別會計制度規範網站</a></li>
+<li><a href="http://luz.tcd.gov.tw/" target="_blank">土地使用分區查詢</a></li>
+<li><a href="http://www.moea.gov.tw/Mns/populace/content/SubMenu.aspx?menu_id=148" target="_blank">經濟部出版品</a></li>
+<li><a href="http://gazette.nat.gov.tw/egFront/index.jsp" target="_blank">行政院公報資訊網</a></li>
+<li><a href="subclassNAction.do?method=getFile&pk=77">消費者債務清償協助窗口</a></li>
+<li><a href="http://www.fda.gov.tw/TC/Promotional.aspx?cid=437" target="_blank">食品標示新制懶人包</a></li>
+</ul>
+</li>
+
+
+                            </ul> <!-- .nav .navbar-nav -->		 
+                        </div><!-- /.navbar-collapse -->
+                    </div><!-- /.col -->
+                </div><!-- /.row -->		
+            </div><!-- /.container -->
+        </nav>
+        <!---重要公告----->
+        <div class="container mt14" >
+            <div class="col-md-12"><a href="#" accesskey="M" class="accessibility" title="中央內容區塊"><span>:::</span></a>
+           
+                    
+<div class="slide">
+
+<marquee onMouseOver="this.stop()" onMouseOut="this.start()" scrollamount="4">
+    
+</marquee>
+</div>
+<!--<span>◎</span>自106/06/16(五) 18:00起至106/06/17(六) 12:00進行系統維護，屆時「全國商工行政服務入口網」各項服務、「公司、商業及有限合夥一站式線上申請作業網站系統」、「商工行政資料開放平台」、「全國動產擔保交易公示查詢網站」暫停服務。-->
+
+<style type="text/css">
+    .slide {
+        color:#F00;
+        margin:-18px 50px 0 50px;
+        font-size: 16px;
+    }
+    .slide span {
+        color:black;
+        font-size: 32px;
+        position: relative;
+        top:6px;
+        color:#F00;
+    }
+</style>
+</div>
+            
+
+<style type="text/css">
+    .table-responsive p {
+        margin-left:1.1em;
+        text-indent: -1.1em;
+        padding: 5px 0 0 0;
+    }
+    .table-responsive p a {
+        color:#231815;
+        text-decoration:none;
+    }
+    .table-responsive p a:hover {
+        text-decoration:underline;
+        color: #FF3F00;
+    }
+    .table-responsive p span {
+        width:25px;
+        height:20px;
+        color:#FFF;
+        background-color:#231815;
+        padding:0 3px;
+        text-align:center;
+        border-radius:4px;
+        margin-right:5px;
+        -webkit-border-radius: 4px; /* Safari, Chrome */
+        -moz-border-radius: 4px; /* Firefox */
+        /*behavior: url(border-radius.htc);  IE6, IE7, IE8 */
+    }
+    .table-responsive p.more {
+        width:90%;
+        text-align:right;
+        color:#107596;
+        font-size:14px;
+        _font-size:13px;
+        *font-size:13px;
+    }
+    .table-responsive p.more a {
+        color:#107596;
+        text-decoration:none;
+    }
+    .table-responsive p.more a:hover {
+        text-decoration:underline;
+        color: #FF3F00;
+    }
+    .newsArea {
+        padding-bottom: 1px;
+        background-color:#FFF;
+        border-radius:4px;
+        -webkit-border-radius: 4px; /* Safari, Chrome */
+        -moz-border-radius: 4px; /* Firefox */
+        overflow: hidden;
+    }
+    .newsArea1 {
+        padding-bottom: 20px;
+        background-color:#FFF;
+        border-radius:4px;
+        -webkit-border-radius: 4px; /* Safari, Chrome */
+        -moz-border-radius: 4px; /* Firefox */
+        overflow: hidden;
+    }
+    .newsArea1 h1, .h1 {
+        font-size: 1.6em;
+        text-align: center;
+        font-weight: bold;
+    }
+    .newsArea1 h4, .h4 {
+        text-align: center;
+    }
+    .newsArea1 a {
+        font-size: 1.5em;
+        text-align: center;
+        color: #00B0FF;
+        text-decoration: underline;
+    }
+    .newsArea2 {
+        padding-bottom: 140px;
+        background-color:#FFF;
+        border-radius:4px;
+        -webkit-border-radius: 4px; /* Safari, Chrome */
+        -moz-border-radius: 4px; /* Firefox */
+    }
+    .newsArea2 h1, .h1 {
+        font-size: 1.6em;
+        text-align: center;
+        font-weight: bold;
+    }
+    .newsArea2 h4, .h4 {
+        text-align: center;
+    }
+    .newsArea2 a {
+        font-size: 1em;
+        text-align: center;
+        color: #00B0FF;
+        text-decoration: underline;
+    }
+</style>
+            <div class="row mmr10">
+                <div id="content pills" class="ml30 ">
+                    <ul id="pills-first"  class="nav nav-pills visible-desktop" data-tabs="tabs">
+                        <li class="active"><a id="an1" href="#n1" data-toggle="tab">即時新聞</a></li>
+                        <li><a id="an2" href="#n2" data-toggle="tab">重大政策</a></li>
+                        <li><a id="an3" href="#n3" data-toggle="tab">活動訊息</a></li>
+                        <li><a id="an4" href="#n4" data-toggle="tab">真相說明</a></li>
+                        <li class="longName"><a id="an5" href="#n5" data-toggle="tab">閉鎖性公司專區</a></li>
+                        <li class="longName"><a id="an6" href="#n6" data-toggle="tab">商業會計專區</a></li>
+                        <li class="longName"><a id="an7" href="#n7" data-toggle="tab">有限合夥專區</a></li>
+                        <li class="longName"><a id="an8" href="subclassNAction.do?method=getFile&pk=763">公司法修法專區</a></li>
+                        
+                    </ul>
+                    <ul id="pills-first"  class="nav nav-pills nav-stacked visible-tablet visible-phone" data-tabs="tabs">
+                        <li class="active"><a id="san1" href="#n1" data-toggle="tab">即時新聞</a></li>
+                        <li><a id="san2" href="#n2" data-toggle="tab">重大政策</a></li>
+                        <li><a id="san3" href="#n3" data-toggle="tab">活動訊息</a></li>
+                        <li><a id="san4" href="#n4" data-toggle="tab">真相說明</a></li>
+                        <li><a id="san5" href="#n5" data-toggle="tab">閉鎖性公司專區</a></li>
+                        <li><a id="san6" href="#n6" data-toggle="tab">商業會計專區</a></li>
+                        <li><a id="san7" href="#n7" data-toggle="tab">有限合夥專區</a></li>
+                        <li><a id="san8" href="subclassNAction.do?method=getFile&pk=763">公司法修法專區</a></li>
+                        
+                    </ul>
+                    <div id="my-tab-content" class="tab-content">
+                        <div class="tab-pane active" id="n1">
+                            <div class="table-responsive">
+                                <table class="table border-bottom table-hover">
+                                    <colgroup>
+                                        <col style="width:30px;">
+                                        <col style="width:120px;">
+                                        <col style="width:auto;">
+                                    </colgroup>
+                                    <tbody data-link="row" class="rowlink">
+                                        
+<div class="newsArea">
+<div class="col-md-12"><p><span>1</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4750">2017/12/22 經濟部讓準新人的「婚紗攝影定型化契約」更有保障了 ... (商業司三科)</a></p></div>
+<div class="col-md-12"><p><span>2</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4749">2017/12/22 公司法大翻修，經濟部說清楚，講明白 ... (商業司五科)</a></p></div>
+<div class="col-md-12"><p><span>3</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4746">2017/12/18 「服務業創新研發」成果發表會 品味達人攜手打造幸福新生活 ... (商業司七科)</a></p></div>
+<div class="col-md-12"><p><span>4</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4744">2017/12/12 「服務業創新研發」成果發表會－品味達人NEW轉幸福新生活 ... (商業司七科)</a></p></div>
+<div class="col-md-12"><p><span>5</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4740">2017/11/28 邁向智慧服務時代 經濟部力推商業再升級 ... (商業司六科)</a></p></div>
+<p class="more"><a href="publicContentAction.do?method=listByType&pkGcisPublicType=5"><img src="images/more.png" alt="更多訊息" /></a></p>
+</div>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="n2">
+                            <div class="table-responsive">
+                                <table class="table border-bottom table-hover">
+                                    <colgroup>
+                                        <col style="width:30px;">
+                                        <col style="width:120px;">
+                                        <col style="width:auto;">
+                                    </colgroup>
+                                    <tbody data-link="row" class="rowlink">
+                                        
+<div class="newsArea">
+<div class="col-md-12"><p><span>1</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4748">2017/12/20 公告修正「商業團體分業標準」增訂「航空貨物集散站經營商業」團體業別及業務範圍 ... (商業司二科)</a></p></div>
+<div class="col-md-12"><p><span>2</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4747">2017/12/19 預告訂定「婚紗攝影定型化契約應記載及不得記載事項」 ... (商業司三科)</a></p></div>
+<div class="col-md-12"><p><span>3</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4745">2017/12/14 [行政院宣導] 做環保 集綠點 享回饋 ... (商業司四科)</a></p></div>
+<div class="col-md-12"><p><span>4</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4743">2017/12/07 [行政院宣導] 「產業創新條例」大翻修 ... (商業司四科)</a></p></div>
+<div class="col-md-12"><p><span>5</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4742">2017/12/01 預告修正「商業團體分業標準」「飼料及動物用藥商業」團體業別名稱為「飼料及動物用醫藥保健商業」及業務範圍 ... (商業司二科)</a></p></div>
+<p class="more"><a href="publicContentAction.do?method=listByType&pkGcisPublicType=1"><img src="images/more.png" alt="更多訊息" /></a></p>
+</div>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="n3">
+                            <div class="table-responsive">
+                                <table class="table border-bottom table-hover">
+                                    <colgroup>
+                                        <col style="width:30px;">
+                                        <col style="width:120px;">
+                                        <col style="width:auto;">
+                                    </colgroup>
+                                    <tbody data-link="row" class="rowlink">
+                                        
+<div class="newsArea">
+<div class="col-md-12"><p><span>1</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4736">2017/11/15 受理「亞洲矽谷智慧商業服務應用推動計畫」107年補助申請 ... (商業司六科)</a></p></div>
+<div class="col-md-12"><p><span>2</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4734">2017/11/08 經濟部將於106年11月25日辦理「推動銀樓業防制洗錢及打擊資恐宣導會」 ... (商業司二科)</a></p></div>
+<div class="col-md-12"><p><span>3</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4731">2017/10/31 商業司陳副司長秘順主持「臺馬跨境電商與物流服務交流論壇」 ... (商業司六科)</a></p></div>
+<div class="col-md-12"><p><span>4</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4716">2017/09/22 【更新】系統暫停服務通知106/9/23(六)上午9:00起至106/9/24(日)中午12:00 ... (商業司四科)</a></p></div>
+<div class="col-md-12"><p><span>5</span><a href="publicContentAction.do?method=showPublic&pkGcisPublicContent=4698">2017/08/11 經濟部商業司將於106年8月21日辦理「推動銀樓業防制洗錢及打擊資恐宣導會」 ... (商業司二科)</a></p></div>
+<p class="more"><a href="publicContentAction.do?method=listByType&pkGcisPublicType=4"><img src="images/more.png" alt="更多訊息" /></a></p>
+</div>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="n4">
+                            <div class="table-responsive">
+                                <table class="table border-bottom table-hover">
+                                    <colgroup>
+                                        <col style="width:30px;">
+                                        <col style="width:120px;">
+                                        <col style="width:auto;">
+                                    </colgroup>
+                                    <tbody data-link="row" class="rowlink">
+                                        
+                                        
+<div class="newsArea">
+<div class="col-md-12"><p>目前暫無資料</p></div>
+</div>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="n5">
+                            <div class="table-responsive">
+                                <table class="table border-bottom table-hover">
+                                    <colgroup>
+                                        <col style="width:30px;">
+                                        <col style="width:120px;">
+                                        <col style="width:auto;">
+                                    </colgroup>
+                                    <tbody data-link="row" class="rowlink">
+                                        
+<div class="newsArea1">
+<div class="col-md-12"><div class="h1">閉鎖性股份有限公司專區</div></div>
+<div class="col-md-1"></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=604">相關法規</a></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=605">登記書表</a></div>
+<div class="col-md-3"><a href="closeCmpyAction.do?method=list">閉鎖性公司名錄</a></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=607">常用問答</a></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=608">相關宣導</a></div>
+</div>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="n6">
+                            <div class="table-responsive">
+                                <table class="table border-bottom table-hover">
+                                    <colgroup>
+                                        <col style="width:30px;">
+                                        <col style="width:120px;">
+                                        <col style="width:auto;">
+                                    </colgroup>
+                                    <tbody data-link="row" class="rowlink">
+                                        
+<div class="newsArea1">
+<div class="col-md-12"><div class="h1">商業會計專區</div></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=611">背景說明</a></div>
+<div class="col-md-3"><a href="subclassNAction.do?method=getFile&pk=612">商業會計法令</a></div>
+<div class="col-md-3"><a href="subclassNAction.do?method=getFile&pk=613">企業會計準則公報</a></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=614">常用問答</a></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=615">宣導資料</a></div>
+</div>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="n7">
+                            <div class="table-responsive">
+                                <table class="table border-bottom table-hover">
+                                    <colgroup>
+                                        <col style="width:30px;">
+                                        <col style="width:120px;">
+                                        <col style="width:auto;">
+                                    </colgroup>
+                                    <tbody data-link="row" class="rowlink">
+                                        
+<div class="newsArea1">
+<div class="col-md-12"><div class="h1">有限合夥專區</div><div class="h4">(登記主管機關為經濟部商業司)</div></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=618">相關法規</a></div>
+<div class="col-md-3">
+<a href="subclassNAction.do?method=getFile&pk=687">名稱預查行政書表</a><br>
+<a href="subclassNAction.do?method=getFile&pk=703">登記行政書表</a>
+</div>
+<div class="col-md-3"><a href="limitedPartnerAction.do?method=list">有限合夥名錄</a></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=621">常用問答</a></div>
+<div class="col-md-2"><a href="subclassNAction.do?method=getFile&pk=622">相關宣導</a></div>
+</div>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        
+                        <div class="tab-pane" id="n8">
+                            <div class="table-responsive">
+                                <table class="table border-bottom table-hover">
+                                    <colgroup>
+                                        <col style="width:30px;">
+                                        <col style="width:120px;">
+                                        <col style="width:auto;">
+                                    </colgroup>
+                                    <tbody data-link="row" class="rowlink">
+                                        
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <!-- 業務焦點 && 常用連結-->
+        
+        <div class="container">
+            <div class="col-md-12 ml15 mtn15">
+                <div class="row h3">業務焦點</div><div style="position: absolute;"><a href="#" accesskey="B" class="accessibility" title="業務焦點區塊"><span style="color: white;">:::</span></a></div>
+                <div class="row">
+                    <div class="col-md-1-5">
+                        <div class="box">
+                            <a href="subclassNAction.do?method=getFile&pk=474" class="circle"><i class="fa fa-angle-right fa-4x"></i></a>
+                            <span class="w17" ><a id="focus" href="subclassNAction.do?method=getFile&pk=474">公司查詢服務</a></sapn>
+                        </div>
+                        <div class="box-bottom">
+                            公司登記查詢 │ 公司申辦服務
+                        </div>
+                    </div>
+                    <div class="col-md-1-5">
+                        <div class="box">
+                            <a href="subclassNAction.do?method=getFile&pk=475" class="circle"><i class="fa fa-angle-right fa-4x"></i></a>
+                            <span class="w17"><a id="focus" href="subclassNAction.do?method=getFile&pk=475">商業查詢服務</a></sapn>
+                        </div>
+                        <div class="box-bottom">
+                            商業登記查詢 │ 商業申辦服務
+                        </div>
+                    </div>
+                    <div class="col-md-1-5">
+                        <div class="box">
+                            <a href="subclassNAction.do?method=getFile&pk=476" class="circle"><i class="fa fa-angle-right fa-4x"></i></a>
+                            <span class="w17"><a id="focus" href="subclassNAction.do?method=getFile&pk=476">工廠查詢服務</a></sapn>
+                        </div>
+                        <div class="box-bottom">
+                            工廠登記查詢  │ 工廠申辦服務
+                        </div>
+                    </div>
+                    <div class="col-md-1-5">
+                        <div class="box">
+                            <a href="https://onestop.nat.gov.tw/oss/identity/Identity/init.do" class="circle" target="_blank"><i class="fa fa-angle-right fa-4x"></i></a>
+                            <span class="w17"><a id="focus" href="https://onestop.nat.gov.tw/oss/identity/Identity/init.do" target="_blank">開辦企業服務</a></span>
+                        </div>
+                        <div class="box-bottom">
+                            <span class="black" >透過開辦企業一站式申請作業服務，提供於線上進行公司及商業設立、營業登記、成立勞健保投保單位等程序...</sapn>
+                        </div>
+                    </div>
+                    <div class="col-md-1-5">
+                        <div class="box">
+                            <a href="classNAction.do?method=list&pkGcisClassN=14" class="circle"><i class="fa fa-angle-right fa-4x"></i></a>
+                            <span class="w17"><a id="focus" href="classNAction.do?method=list&pkGcisClassN=14">多媒體專區</a></sapn>
+                        </div>
+                        <!--
+                        <div class="box-bottom-underline">
+                            <a href="#" class="">商業司承辦人員登入專區</a><br>
+                            <a href="#" class="">會員專區</a><br>
+                            <a href="#" class="">商工行政資訊跨機關查閱服務專區</a>
+                        </div>
+                        -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mb40"></div>
+        
+        
+<nav class="navbar-link dropup"><div style="position: absolute;"><a href="#" accesskey="B" class="accessibility" title="交換連結區塊"><span style="color: #7799AC;">:::</span></a></div>
+            <div class="container">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="subclassNAction.do?method=getFile&pk=667"><img style="width:170px; margin:-15px 10px;" name="img01" alt="" src="img/but1.png" onmouseout="this.src='img/but1.png'" onmouseover="this.src='img/but2.png'" onclick="setBanner(); showFlag(); "/></a>
+                        <ul class="dropdown-menu multi-column columns-4">
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="https://onestop.nat.gov.tw/oss/identity/Identity/init.do" target="_blank">公司與商業及有限合夥一站式線上申請作業</a></li>
+                                        <li><a href="http://moeaca.nat.gov.tw/other/index.html" target="_blank">工商憑證管理中心</a></li>
+                                        <li><a href="img/1021113.htm" target="_blank">僑外資及陸資登記資料清冊  </a></li>
+                                        <li><a href="img/1040116_3_1.pdf" target="_blank">商品標示法正確標示範例</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="http://data.gcis.nat.gov.tw/" target="_blank">商工行政資料開放平台</a></li>
+                                        <li><a href="http://www.g2b.net.tw" target="_blank">商工電子公文交換服務系統</a></li>
+                                        <li><a href="img/1040921.htm" target="_blank">閉鎖性公司登記資料清冊</a></li>
+                                        <li><a href="http://gcis.nat.gov.tw/jsm/publicdata/PublicShowV2.jsp" target="_blank">經濟事業財團法人資料查詢</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="https://ppstrq.nat.gov.tw" target="_blank">全國動產擔保交易公示查詢網站</a></li>
+                                        <li><a href="img/1020322.htm" target="_blank">公司登記資料下載</a></li>
+                                        <li><a href="http://gcis.nat.gov.tw/service_q.htm" target="_blank">商工行政資訊跨機關查閱服務專區</a></li>
+                                        <li><a href="http://gcis.nat.gov.tw/cod/index.html" target="_blank">公司行號及有限合夥營業項目代碼表檢索系統</a></li>                                        
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="img/1021108.htm" target="_blank">商業登記資料下載</a></li>
+                                        <li><a href="http://gcis.nat.gov.tw/gps/" target="_blank">商工圖形化公示查詢服務</a></li>
+                                        <li><a href="http://www.100club.com.tw/" target="_blank">百年暨一甲子老店聯誼會</a></li>                                        
+                                        <li><a href="http://gcis.nat.gov.tw/ALWB/home" target="_blank">公司與商業登記前應經許可業務暨項目查詢服務平台</a></li>                                                                                
+                                    </ul>
+                                </div>
+                            </div>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="subclassNAction.do?method=getFile&pk=668"><img style="width:170px; margin:-15px 10px;" name="img02" alt="" src="img/but3.png" onmouseout="this.src='img/but3.png'" onmouseover="this.src='img/but4.png'" onclick="setBanner(); showFlag(); "/></a>
+                        <ul class="dropdown-menu multi-column columns-4" style="margin-left:-190px;">
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="http://tr.apec.org/" target="_blank">APEC貿易資料庫</a></li>                                          
+                                        <li><a href="http://www.ecfa.org.tw" target="_blank">兩岸服務貿易協議</a></li>
+                                        <li><a href="http://nit.immigration.gov.tw" target="_blank">新住民數位資訊e網</a></li>
+                                        <li><a href="http://ifi.immigration.gov.tw" target="_blank">新住民培力發展資訊網</a></li>
+                                        <li><a href="http://www.sfaa.gov.tw/SFAA/default.aspx" target="_blank">衛生福利部社會及家庭署</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="http://www.gov.tw/career/" target="_blank">就業情報站</a></li>
+                                        <li><a href="http://www.win.org.tw" target="_blank">iWIN網路內容防護機構</a></li>
+                                        <li><a href="https://www.165.gov.tw/" target="_blank">165全民防騙超連結</a></li>
+                                        <li><a href="https://www.mol.gov.tw/topic/32853/" target="_blank">勞動部週休二日修法專區</a></li>
+                                        <li><a href="http://crpd.sfaa.gov.tw/" target="_blank">CRPD身心障礙者權利公約</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="http://www.humanrights.moj.gov.tw/mp200.html" target="_blank">人權大步走</a></li>                                    
+                                        <li><a href="http://investtaiwan.nat.gov.tw/" target="_blank">投資台灣入口網</a></li>
+                                        <li><a href="http://www.fda.gov.tw/TC/site.aspx?sid=4093#1" target="_blank">黑心油品事件專區</a></li>                                                                                                                        
+                                        <li><a href="http://www.amlo.moj.gov.tw/" target="_blank">行政院洗錢防制辦公室</a></li>                                        
+                                        <li><a href="http://2018floraexpo.tw/" target="_blank">2018臺中世界花卉博覽會</a></li>                                                                                
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="http://join.gov.tw" target="_blank">公共政策網路參與平台</a></li>
+                                        <li><a href="http://www.moea.gov.tw/CWS/tse/home/Home.aspx" target="_blank">臺星經濟夥伴協定相關資訊</a></li>
+                                        <li><a href="html/e1050224.pdf" target="_blank">電子發票宣導標語</a></li>
+                                        <li><a href="https://www.etax.nat.gov.tw/etwmain/front/ETW118W/VIEW/954" target="_blank">境外電商課稅專區</a></li>                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="subclassNAction.do?method=getFile&pk=781"><img style="width:170px; margin:-15px 10px;" name="img02" alt="" src="img/but5.png" onmouseout="this.src='img/but5.png'" onmouseover="this.src='img/but6.png'" onclick="setBanner(); showFlag(); "/></a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+                                        
+        
+
+        
+        <!-- 下方展開式選單  -->
+        <script type="text/javascript">
+        function moreMenu() {
+            $('#opnemenu_area').css('height','680px');
+            document.getElementById("moreMenu1Link").style.display = "none";
+            document.getElementById("menu1").style.display = "block";
+            document.getElementById("moreMenu2Link").style.display = "none";
+            document.getElementById("menu2").style.display = "block";
+            document.getElementById("moreMenu3Link").style.display = "none";
+            document.getElementById("menu3").style.display = "block";
+        }
+        <!-- 開合進階搜尋 -->
+                                    $(document).ready(function() {
+                                        $('#opnemenu_area').css('height','380px');
+                                        $('.more').css({'float':'left','font-size':'1em'});
+                                        $('#openmenu').hide();
+                                    });
+                                    $(function() {
+                                        $('#openmenu').click(function() {
+                                            $('#footermenu').slideDown(1000);
+                                            $('#footershadow').slideDown(1000);
+                                            $('#closemenu').show();
+                                            $(this).hide();
+                                        });
+                                        $('#closemenu').click(function() {
+                                            $('#footermenu').slideUp(1000);
+                                            $('#footershadow').slideUp(1000);
+                                            $('#openmenu').show();
+                                            $(this).hide();
+                                        });
+                                    });
+                                    function menu(id) {
+                                        id.trigger('click');
+                                    }
+        <!-- 開合進階搜尋:end -->
+        </script>
+        <div class="hidden-xs">
+        <div class="opnemenu_area" id="opnemenu_area" >
+            
+            <div class="allmenu" id="footermenu">
+                <div class="onemenu">
+                    <h3><a href="classNAction.do?method=list&pkGcisClassN=1">認識商業司</a></h3>
+                    <ul>
+                        <li><a href="subclassNAction.do?method=getFile&pk=70">司長簡介</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=679">組織職掌與聯絡資訊</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=4">商業發展政策</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=5">資訊安全</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=6">為民服務規範</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=7">交通指南</a></li>                        
+                    </ul>
+                </div>
+                <div class="onemenu">
+                    <h3><a href="classNAction.do?method=list&pkGcisClassN=2">焦點消息</a></h3>
+                    <ul>
+                        <li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=5">即時新聞</a></li>
+                        <li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=1">重大政策</a></li>
+                        <li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=4">活動訊息</a></li>
+                        <li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=6">真相說明</a></li>
+                        <li><a href="publicContentAction.do?method=listByType&pkGcisPublicType=2">就業資訊</a></li>
+                        <li><a href="classNAction.do?method=close">閉鎖性公司專區</a></li>
+                        <li><a href="classNAction.do?method=accounting">商業會計專區</a></li>
+                        <li><a href="classNAction.do?method=limitedPartner">有限合夥專區</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=763">公司法修法專區</a></li>
+                    </ul>
+                </div>
+                <div class="onemenu">
+                    <h3><a href="classNAction.do?method=list&pkGcisClassN=18">線上申辦</a></h3>
+                    <ul>
+                        <li><a href="subclassNAction.do?method=getFile&pk=633">線上企業開辦</a></li>
+                        <li><a href="https://onestop.nat.gov.tw/oss/identity/Identity/init.do">公司與商業及有限合夥一站式線上申請作業</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=635">公司名稱預查網路申請系統</a></li>
+                        <li><a href="https://gcis.nat.gov.tw/eicm/eicm/bank/index.jsp">名稱及所營事業預查核覆系統</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=637">公司名稱預查一維條碼申請系統</a></li>
+                        <div id="moreMenu1Link">
+                        <li><span class="more"><a href="javascript:moreMenu();">more...</a></span></li>
+                        </div>
+                        <div id="menu1" style="display: none;">
+                        <li><a href="https://gcis.nat.gov.tw/eicm/eicm/prefixedit/indexLimit.jsp">有限合夥名稱預查一維條碼申請系統</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=638">工商憑證申請</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=639">國際貿易局線上申辦服務</a></li>
+                        <li><a href="https://csoas.moeaidb.gov.tw/csoas/login.do">工業局線上申辦服務</a></li>
+                        <li><a href="https://gcis.nat.gov.tw/fdas/fda/dangLogin.jsp">工廠危險物品申報網</a></li>
+                        <li><a href="https://ppstrq.nat.gov.tw/pps">動產擔保交易線上登記及公示查詢服務</a></li>
+                        </div>
+                    </ul>
+                </div>
+                <div class="onemenu">
+                    <h3><a href="classNAction.do?method=list&pkGcisClassN=3">主要業務</a></h3>
+                    <ul>
+                        <li><a href="subclassNAction.do?method=list&pk=514">公司與有限合夥名稱預查</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=14">公司與有限合夥登記</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=663">商業名稱預查及登記</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=627">商業行政資訊</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=529">商業會計</a></li>
+                        <div id="moreMenu2Link">
+                        <li><span class="more"><a href="javascript:moreMenu();">more...</a></span></li>
+                        </div>
+                        <div id="menu2" style="display: none;">
+                        <li><a href="subclassNAction.do?method=list&pk=528">商品標示消費者保護與電子遊戲場</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=18">商業組織法制</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=17">網路零售</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=16">智慧通路與物流</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=530">商業創新研發與餐飲科技應用推廣</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=15">連鎖加盟業及工商綜合區</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=592">投資抵減及經濟事務財團法人管理</a></li>
+                        </div>
+                    </ul>
+                </div>
+                <div class="onemenu">
+                    <h3><a href="classNAction.do?method=list&pkGcisClassN=4">商工查詢服務</a></h3>
+                    <ul>
+                        <li><a href="subclassNAction.do?method=getFile&pk=23">公司登記查詢</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=24">商業登記查詢</a></li>
+                        <li><a href="https://gcis.nat.gov.tw/lmpub/lms/dir.jsp?showgcislocation=true&agencycode=allbf">有限合夥登記查詢</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=25">工廠登記查詢</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=26">商業相關資訊系統</a></li>
+                    </ul>
+                </div>
+                <div class="onemenu">
+                    <h3><a href="classNAction.do?method=list&pkGcisClassN=5">法令解釋</a></h3>
+                    <ul>
+                        <li><a href="http://gcis.nat.gov.tw/elaw/index.jsp">商工行政法規檢索系統</a></li>
+                        <li><a href="http://gcis.nat.gov.tw/elaw/lawDtlAction.do?method=browse">商工行政法規一覽表</a></li>
+                        <li><a href="http://gcis.nat.gov.tw/elaw/welcome.do?anchor=1">即時公司法解釋</a></li>
+                        <li><a href="http://gcis.nat.gov.tw/elaw/welcome.do?anchor=2">公司登記相關法令解釋</a></li>
+                        <li><a href="http://gcis.nat.gov.tw/elaw/welcome.do?anchor=3">企業併購法解釋</a></li>
+                        <li><a href="http://law.moj.gov.tw/">全國法規資料庫</a></li>
+                    </ul>
+                </div>
+                <div class="onemenu">
+                    <h3><a href="classNAction.do?method=list&pkGcisClassN=20">資料下載</a></h3>
+                    <ul>
+                        <li><a href="subclassNAction.do?method=list&pk=685">公司與有限合夥名稱預查行政書表&參考資料</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=701">公司與有限合夥登記行政書表&參考資料</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=704">商業名稱預查及登記行政書表&參考資料</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=707">商業會計行政書表&參考資料</a></li>
+                        <div id="moreMenu3Link">
+                        <li><span class="more"><a href="javascript:moreMenu();">more...</a></span></li>
+                        </div>
+                        <div id="menu3" style="display: none;">
+                        <li><a href="subclassNAction.do?method=getFile&pk=712">工業行政參考資料</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=713">工商綜合區行政書表&參考資料</a></li>
+                        <li><a href="subclassNAction.do?method=list&pk=714">其他行政書表&參考資料</a></li>
+                        </div>
+                    </ul>
+                </div>
+                <div class="onemenu">
+                    <h3><a href="classNAction.do?method=list&pkGcisClassN=7">與民互動</a></h3>
+                    <ul>
+                        <li><a href="http://gcis.nat.gov.tw/crm/index.jsp">諮詢服務（常用問題集）</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=518">諮詢專線／首長信箱</a></li>
+                        <li><a href="subclassNAction.do?method=getFile&pk=695">政府資訊公開區</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="shadow" id="footershadow"></div>
+        </div>
+        </div>
+        <!-- 下方展開式選單:end  -->
+
+        <footer>
+            
+
+            <div class="container">
+                <div class="mb25"></div>
+                <div class="row">
+                    <div class="col-md-12">
+                <div style="position: relative; float: right;">您是自2004年10月01日起第 <style type="text/css"><!--.newstitle {	font-size:12px;	color:#414AFF;	font-weight: normal;	font-family: "Arial", "Helvetica", "sans-serif";	text-decoration: none;	margin-top: 3px;	}--></style>116288105 位上線者</div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="col-md-9">
+                            <img src="img/logo_footer.png" class="logo hidden-xs hidden-sm" alt="經濟部標章圖片">
+                            <div class="w13 mml60">
+                                <a href="subclassNAction.do?method=getFile&pk=7">經濟部商業司&nbsp;&nbsp;地址 / 地圖：10015 臺北市福州街15號</a> <br>
+				服務時間：星期一~星期五 8:30~17:30 (國定假日除外)<br>    							
+                                諮詢專線：412-1166，直接撥打毋需加撥區碼 (六碼地區請撥 41-1166)，行動電話請加撥 02<br>
+                                傳真專線：02-21927142<br>
+                                | <a href="subclassNAction.do?method=getFile&pk=601">政府網站資料開放宣告</a> | <a href="subclassNAction.do?method=getFile&pk=480">隱私權政策</a> | <a href="http://gcis.nat.gov.tw/crm/query/content_mail.jsp" target="_blank">聯絡我們</a> | <br>
+                                本網站支援IE、Firefox及Chrome，最佳瀏覽解析度為 1024×768 以上<br>
+                                更新日期：2017-12-22 18:57:58.0
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <img src="img/logo2.gif" class="logo2" title= "無障礙網站" alt= " (網站通過檢測的範圍)通過第(1|2|3)優先等級無障礙網頁檢測 " />
+                            <a href="http://www.gov.tw/"><img src="img/logo3.gif" class="logo3" alt= "我的E政府專屬網站標章" /></a>
+                            <img src="img/gcis_QR_code.png" width="80" class="logo3" alt= "我的E政府專屬網站標章" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </footer>
+    </body>
+</html>
+<div id="messageA" class="messageArea hidden-phone">
+      
+    <div class="close"><input type="button" class="button12" value="X" id="closeA1" /></div>
+    <p class="title">重大訊息通知</p>
+    <div align="center">
+        <p class="list">
+            <span class="dCircle">◎</span>自民國106年1月1日起，公司與有限合夥名稱及所營事業預查業務及外國公司、大陸公司、實收資本額未達新臺幣5億元之金門馬祖公司、有限合夥之登記及管理業務，其主管機關由經濟部商業司變更為經濟部中部辦公室，是日起各該事項請向經濟部中部辦公室申請辦理。
+        </p>
+        <input type="button" class="button12" value="前往經濟部中部辦公室官網" onClick="javascript:window.open('http://www.cto.moea.gov.tw/', '_blank');" />
+        &nbsp;
+        <input type="button" class="button11" value="關閉訊息" id="closeA" />
+    </div>
+</div>
+<div id="messageB" class="messageArea1 visible-phone">
+    <div class="close"><input type="button" class="button12" value="X" id="closeB1" style="display: none;" /></div>
+    <p class="title">重大訊息通知</p>
+    <div align="center"><input type="button" class="button11" value="點入閱讀" id="readB" /></div>
+    <div id="messageBB" align="center" style="display: none;">
+        <p class="list">
+            <span class="dCircle">◎</span>自民國106年1月1日起，公司與有限合夥名稱及所營事業預查業務及外國公司、大陸公司、實收資本額未達新臺幣5億元之金門馬祖公司、有限合夥之登記及管理業務，其主管機關由經濟部商業司變更為經濟部中部辦公室，是日起各該事項請向經濟部中部辦公室申請辦理。
+        </p>
+        <input type="button" class="button12" value="前往經濟部中部辦公室官網" onClick="javascript:window.open('http://www.cto.moea.gov.tw/', '_blank');" />
+        &nbsp;
+        <input type="button" class="button11" value="關閉訊息" id="closeB" />
+    </div>
+</div>
+<script type="text/javascript">
+    $().ready(function() {
+        $('#closeA').click(function() {
+            $('#messageA').hide();
+        });
+        $('#closeA1').click(function() {
+            $('#messageA').hide();
+        });
+        $('#readB').click(function() {
+            $('#messageBB').show();
+            $('#closeB1').show();
+            $('#readB').hide();
+        });
+        $('#closeB').click(function() {
+            $('#messageB').removeClass('visible-phone');
+            $('#messageB').hide();
+        });
+        $('#closeB1').click(function() {
+            $('#messageB').removeClass('visible-phone');
+            $('#messageB').hide();
+        });
+    });
+</script>
+<style type="text/css">
+    .messageArea {
+        /*height: 200px;
+        width: 370px;
+                right: 20px;*/
+        position: fixed;
+        bottom: 20px;        
+        padding:5px 10px;
+        line-height: 1.4em;
+        background-color: #fcffab;
+        font-size: 20px;
+        font-weight: bold;
+        border: 2px solid;
+        border-radius:10px;
+        border-color: orangered;
+        z-index: 9999;
+    }
+    .messageArea p.title {
+        text-indent: 0;
+        margin-left:0;
+        color: orangered;
+        text-align: center;
+        border-bottom: 2px solid orangered;
+    }
+    .messageArea p.list {
+        font-size: 16px;
+        text-align: left;
+        line-height: 1.5em;
+        text-indent: -20px;
+        margin-left:16px;
+    }
+    .messageArea p span {
+        color:black;
+        background-color: #fcffab;
+        font-size: 32px;
+        position: relative;
+        top:6px;
+        /*left:6px;*/
+    }
+    .button11 {
+        background-color: #4a98af;
+        border: 1px solid #4a98af;
+        color: #FFF;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 4px;
+        font-size: 16px;
+        font-weight: bold;
+        padding: 5px 10px 5px 10px;
+    }
+    .button12 {
+        background-color: orangered;
+        border: 1px solid orangered;
+        color: #FFF;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 4px;
+        font-size: 16px;
+        font-weight: bold;
+        padding: 5px 10px 5px 10px;
+    }
+    .close {
+        padding:1px 1px;
+        text-shadow: none;
+        /*font-family: cursive;*/
+        font-size:0.6em;
+        opacity: .8;
+        margin-top:-0.08em;
+    }
+    /*重大訊息通知*/
+    @media (min-width: 768px) {
+        .messageArea{
+            width:50%;
+            right: 10px
+        }
+    }
+    @media (min-width: 992px) {
+        .messageArea {
+            width:370px;
+            right: 20px
+        }
+    }
+    @media (min-width: 1200px) {
+        .messageArea {
+            width:370px;
+            right: 20px}
+    }
+    .messageArea1 {
+        position: fixed;
+        top: 72px;
+        right: 10px;
+        /*bottom: 20px;*/
+        padding:5px 10px;
+        line-height: 1.4em;
+        background-color: #fcffab;
+        font-size: 20px;
+        font-weight: bold;
+        border: 2px solid;
+        border-radius:10px;
+        border-color: orangered;
+        z-index: 9999;
+    }
+    .messageArea1 p.title {
+        text-indent: 0;
+        margin-left:0;
+        color: orangered;
+        text-align: center;
+        border-bottom: 2px solid orangered;
+    }
+    .messageArea1 p.list {
+        font-size: 16px;
+        text-align: left;
+        line-height: 1.5em;
+        text-indent: -20px;
+        margin-left:20px;
+    }
+    .messageArea1 p span {
+        color:black;
+        background-color: #fcffab;
+        font-size: 32px;
+        position: relative;
+        top:6px;
+        left:-6px;
+    }
+</style>
+

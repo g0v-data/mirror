@@ -1,0 +1,488 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html  xmlns:hyweb="urn:gip-hyweb-com" >
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-16">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>台灣自來水公司行動版網站</title>
+    <meta property="og:title" content="">
+    <meta property="og:image" content="https://www.water.gov.tw/public/data/45211681571.jpg">
+    <meta property="og:type" content="website">
+    <meta name="DC.Title" content="台灣自來水公司行動版網站">
+    <meta name="DC.Subject" content="台灣自來水公司行動版網站">
+    <meta name="DC.Creator" content="water">
+    <meta name="DC.Description" content="">
+    <meta name="DC.Publisher" content="台灣自來水公司">
+    <meta name="DC.Contributor" content="">
+    <meta name="DC.coverage.t.max" content="2017-03-04">
+    <meta name="DC.coverage.t.min" content="2014-03-04">
+    <meta name="DC.Date" content="2014-03-04 00:00">
+    <meta name="DC.Type" content="文字">
+    <meta name="DC.Format" content="">
+    <meta name="DC.Identifier" content="2888">
+    <meta name="DC.Relation" content="MP-mobile">
+    <meta name="DC.Source" content="">
+    <meta name="DC.Language" content="">
+    <meta name="DC.Coverage" content="">
+    <meta name="DC.Rights" content="">
+    <meta name="Category.Theme" content="">
+    <meta name="Category.Cake" content="">
+    <meta name="Category.Service" content="">
+    <link rel="stylesheet" type="text/css" href="styles/layout_main_Mobile/css/jquery.mobile.structure-1.3.2.css">
+    <link rel="stylesheet" type="text/css" href="styles/layout_main_Mobile/css/mobile.css">
+    <script type="text/javascript" src="styles/layout_main_Mobile/js/jquery.js">
+    </script>
+    <script type="text/javascript" src="styles/layout_main_Mobile/js/jquery.mobile-1.3.2.min.js">
+    </script>
+    <script type="text/javascript" src="styles/layout_main_Mobile/js/lightbox.js">
+    </script>
+    <!--[if lt IE 9]>
+<script src="js/html5.js"></script>
+<![endif]-->
+  </head>
+  <body onload="
+		
+			var account_last=getCookie(&quot;account&quot;);
+
+			var password_last=getCookie(&quot;password&quot;);
+		   
+		   if(account_last!=&quot;&quot;)
+		   {
+			form1.account.value=&quot;&quot;;
+			form1.password.value=&quot;&quot;;
+			form1.account.value=account_last;
+			form1.password.value=password_last;
+		   
+		    }
+		     
+			  
+			 
+			  
+			
+			function getCookie(cname) {
+				var name = cname + &quot;=&quot;;
+				var ca = document.cookie.split(';');
+				for(var i=0; i<ca.length; i++) {
+					var c = ca[i].trim();
+					if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+				}
+				return &quot;&quot;;
+			}
+			
+			">
+    <div data-role="page" id="page1">
+      <header data-role="header">
+        <h1>台灣自來水公司行動版網站</h1>
+        <div class="menuBars">
+          <a href="#defaultpanel" data-role="button" data-inline="true" data-icon="bars" data-iconpos="notext">選單</a>
+        </div>
+        <div class="pmp">
+          <a href="member_mobilelogin.aspx?mp=mobile" data-ajax="false" data-role="button" data-inline="true" data-icon="star">個人化首頁</a>
+        </div>
+        <a data-ajax="false" title="更多內容" href="np.aspx?ctNode=919&mp=mobile" class="ui-link">更多內容</a>
+      </header>
+      <nav class="mainMenu" data-role="panel" id="defaultpanel">
+        <ul data-role="listview" data-inset="true" id="mainMenu">
+          <li>
+            <a data-ajax="false" href="np.aspx?ctNode=903&mp=mobile" title="公告訊息">公告訊息</a>
+            <ul>
+              <li>
+                <a data-ajax="false" href="https://wateroff.water.gov.tw" title="查詢停水公告, 另開新視窗." target="_blank">查詢停水公告</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="np.aspx?ctNode=904&CtUnit=146&BaseDSD=61&mp=mobile" title="首長最前線">首長最前線</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="np.aspx?ctNode=920&CtUnit=126&BaseDSD=7&mp=mobile" title="本公司重大政策">本公司重大政策</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="np.aspx?ctNode=921&CtUnit=127&BaseDSD=7&mp=mobile" title="徵才資訊">徵才資訊</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="np.aspx?ctNode=917&CtUnit=123&BaseDSD=7&mp=mobile" title="訊息公布欄">訊息公布欄</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="np.aspx?ctNode=918&CtUnit=124&BaseDSD=7&mp=mobile" title="區域Hot新聞">區域Hot新聞</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="https://wateroff.water.gov.tw" title="停水公告, 另開新視窗." target="_blank">停水公告</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="http://web.pcc.gov.tw/pishtml/pisindex.html" title="招標資訊, 另開新視窗." target="_blank">招標資訊</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="np.aspx?ctNode=923&CtUnit=318&BaseDSD=74&mp=mobile" title="施工通知">施工通知</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="np.aspx?ctNode=934&CtUnit=295&BaseDSD=7&mp=mobile" title="水質檢測, 另開新視窗." target="_blank">水質檢測</a>
+              </li>
+              <style type="text/css">
+											#a_back {
+									margin:0;
+									padding:2;
+									
+							background-image:url("../styles/layout_main_Mobile/images/footerNavIcons.png");
+								}
+								
+								
+								#li_back {
+									
+									margin:0;
+									padding:0;
+								    list-style:none;
+									border: 0px;
+								}
+							 </style>
+              <footer data-role="footer" class="footer ui-footer" role="contentinfo">
+                <nav id="foot_nav">
+                  <ul id="ul_back">
+                    <li class="back" id="li_back">
+                      <a id="a_back" href="mp.aspx?mp=mobile" data-ajax="false">
+						返回
+						</a>
+                    </li>
+                  </ul>
+                </nav>
+              </footer>
+            </ul>
+          </li>
+          <li>
+            <a data-ajax="false" href="np.aspx?ctNode=925&mp=mobile" title="線上查詢">線上查詢</a>
+            <ul>
+              <li>
+                <a data-ajax="false" href="mobile_watersearch.asp" title="水費查詢及繳費">水費查詢及繳費</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="mobile_searchModify.asp" title="新改裝進度查詢">新改裝進度查詢</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="mobile_lp_memberlogin.asp" title="線上申辦進度查詢">線上申辦進度查詢</a>
+              </li>
+              <li>
+                <script>
+						
+						function getRedirectUrl(lat, lon)
+						{
+							var url = "mobile_tempwater.aspx?mp=mobile";
+							if(lat && lon)
+							{
+								url = url + "&lat=" + lat + "&lon=" + lon;
+							}
+							
+							return url;
+						}
+					
+						function requestPosition() {
+              var nav = window.navigator;
+						  
+						  if (nav != null) {
+							  var geoloc = nav.geolocation;
+							  if (geoloc != null) {
+								  geoloc.getCurrentPosition(successCallback, failureCallback);
+								
+							  }
+							  else {
+								  location.href = getRedirectUrl();
+							  }
+						  }
+						  else {
+							  location.href = getRedirectUrl();
+						  }
+						  
+						  
+						}
+            
+            function successCallback(position)
+            {
+               window.location.href=getRedirectUrl(position.coords.latitude, position.coords.longitude);
+            }
+
+            function failureCallback(err)
+            {
+               window.location.href=getRedirectUrl();
+            }
+            
+					</script>
+                <a data-ajax="false" href="&#xD;&#xA;              #&#xD;&#xA;            " onClick="requestPosition();" title="臨時供水站">臨時供水站</a>
+              </li>
+              <li>
+                <a data-ajax="false" href="np.aspx?ctNode=929&CtUnit=178&BaseDSD=73&mp=mobile" title="平均水質查詢">平均水質查詢</a>
+              </li>
+              <style type="text/css">
+											#a_back {
+									margin:0;
+									padding:2;
+									
+							background-image:url("../styles/layout_main_Mobile/images/footerNavIcons.png");
+								}
+								
+								
+								#li_back {
+									
+									margin:0;
+									padding:0;
+								    list-style:none;
+									border: 0px;
+								}
+							 </style>
+              <footer data-role="footer" class="footer ui-footer" role="contentinfo">
+                <nav id="foot_nav">
+                  <ul id="ul_back">
+                    <li class="back" id="li_back">
+                      <a id="a_back" href="mp.aspx?mp=mobile" data-ajax="false">
+						返回
+						</a>
+                    </li>
+                  </ul>
+                </nav>
+              </footer>
+            </ul>
+          </li>
+          <li>
+            <a data-ajax="false" href="np.aspx?ctNode=1062&CtUnit=297&BaseDSD=7&mp=mobile" title="1910客服簡介">1910客服簡介</a>
+          </li>
+          <li>
+            <a data-ajax="false" href="np.aspx?ctNode=931&CtUnit=216&BaseDSD=7&mp=mobile" title="常見問答">常見問答</a>
+          </li>
+          <li>
+            <a data-ajax="false" href="np.aspx?ctNode=961&CtUnit=321&BaseDSD=7&mp=mobile" title="網網相連">網網相連</a>
+          </li>
+          <li>
+            <a data-ajax="false" href="https://www.water.gov.tw/mp.aspx?mp=1&ToPC=Y" title="電腦版">電腦版</a>
+          </li>
+        </ul>
+        <section class="ad">
+          <ul>
+            <li>
+              <a href="https://1910.water.gov.tw/">
+                <img src="../styles/layout_main_Mobile/publicData/banner-1910.jpg" alt="1910">
+              </a>
+            </li>
+          </ul>
+        </section>
+      </nav>
+      <section class="news ui-content" data-role="content">
+        <div class="listView ui-collapsible-set ui-corner-all" data-role="collapsible-set" data-inset="true">
+          <section data-role="collapsible" data-collapsed="false" id="block1" class="">
+            <h2>首長最前線</h2>
+            <div data-role="listview" class="ui-listview">
+              <ul>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450607&ctNode=904&mp=mobile" title="總經理陪同董事長視察本公司第十一區管理處並聽取業務簡報">
+                    <h3>總經理陪同董事長視察本公司第十一區管理處並聽取業務簡報</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-17</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450582&ctNode=904&mp=mobile" title="董事長視察中區工程處聽取業務簡報及各項重大工程辦理情形" target="_GIP_">
+                    <h3>董事長視察中區工程處聽取業務簡報及各項重大工程辦理情形</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-16</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450575&ctNode=904&mp=mobile" title="董事長視察第四區管處、豐原給水廠並聽取自來水業務相關簡報" target="_GIP_">
+                    <h3>董事長視察第四區管處、豐原給水廠並聽取自來水業務相關簡報</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-16</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450412&ctNode=904&mp=mobile" title="本公司董事長至第四區管理處視察「鯉魚潭廠原水站2600mm管線附屬閥類設備漏水緊急搶修工程」">
+                    <h3>本公司董事長至第四區管理處視察「鯉魚潭廠原水站2600mm管線附屬閥類設備漏水緊急搶修工程」</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-14</span>
+                  </p>
+                </li>
+              </ul>
+              <div class="more">
+                <a data-ajax="false" title="更多內容" href="np.aspx?ctNode=904&mp=mobile">更多內容</a>
+              </div>
+            </div>
+          </section>
+          <section data-role="collapsible" data-collapsed="false" id="block1" class="">
+            <h2>重大政策</h2>
+            <div data-role="listview" class="ui-listview">
+              <ul>
+              </ul>
+              <div class="more">
+                <a data-ajax="false" title="更多內容" href="np.aspx?ctNode=920&mp=mobile">更多內容</a>
+              </div>
+            </div>
+          </section>
+          <section data-role="collapsible" data-collapsed="false" id="block1" class="">
+            <h2>本公司就業資訊</h2>
+            <div data-role="listview" class="ui-listview">
+              <ul>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=434682&ctNode=921&mp=mobile" title="台灣自來水公司107年評價職位人員甄試簡章公告">
+                    <h3>台灣自來水公司107年評價職位人員甄試簡章公告</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2018-12-25</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=134437&ctNode=921&mp=mobile" title="台灣自來水公司評價職位人員甄試近5年考古題">
+                    <h3>台灣自來水公司評價職位人員甄試近5年考古題</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2018-02-09</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=134438&ctNode=921&mp=mobile" title="經濟部所屬事業機構新進職員甄試歷年試題">
+                    <h3>經濟部所屬事業機構新進職員甄試歷年試題</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2016-09-14</span>
+                  </p>
+                </li>
+              </ul>
+              <div class="more">
+                <a data-ajax="false" title="更多內容" href="np.aspx?ctNode=921&mp=mobile">更多內容</a>
+              </div>
+            </div>
+          </section>
+          <section data-role="collapsible" data-collapsed="false" id="block1" class="">
+            <h2>訊息公布欄</h2>
+            <div data-role="listview" class="ui-listview">
+              <ul>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450579&ctNode=917&mp=mobile" title="台灣自來水公司總公司專案廉政宣導 提升公義效能及廉能治理" target="_GIP_">
+                    <h3>台灣自來水公司總公司專案廉政宣導 提升公義效能及廉能治理</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-16</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450360&ctNode=917&mp=mobile" title="板新地區供水計畫二期工程將在108年底通水 吳琪銘立委及蘇巧慧立委關心浮洲加壓站進度" target="_GIP_">
+                    <h3>板新地區供水計畫二期工程將在108年底通水 吳琪銘立委及蘇巧慧立委關心浮洲加壓站進度</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-10</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=449929&ctNode=917&mp=mobile" title="台灣自來水公司董事長交接新聞稿" target="_GIP_">
+                    <h3>台灣自來水公司董事長交接新聞稿</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-03-26</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=449606&ctNode=917&mp=mobile" title="台水開始防汛準備  戮力達成供水穩定" target="_GIP_">
+                    <h3>台水開始防汛準備  戮力達成供水穩定</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-03-22</span>
+                  </p>
+                </li>
+              </ul>
+              <div class="more">
+                <a data-ajax="false" title="更多內容" href="np.aspx?ctNode=917&mp=mobile">更多內容</a>
+              </div>
+            </div>
+          </section>
+          <section data-role="collapsible" data-collapsed="false" id="block1" class="">
+            <h2>區域HOT新聞</h2>
+            <div data-role="listview" class="ui-listview">
+              <ul>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450619&ctNode=918&mp=mobile" title="本處李處長慶興率台東所主任等人，拜訪卑南鄉東興村陳村長興榮，討論有關利嘉溪伏流水工程事宜。">
+                    <h3>本處李處長慶興率台東所主任等人，拜訪卑南鄉東興村陳村長興榮，討論有關利嘉溪伏流水工程事宜。</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-18</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450618&ctNode=918&mp=mobile" title="本處李處長慶興率台東所鄭主任福成拜訪東興村部落會議主席胡進德，交換開發利嘉溪伏流水的意見，協商繼續推動伏流水工程與水源回饋運用。">
+                    <h3>本處李處長慶興率台東所鄭主任福成拜訪東興村部落會議主席胡進德，交換開發利嘉溪伏流水的意見，協商繼續推動伏流水工程與水源回饋運用。</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-18</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450611&ctNode=918&mp=mobile" title="相揪台西淨灘去  E-PAY節水逗陣來">
+                    <h3>相揪台西淨灘去  E-PAY節水逗陣來</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-18</span>
+                  </p>
+                </li>
+                <li>
+                  <a data-ajax="false" href="ct.aspx?xItem=450591&ctNode=918&mp=mobile" title="4年18億新北,基隆改善高地社區供水">
+                    <h3>4年18億新北,基隆改善高地社區供水</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2019-04-17</span>
+                  </p>
+                </li>
+              </ul>
+              <div class="more">
+                <a data-ajax="false" title="更多內容" href="np.aspx?ctNode=918&mp=mobile">更多內容</a>
+              </div>
+            </div>
+          </section>
+          <section data-role="collapsible" data-collapsed="false" id="block1" class="">
+            <h2>停水公告</h2>
+            <div data-role="listview" class="ui-listview">
+              <ul>
+                <li>
+                  <a data-ajax="false" href="https://wateroff.water.gov.tw/pindex.phtml" title="停水公告查詢系統">
+                    <h3>停水公告查詢系統</h3>
+                  </a>
+                  <p>
+                    <span class="anounce_date">2017-11-15</span>
+                  </p>
+                </li>
+              </ul>
+              <div class="more">
+                <a data-ajax="false" title="更多內容" href="np.aspx?ctNode=919&mp=mobile">更多內容</a>
+              </div>
+            </div>
+          </section>
+        </div>
+      </section>
+      <script type="text/javascript">initApp();</script>
+      <footer data-role="footer" class="footer">
+        <nav>
+          <ul>
+            <li class="gotop">
+              <a href="#top" data-ajax="false">TOP</a>
+            </li>
+            <li class="home">
+            </li>
+          </ul>
+        </nav>
+        <p>TEL：04-2224-4191　FAX：04-2224-4201<br>
+					地址：40425 台中市雙十路二段2-1號<br>
+					免費服務專線：1910(台北市請撥02-89780837)<br></p>
+      </footer>
+      <section class="login" data-role="popup" id="popupLogin">
+        <form id="form1" name="form1" method="post" action="member_mobilelogin_act.aspx?mp=mobile">
+          <div>
+            <h3>請輸入您的</h3>
+            <label for="account1" class="ui-hidden-accessible">帳號</label>
+            <input type="text" name="account" id="account" placeholder="帳號" onkeyup="
+						return document.cookie=&quot;account=&quot;+form1.account.value;
+						">
+            <label for="password1" class="ui-hidden-accessible">密碼</label>
+            <input type="password" name="password" id="password" placeholder="密碼">
+            <button type="submit" data-icon="check">登入</button>
+            <button type="reset" onclick="javascript:window.location.href='sp.aspx?xdUrl=member/memresetpwd.asp&mp=1'">密碼重置</button>
+            <a href="https://www.water.gov.tw/mp.aspx?mp=mobile" data-role="button" data-theme="a" data-icon="delete">關閉</a>
+          </div>
+        </form>
+      </section>
+    </div>
+  </body>
+</html>

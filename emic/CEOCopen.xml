@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2017120003" caseEndTime="" caseName="1213豪雨" caseStartTime="2017/12/13 07:00" cityCode="" disName="水災" eocName="中央災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2017120003" caseEndTime="2017/12/20 10:36" caseName="1213豪雨" caseStartTime="2017/12/20 10:26" cityCode="10004" disName="風災" eocName="新竹縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2017120003" caseEndTime="2017/12/25 21:30" caseName="1213豪雨" caseStartTime="2017/12/25 21:11" cityCode="10004" disName="風災" eocName="新竹縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2017120003" caseEndTime="2017/12/25 17:39" caseName="1213豪雨" caseStartTime="2017/12/25 17:32" cityCode="10004" disName="風災" eocName="新竹縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2017120003" caseEndTime="2017/12/18 09:59" caseName="1215大量話務演練" caseStartTime="2017/12/15 09:09" cityCode="67" disName="風災" eocName="臺南市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2017120003" caseEndTime="" caseName="1227教育訓練" caseStartTime="2017/12/27 09:30" cityCode="67" disName="風災" eocName="臺南市災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2017120003" caseEndTime="2017/12/27 10:19" caseName="1227EMIC教育訓練" caseStartTime="2017/12/27 09:00" cityCode="67" disName="水災" eocName="臺南市災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2017120003" caseEndTime="" caseName="1213豪雨" caseStartTime="2017/12/15 14:20" cityCode="63" disName="風災" eocName="臺北市災害應變中心" openTier="3"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>

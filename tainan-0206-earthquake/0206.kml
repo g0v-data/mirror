@@ -1,0 +1,4074 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>0206 地震事件地圖</name>
+		<description><![CDATA[如有錯誤或需新增資訊請聯絡http://fb.me/seadog007<br>關於本次地震其餘相關資訊請參考 <br>http://hackfoldr.org/1a5WMhNPRxTo12VidVuUKlGhN214D_RIw_gBzHP2F66c/<br>]]></description>
+		<Folder>
+			<name>震源請看：https://goo.gl/4TDG6y</name>
+			<Placemark>
+				<name></name>
+				<styleUrl>#poly-FFFFFF-0-0-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>120.13376530000001,23.0020063,0.0 120.1337714,23.002004500000005,0.0 120.13376,23.002011799999995,0.0 120.13376530000001,23.0020063,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>人員受困</name>
+			<Placemark>
+				<name>04:10am 安南區賢安街29號民宅人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20635199999992,23.026279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04:11am 中華東路二段185巷12號電梯受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23317999999996,22.984382,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04:11am 東區中華東路2段185巷12號人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23317999999996,22.984382,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04:25am 北區皇龍第一園丁棟人員受困</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/451357468329757/permalink/822398477892319/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>120.20284199999999,23.003936,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04:32am 西門路三段206號4樓之7人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20403439999997,23.0031669,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04:42am 臺南市議會人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18584809999992,22.9899719,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04:47am 東區城東街37號人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23471659999996,22.9657755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:13am 新化區忠孝路243巷9號人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30216670000004,23.0371234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:13am 歸仁區民權一街38巷1號人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29090680000003,22.9713908,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:05am 西門路三段206號4樓人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20403439999997,23.0031669,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:13am 新進路二段500號電梯受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30266099999993,23.30344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:51am 大德街141巷93號水管破裂、電梯掉落</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19565890000001,22.9841659,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:34am 玉井區仁愛街150巷33號人員受困</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.46670189999998,23.1211619,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:52am 永康區民族路273巷1弄9號前水管破裂</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26981369999999,23.0045369,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>建物毀損</name>
+			<Placemark>
+				<name>03:57am 新化區京城銀行大樓傾斜</name>
+				<description><![CDATA[來源： http://www.appledaily.com.tw/realtimenews/article/life/20160206/791477/]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.30097000000002,23.0363605,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>03:57am 永康區國光五街2號 維冠金龍大樓倒塌</name>
+				<description><![CDATA[來源： http://disaster.tainan.gov.tw/disaster/]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.26124959999999,23.005688900000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04:16am 東區大智里長東街103巷菜市場倒塌</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/451357468329757/permalink/822333507898816/]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.23019769999998,22.9625354,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>04:51am 歸仁區民生南街1段43號 水塔掉落 1OHCA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28110089999996,22.9669322,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:07am 南區國華街一段86號路燈倒塌</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19636319999995,22.9847667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:14am 中西區民權路三段143巷8號風神廟前面 鐘塔倒塌</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19573009999999,22.9971131,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:27am 山上區南洲里房屋傾斜</name>
+				<description><![CDATA[來源： https://www.facebook.com/photo.php?fbid=1017883511609851&set=gm.822486761216824&type=3]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.35479199999999,23.102170000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:30am 山上區南洲里104號大樓倒塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3466985,23.0911664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:34am 安南區惠安街北安路一帶房屋傾斜</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/280092935413904/permalink/984666684956522/?comment_id=984675278288996]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.20706919999999,23.0256216,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:40am 關廟區新坑三街17號住宅倒塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3282997,22.9689226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:40am 新市區信義街180號外牆剝落</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28991339999993,23.0786744,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:45am 歸仁區中山路三段吉利寶大樓大樓整修，目前傾倒</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2803588,22.96843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:45am 中西區文和街4-6號土壤液化、暫無損及鄰房</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19323650000001,23.00440369999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:45am 鹽水區康樂街2號平房空屋倒塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.31693980000001,23.3024004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:46am 仁德區太子路101巷建物倒塌</name>
+				<description><![CDATA[來源： http://teles.ncree.org.tw/eqsurvey/EQMediaReport.aspx]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.26758730000007,22.9901857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:47am 中西區市定古蹟風神廟毀損</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19555850000002,22.9969995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:50am 新市區三民街50巷10弄整排房子，地隆面起，外面龜裂</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30229120000001,23.0810966,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:50am 新化區忠孝路197號聯興市場坍塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30293549999999,23.0376163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:55am 關廟區深坑3街17號建物倒塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.32981199999993,22.95659779999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:00am 善化區民生路大成市場市場倒塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29731040000001,23.1314609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:00am 歸仁區文化街三段34號整排建物傾倒</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28728430000001,22.9710334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:00am 安南區惠安街五十一巷道路龜裂及路面突起情形</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20846710000002,23.0266311,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:02am 南區金華路一段484巷32弄29號外牆倒塌，影響出入</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19259899999997,22.97283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:08am 中西區健康路一段398號房屋傾斜</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/280092935413904/permalink/984701754953015/]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.19849599999999,22.9815474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:36am 歸仁區歸仁國中 圍牆倒塌</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/451357468329757/permalink/822568887875278/]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<Point>
+					<coordinates>120.29486490000001,22.9699505,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:36am 歸仁區興蓋中大樓傾斜</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/1035885209777446/permalink/1170375876328378/]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.27965070000005,22.968451100000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:42am 歸仁區和順路至關新路橋梁與道路接縫處有裂縫</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30904770000001,22.990595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:56am 歸仁區幸福大樓(大仁街與信義北路)下陷傾斜</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/451357468329757/permalink/822336624565171/<br><br>相關新聞： http://news.ltn.com.tw/news/life/breakingnews/1596422]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.29768660000002,22.9673914,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:12am 山上區公有零售市場一樓塌陷</name>
+				<description><![CDATA[市場二樓塌陷、二樓變一樓]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.34633600000006,23.09704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:18am 關廟區和平路100巷9弄18號建物倒塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33385599999997,22.9573843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:20am 善化區和平路126巷二樓民宅塌陷</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29815789999996,23.1305257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:30am 中西區健康路一段396號大樓外牆磁磚嚴重脫落</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1984883,22.9816183,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:30am 歸仁區保順路上,媽廟橋橋面嚴重龜裂</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2999067,22.9963628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:43am 永康區南興街13號建物倒塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27780740000001,22.9709669,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:46am 南區金華路和健康路交叉口電線桿斷掉</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1914382,22.9818638,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:48am 中西區中正路185號大樓結構疑似有問題 內部一直掉磁磚</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19805229999999,22.9927453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:59am 歸仁區文化街三段2號至24號危樓</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27982670000006,22.9705071,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:04am 北區育德二路(立賢路往和緯路)路面下陷</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2035403,23.0108998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:08am 安南區惠安街101號整排整個房子下陷，牆壁有裂</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20771400000002,23.026739,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:13am 六甲區民權街282巷18號房子屋瓦整排塌陷</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.35005170000001,23.2274916,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:14am 中西區文和街房屋傾斜</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/451357468329757/permalink/822653007866866/]]></description>
+				<styleUrl>#icon-1125</styleUrl>
+				<Point>
+					<coordinates>120.1917557,23.003341,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:17am 中西區忠義路一段84巷4號該住戶圍牆倒塌,阻礙到巷道</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20205050000003,22.9870789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:21am 安南區國安街29號道路隆起破裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19079409999996,23.0225951,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:08am 新化區中山路102-22號路面龜裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.31204379999997,23.0420771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:15am 官田區嘉南里87之15號加油站圍牆磚瓦倒塌需協助</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.36228420000002,23.206778800000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:24am 北區長勝路32號圍牆倒塌</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21974660000001,23.0097975,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:26am 南區中華南路(往南)地下道裡面的天花板，上面的石頭有多處掉落</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20411970000002,22.9671656,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:30am 新市區三民街50巷房屋路面受損、無人傷亡</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30219569999996,23.0812052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:36am 東區長東街103巷2之1號-17號建築物受旁倒榻大樓影響恐有安全之虞</name>
+				<description><![CDATA[此排沒有倒塌,在倒塌大樓旁邊恐影響結構,需派鑑定人員前往鑑定建築物結構]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>120.23007889999997,22.96243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:36am 台19甲線五甲里與深坑里之間，大洲橋南下方向路面下陷</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3318787,22.9495217,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:00am 安南區安南區安明路與海尾路口路面隆起</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1875973,23.0388238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:01am 北區育德二路與立賢路口路面龜裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2035511,23.0097247,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:04am 新化區那拔林1-10號 台20線17-18K路面龜裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.34088399999996,23.065682,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:05am 高鐵電車線系統受損嚴重</name>
+				<description><![CDATA[來源：<br><br>http://www.thsrc.com.tw/tw/Operation/Detail/6a6e4297-6d43-4f43-9658-dd76567b5255]]></description>
+				<styleUrl>#icon-1141</styleUrl>
+				<Point>
+					<coordinates>120.28896330000002,23.1854976,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:43am 北區國華街四段5巷14弄15號牆壁倒塌，電錶的電線外露</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19923310000003,23.0006047,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:54am 台20線玉井往新化千鳥橋19K處路面龜裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.35849140000005,23.0724971,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11:25am 安南區安富街225號電線桿下陷100多公分,恐倒塌</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19638759999998,23.0265843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11:30am 左鎮區榮和里61之10號-左鎮區菜寮化石館牌樓有裂縫，恐會倒塌</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.38908119999996,23.0645727,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12:09pm 安南區安富街225號-227號電線桿下陷</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19638759999998,23.0265843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13:00pm 北區公園南路370巷42號和46號牆壁和梁柱有嚴重裂縫</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20197770000004,23.003934,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13:22pm 關廟區深坑二街52巷17號西臺慈慧堂廟宇塌陷</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33241700000009,22.938186,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14:00pm 安平區育平五街65號儷景富邑大樓,地震造成大廳的磁磚脫落,兩台電梯損壞,地下室有漏水,各樓層牆壁龜裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.16787479999992,22.9906699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14:30pm 善化區興農路461號(善化分局)旁鳥橋中路T型路牌傾斜</name>
+				<styleUrl>#icon-1033-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26841289999993,23.1298884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14:33pm 永康區復華六街64號後方大廈地基出現裂縫</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.24609629999998,23.0124268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14:55pm 玉井玉田里30棟民宅受損</name>
+				<description><![CDATA[來源：<br><br>http://news.cts.com.tw/cts/general/201602/201602081715075.html#.Vrgc8oRHkyw]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>120.4612759,23.1218118,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:00pm 東區自由路三段12號大樓柱子龜裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23736750000002,22.9809783,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:00pm 東區自由路三段12號大樓柱子龜裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23736750000002,22.9809783,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:06pm 永康區國華街102巷54號陽台空心磚滑落，砸壞1樓陽台與雨棚</name>
+				<description><![CDATA[麗晶華夏公寓大樓,4.5 樓住戶陽台空心磚滑落,砸壞1樓陽台跟雨棚,磚塊垮了一半]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<Point>
+					<coordinates>120.24782870000003,23.0147182,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:24pm 永康區文賢街136巷2號公寓柱子嚴重龜裂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27221359999999,23.0098211,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17:00pm 東區長榮路二段跟東寧路口成大學儒,一直到兵仔市場發現多棟建築大樓有傾斜狀況</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22173639999998,22.992195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18:00pm 北區開元路485巷20號新吉大樓為35年房子牆壁有裂痕，擔心若有餘震，會危及其他住戶</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22443380000003,23.0107947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19:00pm 永康區崑大路201巷50號磚牆倒塌</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.25182399999994,22.996677400000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19:00pm 歸仁區和平北街6號-14號柏油路裂開</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29625599999997,22.9672657,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20:00pm 善化區大同路249號二根梁柱鋼筋裸漏危險</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29085809999992,23.1304138,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20:00pm 東區東門路二段158巷第二和第三盞路燈故障</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2205672,22.984631400000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21:00pm 安南區府安路四段109巷18號自家車庫裡面有一部份有隆起有土壤液化的狀況，民眾擔心會塌陷傾斜</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21004199999994,23.0254361,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21:00pm 關廟區南雄路一段755號房屋傾斜</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33088509999993,22.9518299,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23:00pm 中西區民族路和公園路口一直到民族路和北門多盞路燈故障</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20690919999998,22.9953653,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:02:07am 佳里區子龍里40之24號路燈的路罩已快要掉下來</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20793909999999,23.1711767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:12:00pm 南區新興路161巷中華電信機房前閃燈號誌燈下垂</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19523090000008,22.977375500000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:12:00pm 北區公園路128-33號1F 牆壁有裂縫，對建築物有安全疑慮，希望有關單位可以前往檢修</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.207722,22.9985701,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:08:00am 東區崇善三街黑貓宅即便附近有一坑洞</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2293217,22.9764707,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:14:00pm 安平區建平路上228紀念公園公園內圓盤下有很多圓球,目前掉 了好幾顆圓球,擔心圓盤會直接砸下</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1827693,22.9915333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:15:00pm 東區長東街103巷大智市場計程車被鐵皮壓著,擔心影響生計</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23001909999999,22.9621473,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:15:00pm 安南區惠安街111號疑似土壤液化導致泥沙進到家裡,房屋已傾斜,地板有裂痕,住家外方的排水溝積滿泥土</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20729600000006,23.026766000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:17:00pm 台86線24號橋東向橋面位移</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29355530000001,22.9372506,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:19:00pm 永康區龍橋街81號對面水塔傾斜，民眾感到危險</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2656525,23.0357343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 善化區小新里小營371號廢棄大樓低樓層有裂縫,擔心再有餘震會造成倒塌</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3160429,23.1253239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 新營區隋唐街31巷12號前面馬路中間有一個制水閥孔蓋下陷路面坑洞</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30290200000002,23.30678,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 龍崎區南屏路嶇龍往中坑方向，中坑站牌前馬路中的位置，有一個坑洞</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3808451,22.9518335,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 山上區南洲里96號住家後方臨近已倒的南州市場牆壁,但牆壁已倒了45度</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3473282,23.095996800000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:14:00pm 安南區北安路二段32巷31號周圍前庭牆壁受損，路面也有裂痕，且有喷出泥漿</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20669499999997,23.0255661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 玉井區豐里派出所後方豐里派出所後方有一棟房子裂縫，柱子也有裂痕，且有大石頭卡在屋頂上</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.44434030000002,23.1229036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 歸仁區中山路二段221之1號隔壁大樓建築物傾斜,有公安疑慮</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28913450000005,22.9671703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 安南區府安路四段169巷內巷內台電電桿傾斜，且有一間住戶(1號)也有些房屋傾斜，擔心路面塌陷導致電桿壓到屋宅</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20730479999999,23.0246538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 歸仁區民生南街二段287號前有一路燈燈罩快掉落</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27913080000008,22.959679100000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 關廟區新湖街256號住戶圍牆倒塌</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3454399,22.9824169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 關廟區東勢里東榮街55巷方家古厝危橋倒塌妨礙通行</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33966899999996,22.9537768,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 仁德區正義路97號、99號樑柱鋼筋彎曲外露水泥剝落，房屋後方牆壁水泥龜裂錯位鐵門歪</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2548319,22.972541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 北區忠義路二段185號新光大樓目前歪斜,擔心危險</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20419500000003,22.9968614,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 安南區怡安路二段545巷6弄21號16層高的大樓，一樓住戶反應，0206地震過了二天後，發現一樓住家後門陸續開始變形，已經有連絡結構技師公會，表示後續會安排時間過去看，擔心後續公寓會有其他安全的疑慮</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19444079999994,23.0441419,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 南區中華南路華南地下道往殯儀館，有水泥塊掉落，擔心結構有問題</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20515180000008,22.9674379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:10:44pm 安平區永華路二段817號出現 X 型裂痕
+</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/280092935413904/permalink/987363284686862/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>120.16874960000001,22.991717700000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:10:57pm 永康區永大二路46號建物底部出現裂痕</name>
+				<description><![CDATA[來源： https://www.facebook.com/photo.php?fbid=247577265574088&set=p.247577265574088&type=3]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>120.26107380000008,23.0189477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 安南區開安街15號因為地震電線桿有傾斜的狀況</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22465169999998,23.0484107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 龍崎區往內門方向路面多處龜裂,需修復</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.38414619999999,22.9505665,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 關廟區關廟里民生街115巷65號工廠圍牆倒塌在道路上,道路上破碎磁磚需清理,大石塊已搬到水溝旁灌溉溝渠堵塞需清理運走</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3256023,22.9577512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 永康區中正路635巷15號路樹倒下，需協助清運</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23618130000001,23.039735,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 山上區南洲里95-8號半倒塌公有市場有一部分在營業，但無廁所，是否可調度臨時廁所</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.34633600000006,23.09704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 官田區東庄里148號臨近豬舍已傾斜，屋頂堆放木塊可能掉下來</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30025009999999,23.1829728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 關廟區和平路43號電線桿傾斜</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33404940000001,22.9548437,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 南區喜樹公墓裡面樹木倒塌,大棵樹木壓到墳墓需協助移開</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1807523,22.9408273,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 善化區小新里324號省道上有一棟廢棄的大樓樓高10幾樓，因為地震後一樓牆面龜裂很危險，擔心會對附近住戶造成安全的疑慮</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3181028,23.1255607,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 新市區南昌街17巷3號目前住家地層有下陷約10公分地板龜裂約20公分</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29722749999996,23.0758911,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 玉井區民族路225號因地震關係牆面塌陷需協助清運，另一牆面有大裂縫民眾擔心有餘震會有塌陷之虞</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.46850569999991,23.123857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 柳營區柳營路一段720號路燈故障，左右各2盞故障</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3126526,23.2848728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 安平區育平五街68號儷景富邑大樓,地震造成大廳的磁磚脫落,兩台電梯損壞,地下室有漏水,各樓層牆壁龜裂</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.16717590000009,22.9908695,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 歸仁區中山路三段133號(寶雅)斜對面路面上有一大坑洞導致民眾車輛經過有危險</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28444279999997,22.9679182,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:20:00pm 歸仁區中正南路一段218巷25號龍門世家大樓目前已有多面牆面、柱子、地板龜裂受損，目前大樓旁邊有住戶挖地下水抽水民眾擔心會有地層下陷之虞</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29059870000003,22.962977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:20:00pm 山上區南洲里1鄰83號住戶表示，汽車目前因為地震被市場的建築物壓住，事後要申請補助，請協助民眾備案</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3470707,23.1000232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 關廟區深坑里深坑的山西宮廟方對面有一支電線桿傾斜</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.32603019999999,22.9616594,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 安平區建平路228紀念公園紀念埤有用圓球支撐,圓球掉了五顆,擔心會整個掉下來</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1828015,22.9919481,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 北區民德二路36巷內土壤液化</name>
+				<styleUrl>#icon-1125-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20314800000006,23.0051054,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>瓦斯外洩</name>
+			<Placemark>
+				<name>05:45am 永康區中山南路544巷113號飄出汽油味</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.24235730000001,23.0159163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:20am 永康區大灣路942巷449弄工廠冒黑煙</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2530011,23.0096813,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:23am 南區南功街47號瓦斯外洩</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18566260000001,22.9844632,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:26am 安平區慶平路100號瓦斯外洩</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18134110000007,22.9971256,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:27am 東區崇善東路15巷瓦斯外洩</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2324105,22.9679035,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:17am 中西區友愛街367號週遭空氣中聞到瓦斯味道</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19378660000008,22.9925386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21:00pm 永康區自強路222號 路口處積水有冒泡泡擔心是氣體外洩</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.25150770000005,23.028129,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22:00pm 善化區永福路130號住家後面空地有廢棄瓦斯桶裡面還有瓦斯</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2897787,23.1302967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:04:00am 安南區惠安街101號瓦斯漏氣的聲音</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20771400000002,23.026739,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 北區海安路/臨安路口萊爾富附近有瓦斯味傳出</name>
+				<styleUrl>#icon-1169-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19995690000002,23.0039377,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>水管問題</name>
+			<Placemark>
+				<name>04:49am 永康區大灣路764巷水管爆裂</name>
+				<description><![CDATA[來源： https://www.facebook.com/groups/451357468329757/permalink/822399301225570/]]></description>
+				<styleUrl>#icon-1187</styleUrl>
+				<Point>
+					<coordinates>120.26073489999999,23.0021236,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:05am 北區臨安路二段143巷21號水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19738929999995,23.003476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:07am 安南區國安街73巷水管破，水夾帶淤泥一直進入民宅</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18987820000008,23.0218626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:11am 永康區開運橋自來水管爆裂</name>
+				<description><![CDATA[來源： https://www.ptt.cc/bbs/Gossiping/M.1454706716.A.F1C.html]]></description>
+				<styleUrl>#icon-1187</styleUrl>
+				<Point>
+					<coordinates>120.28735840000003,23.0342264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:22am 善化區小新里成功路53巷85號水管破裂正在漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.31617200000005,23.126406,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:22am 安南區北安路四段536號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21486200000004,23.066450900000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:31am 北區臨安路二段143巷17號自來水管破裂，水淹大樓地下室</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19747499999994,23.0034737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:37am 安南區長和路三段75號自來水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21712230000004,23.0633371,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:38am 安南區安和路五段336巷佳麗寶地下室的水管破掉</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21722239999998,23.069691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:45am 安南區府安路四段巷弄房屋有液化現象</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21054389999995,23.0249211,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:51am 北區文成路347號周邊住戶沒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20132690000004,23.0127021,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:50am 安定區, 台南往安定港口 178市道(萊爾富、國八橋下)多個消防栓周邊(分隔島上，藍色粗水管)漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2275515,23.0871934,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:00am 北區公園路468-3號停水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21039480000002,23.0061225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:01am 安南區賢安街29號馬路中央漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20635199999992,23.026279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:09am 中西區武英街5號 6號 7號停水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19261400000006,22.9888931,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:12am 善化區木柵港西路西向過樹谷園區於廟前消防栓故障</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2602744,23.1045232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:30am 東區凱旋路及怡東路口水管爆裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22814150000002,22.9933308,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:30am 山上區南洲里南洲市場前方路面上(臺南市山上區南洲里95之8號)水管破管漏水造成路面隆起</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3485298,23.098681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:40am 南化區湖底水管破裂(臺20旁)
+</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.40232400000002,23.054159,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:04am 北區正覺街102巷40弄8號柏油路裂開、碰管、土地液化</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21413749999999,23.017668200000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:11am 新化區忠孝路管線漏水</name>
+				<description><![CDATA[來源：<br><br>http://www.water.gov.tw/06news/news_a_main.asp?no_s=169233]]></description>
+				<styleUrl>#icon-1187</styleUrl>
+				<Point>
+					<coordinates>120.30590989999996,23.03821379999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:30am 南化區鏡面淨水場因2月6日凌晨大地震影響，部分管線受損漏水，致供水壓力降低</name>
+				<description><![CDATA[來源：<br><br>http://www.water.gov.tw/06news/news_a_main.asp?no_s=169239]]></description>
+				<styleUrl>#icon-1187</styleUrl>
+				<Point>
+					<coordinates>120.48752190000002,23.0582527,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:32am 安南區長和路三段101號水管破掉</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2166622,23.0633718,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:47am 新營區府西路202巷68-72號路面漏水</name>
+				<description><![CDATA[來源：<br><br>http://www.water.gov.tw/06news/news_a_main.asp?no_s=169242]]></description>
+				<styleUrl>#icon-1187</styleUrl>
+				<Point>
+					<coordinates>120.31466909999996,23.3168535,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:49am 永康區民族路273巷1弄8號及9號中間自來水管破漏路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26976639999998,23.0045774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:54am 嘉義市博愛路橋下大口徑管線漏水</name>
+				<description><![CDATA[來源：<br><br>http://www.water.gov.tw/06news/news_a_main.asp?no_s=169315]]></description>
+				<styleUrl>#icon-1187</styleUrl>
+				<Point>
+					<coordinates>120.4492837,23.4896908,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:00am 左鎮區台20線25KM處路邊有一幹管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.39916989999999,23.0566732,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:00am 中西區武聖路69巷85弄9號汙水孔蓋爆裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19128820000003,23.0037418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:00am 學甲區華宗路1號漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1840353,23.2220818,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:06am 新市區永新路78號高鐵橋下漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2879401,23.0591301,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:08am 新市區永新路78號(長泰教養院)附近的高鐵橋下水管破裂正在大量噴水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29094420000001,23.0573532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:30am 安南區公學路六段721巷96弄3號疑似土壤液化</name>
+				<description><![CDATA[前方的田和自家庭院裡,以及後方兩戶,土壤冒出泥漿,疑似土壤液化]]></description>
+				<styleUrl>#icon-1187</styleUrl>
+				<Point>
+					<coordinates>120.14115289999997,23.0767381,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:44am 安南區安中一街67巷46號自來水管線破裂造成路面隆起</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21051609999995,23.0334648,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13:00pm 歸仁區和順路二段跟南丁路口路邊大量冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2778053,22.9918592,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14:13pm 中西區西門路二段297號路面管線漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19954299999995,22.996725,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:25pm 安南區府安路五段76巷54號前方地面裂開冒水泥漿</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20155590000003,23.0250249,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16:00pm 安定區港口里5-7號路面湧水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22761600000001,23.09192599999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17:00pm 安南區長和路三段96號路面湧水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21608659999994,23.063592200000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17:00pm 安定區港口派出所前(178線7公里轉7.5公里)安全島漏水
+</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22870360000003,23.087846,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17:00pm 善化區南部科學園區南科六路大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27832149999993,23.105096800000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17:00pm 新市區永就里往潭頂方向大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30467030000001,23.0654786,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21:00pm 新市區豐華里27之2號一直漏水，水量大</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2549744,23.0972599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21:00pm 新市區信義街26、28號門口路面水管破裂有漏水狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28969860000007,23.0749334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21:00pm 北區勝利路138號路邊大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21898669999997,23.002180300000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22:00pm 北區北園街87巷141弄7號自來水公司管線破裂漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22072879999996,23.0126009,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23:00pm 永康區中正南路和中華路口中油加油站前路面隆起水管破裂漏水積水嚴重</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21822810000002,23.023648,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23:00pm 新市區忠孝街179巷1弄6號住家和路面，有冒水的狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2941561,23.073296300000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23:00pm 安定區178線上港口里偉哲公司往前走約50公尺</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2280664,23.0889699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:01:00am 中西區公園路86號(立人飯店)年久失修目前在騎樓上有大量漏水狀況，民眾擔心地基掏空會有坍塌之虞</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20622800000002,22.9963957,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:03:00am 北區中正南路接近六甲頂處路面冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2134529,23.0194777,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:07:00am 永康區中華路/中正南路口前面加油站前面馬路路面有水管破裂漏水狀況目前積水嚴重</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21877530000002,23.0236776,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:07:00am 安定區市道178線,7K處中央分隔島上的水閥一直噴水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22733690000001,23.086384,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:07:00am 北區延平國中勤學樓樓上水塔,地震過後一直漏水,覺得該校的警務室應該要24小時有人值班</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21051839999996,23.0092447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:08:00am 南區永吉街36號和36號之1靠近水溝的水管破裂漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19361900000001,22.9650581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:08:00am 中西區西門路與府前路口水管破裂漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1977897,22.990674,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:08:00am 北區北成路481巷22號路面水管破裂漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20673750000002,23.0216633,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:08:00am 中西區府前路一段417號路面現在冒水，水量很大</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1983261,22.9905752,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:08:00am 永康區永大一路與永吉街交叉口空地上有自來水管破裂,造成漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.25859530000001,23.0173728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:09:00am 北區勝利路成大醫院前方路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2185178,23.000965000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:09:00am 新市區大社里65號門口前道路水管漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.31652499999994,23.093031,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:09:00am 安平區府前路與中華西路二段路口靠市府的斑馬線上 斑馬線上持續冒出水來</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1867551,22.9926789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:10:00am 安南區惠安街115號水錶邊有漏水</name>
+				<description><![CDATA[建議該民眾看漏水是在表內還表外，水表外請自來水公司處理，水表內(到室內)則找水電修理。]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<Point>
+					<coordinates>120.2073812,23.0275285,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:10:00am 安南區鹽田五街30號跟32號中間路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.14710430000002,23.0336484,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:10:00am 中西區保安路185巷2號水表漏水</name>
+				<description><![CDATA[建議該民眾看漏水是在表內還表外，水表外請自來水公司處理，水表內(到室內)則找水電修理。]]></description>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<Point>
+					<coordinates>120.19212979999999,22.991173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:10:00am 安平區府前路與中華西路交叉口幼兒園這邊的紅綠燈下有路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1865914,22.9926888,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:10:00am 新化區中山路491號對面大樓前方有路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3031065,23.0356386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:11:00am 北區和緯路三段303巷3號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1993807,23.0113047,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:11:00am 山上區明和里211-3號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3411484,23.11447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:11:00am 北區育德二路809巷路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20021969999993,23.0199558,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:12:00pm 北區育德二路196巷23號前方路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20321910000008,23.0089684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:12:00pm 北區和緯路二段187號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2063792,23.012209100000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:12:00pm 新市區民族路139號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29971069999998,23.0822796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:12:00pm 中西區府前路與中華西路路口地面破裂漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1869133,22.992691300000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:13:00pm 安南區長和路二段36號(仁愛之家)斜對面5-10公尺處，電線桿編號:東高幹21右12右2右2左5右3右2 M9904CA76旁有一人孔蓋冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22188810000002,23.063902,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:13:00pm 大內區石城里13-4號地震導致表外水管破裂，大量流水持續流出</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3550529,23.1190288,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:14:00pm 大內區南182鄉道30號地震導致水表箱內轉接水管軸破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.35852449999992,23.1204502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:15:00pm 安南區鎮安八街98號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19907420000006,23.0671716,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:15:00pm 臺南市東區附近因為地震，導致房屋倒塌，而東區整片多個住戶也因此無水可用，希有關單位除了設置水車供民眾領取外，還有其他可解決無水可用的住戶</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22242269999992,22.98133,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:15:00pm 安南區溪頂里府安路四段176巷16號唯獨此里沒有復水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20648,23.0257315,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:15:00pm 永康區中央路23巷4號路面冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21570129999996,23.0225815,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:16:00pm 北區和緯路二段187號紅磚道整排小水柱漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20602940000002,23.0124403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:16:00pm 仁德區仁義里中清路82號供水站水塔無水可取,也沒有自來公司人員在現場</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.25593800000001,22.9703965,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:17:00pm 關廟區五甲里大富街117號前方管線大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3278626,22.9534107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:17:00pm 東區前鋒路100號博愛國小內英語國際村頂樓 水塔一直漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2133679,22.9931036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:17:00pm 安南區安通路四段119巷43號門口水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20703700000001,23.030462,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:19:00pm 北區勝利路138號成大醫院門口路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2188826,23.0009848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:21:00pm 永康區南台街54巷41弄27號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22173840000005,23.0229261,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:21:00pm 新化區中山路498號水柱噴一人高</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30326250000009,23.0358666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:21:00pm 新化區太平街與民生路口路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3086025,23.0398457,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:21:00pm 新市區南科樹谷園區內活力中心水溝一直冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2625275,23.1043455,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:21:00pm 中西區民權路三段400巷20號(美麗家園社區)地震後疑似自來水管受損，水一直漏到大樓地下室內</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1908588,22.9986146,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:22:00pm 安南區惠安街151巷1號,2號,6號大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20718299999999,23.025845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:04:00am 安平區永華路/光州路的加油站前路邊在大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1599437,22.991434500000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:04:00am 北區勝利路,成大醫院新舊大樓中間的馬路上路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2185178,23.0012811,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 東區勝利路上成大醫院前門診處水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21879670000001,23.0013601,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 新市區三民街50巷10弄7號和21號旁邊路面上水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30190230000001,23.0813702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 關廟區東安街225號往南100公尺水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3325653,22.9543231,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 仁德區土庫三街83號該住戶的水錶邊在漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26218180000001,22.9873033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 安南區惠安街151巷3號水泥底下水管漏水，已經漏了三天</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20751,23.0261067,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 安南區惠安街101號門前路面水管破裂，一直漏水，水量大</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20771400000002,23.026739,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 北區西門路四段15號京城銀行前面，路面水管漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2061152,23.0066781,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:08:00am 關廟區明德街15巷22號前方路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33482100000002,22.9603892,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 東區北門路一段288號住家前水表被壓壞目前外面水管一直漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21209799999998,22.9956361,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 六甲區和平街整條住戶停水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.34277870000005,23.2275666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 安南區長和路三段和長和一街口路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.215342,23.0635093,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 北區立賢路二段66巷9號和7號前面路面水管漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19883819999995,23.0100268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 安南區長和路三號110號路面水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21793840000001,23.0635438,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 新化區中山路498號路面水管漏</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30326250000009,23.0358666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 安南區長和路三段133巷19號地震時地下管線破裂漏</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21629919999997,23.06315249999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 安南區文安街221號前方水錶邊在漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2089477,23.0264227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 安平區永華路/光州路加油站前方有漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1598954,22.991306100000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 歸仁區圓環供水站已沒水,但司機並沒有再立即去載水來</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.294081,22.9670569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 北區西門路四段15號前方路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.205913,23.006824,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 南區惠安街145巷59號右邊電線桿下有泥漿流出</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20960500000002,23.026195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 歸仁區中正南路一段218巷48號對面民眾違法抽取地下水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29033419999996,22.9630234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 安南區長和路二段/北安路快車道上漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22169889999998,23.0638506,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 安南區州北里24鄰安和路5段84巷66號大門口圍牆旁(近啟智學校)漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22151010000002,23.065757200000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 中西區府前路一段417號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19828880000001,22.9900802,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 關廟區東安街239號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33375279999996,22.9540164,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 東區府東街260號對面(萊爾富進去)消防栓漏水兩天</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21253819999993,22.9877633,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 東區大同路一段51巷路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21182139999996,22.9878272,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 北區武聖路27巷1弄1號後方水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19278370000008,23.005023,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 新化區中山路498號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30326250000009,23.0358666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 北區和緯路二段/育德路口紅磚道有一孔蓋持續冒大量水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20634590000002,23.012144100000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 安南區北安路與安和路四段交叉口路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2185071,23.054768,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 安平區育平九街372巷82號前方水管破掉冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.16700220000008,22.9947799,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 北區立賢路一段682巷12弄內三處有漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20218039999999,23.0100336,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:16:00pm 中西區西門路一段與健康路交叉口近空地的斑馬線,路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1975858,22.9814341,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 安南區長和路三段185號附近(49五金行、林炳利議員服務處)2處路面漏水"</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2148056,23.0636623,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 安南區長和路三段10幾處路面水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2147837,23.06366809999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 安平區永華路/光州路的加油站轉角處有路面漏水情況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1601744,22.991543200000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 歸仁區中山路三段47號騎樓旁漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2867917,22.9676351,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 東區裕農路43巷39號地下室水管破裂淹水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22583680000004,22.9864757,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 安平區古堡街與安平路路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.16151550000001,23.0002737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 北區立賢路二段66巷7號前漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19883819999995,23.0100268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 新化區民權街62號後面空地及旁邊漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30472820000001,23.0376229,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:00:00am 新化區中山路496號前變電箱旁大量噴水一人高</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30307810000001,23.0357895,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:00:00am 安南區長和路三段96號保安宮前面多處水湧出</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21608659999994,23.063592200000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 北區海安路三段119號路面漏水2天</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19973030000006,23.0042033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:20:00pm 北區武聖路27巷1弄內水管破掉</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19289660000004,23.0048556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 歸仁區保吉路175巷33號道路上一直有漏水狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27916260000006,23.0048936,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 北區立賢路一段682巷12弄1號路面水管破裂漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.202181,23.0096378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 北區海安路三段338巷2弄中庭旁水管漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20030120000001,23.0085281,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 善化區中山路接興農路靠近竹子行慢車道上有路面漏水的狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2857608,23.1332442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 永康區中央路與中華路交叉口快車道路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21584630000001,23.0232926,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 中正南路一段218巷48號空地上連抽三天地下水，擔心有地層下陷的狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29033419999996,22.9630234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 新化區太平街95-7號下水道水管大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3034308,23.038611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 北區成功路570號馬路旁水溝旁，水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.195649,23.001768600000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 安南區長和路好幾處路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2287793,23.0618831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:08:00am 新市區信義街28號和26號路旁水溝邊，目前已漏水二天</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28969860000007,23.0749334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 中西區西門路一段703巷11號路面水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1966589,22.9885721,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 新市區信義街26號可能地震關係，水管破裂，道路稍微隆起</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28969860000007,23.0749334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 歸仁區六甲路220號路面漏水造成凹陷</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27823760000001,22.952428599999994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 歸仁區保吉路411號分隔島滲水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28519000000006,23.00676,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 佳里區民安里15鄰新宅34-1號佳興國中禮堂的水塔破裂一直漏水多天</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19602120000002,23.1828769,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 永康區大灣路288巷37號路面水管破裂漏水量大</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26668330000005,23.0072273,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 中西區西門路一段703巷11號兩棟住家中間水管管線破裂,漏水已經兩天</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19656600000009,22.988501,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 北區公園路311號快車道路面漏水/冒氣泡</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21000149999998,23.0035395,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 永康區大灣路373號門口前水管破裂大量漏水,已成小河</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26592319999997,23.0036892,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 北區中央路跟中華北路未過溪頂寮大橋路口往安和路號誌燈下方,人孔蓋大量冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2150309,23.0231642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 關廟區民安街65號水錶持續漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.32995140000003,22.9566134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 北區立賢路一段682巷12弄路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20218039999999,23.0100336,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 北成路461號長方形孔蓋旁邊有漏水的狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19888089999996,23.0183754,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 安南區過太平橋(十字路口處)往公園路方向,路面隆起破裂，且有冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21338940000001,23.0299772,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 北區北安路一段341巷2之2號目前路面水管破裂漏水水量大</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20492139999999,23.0206684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 北區和緯路四段137號水錶一直漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19060079999997,23.0085014,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 永康區大灣一街與大灣路佛具行旁有一路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2646732,23.0015576,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 北區立賢路二段66巷9號和7號路面水管漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19883819999995,23.0100268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 永康區大灣路602號地面有漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.264324,23.0015781,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 東區中華東路三段65號toyota車廠對面路面大漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2285177,22.9797741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 北區和緯路二段187號人行道漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2063792,23.012209100000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 東區長榮路三段24巷19號空地內的水管破掉，一直積水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22228999999993,22.9926191,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 仁德區新田路246號志友實業對面路面冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26373690000003,22.9546909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 永康區中山北路跟永大路三段路口路面冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2588153,23.0262449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 歸仁區保大路三段與大廟一街口路面大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27716160000001,22.9973307,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:20:00pm 永康區永大路與中山北路路中在冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26061770000001,23.0274298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:20:00pm 新市區富中街與民生路電桿附近路面冒水，水都把田給淹沒起來了</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2883625,23.0799193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:20:00pm 永康區中山北路與永大路口路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26074649999998,23.0276865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:20:00pm 北區文賢三街/文成三路交叉路口水管漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19828859999998,23.0124206,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:20:00pm 新化區崙頂里284號-2工廠的水塔管線有壞掉，上方水塔不斷流水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28602359999998,23.0211301,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:20:00pm 中西區永華路永華橋旁(家樂福往新光三越方向)大水管漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.187726,22.9889159,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:00:00am 永康區永華路702巷47弄1號水溝內的水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26005269999996,23.0233574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:00:00am 中西區忠明街23號漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19649900000003,22.996005100000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 永康區民族路250號水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27000929999998,23.0048661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 北區公園路315號自來水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21000750000007,23.00348739999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 永康區中山北路與永大路口自來水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26074649999998,23.0275285,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 安南區惠安街91號住家水錶前漏水，尚未流入水錶停水,附近住家已有水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20812799999997,23.0267491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 安南區公學路三段231號管線大量清水湧出且附近水壓降低</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18648540000004,23.0687535,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 玉井區中華路221號路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.46475570000007,23.1214843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 安平區郡平路/光州路口路面漏水水量大</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1600349,22.9894592,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 北區文賢三街307巷口路面漏水，在文元國小後門漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19941690000002,23.016048,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 北區成功路570號水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.195649,23.001768600000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 北區北安路/長和路四段長和橋下，大型水管漏水，水量大像噴泉般</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2141833,23.0638794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 永康區中央路23巷9號路面漏水多日</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21550730000001,23.02251519999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 善化區中山路546號水管破掉排水量大</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2861355,23.1332579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 永康區龍埔街20號前自來水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.266391,23.033772,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 永康區龍潭街88號前自來水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26630969999997,23.0314331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 北區民德路85巷58號騎樓前自來水管破裂漏水流入水溝內</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20127679999997,23.00492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:08:00am 新化區知義里新和庄74之1號自來水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.34140400000003,23.015204,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 歸仁區中正北路三段/歸仁區保大路一段大約100公尺處，可看到消防栓漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2934265,22.9969554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 善化區中山路546號自來水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2861355,23.1332579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 北區和緯路四段95巷52號汙水孔蓋汙水溢出</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19120020000004,23.007161000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 善化區三民路與光復路交叉口孔蓋冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.28758999999998,23.1277314,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 歸仁區大埔路一段/大埔路二段聖峰家具前面有路面隆起水管破裂漏水現象</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2801657,23.0060017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 安平區永華八街/永華路二段路口消防栓旁有水管破裂人行道上有漏水狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1723945,22.9928443,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 山上區山上里243號附近路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.36167290000002,23.0967869,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 北區北成路271號順天羽球館靠近育德一街路面上水管破裂有漏水狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20505630000001,23.0199859,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 善化區中山路546號自來水管破裂</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2861355,23.1332579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:12:00pm 善化區公園路397號水溝旁路面隆起</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29214430000002,23.132866600000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 安南區公學路三段和安吉路口往西的方向大水管一直漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18587709999998,23.0687716,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 安南區公學路三段和安吉路口往西的方向大水管一直漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18569289999999,23.0687804,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 永康區中山北路171號漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26075459999994,23.0276581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 永康區大灣郵局正前方(民族路上)路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.26889890000008,23.0062529,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 安平區郡平路/光州路口路中間有水管破裂有漏水狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1601636,22.9896073,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 永康區民族路250號前面馬路旁邊有水管破裂漏水狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27000929999998,23.0048661,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 安南區慶和路二段/館前南路路口路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23112160000005,23.0521616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:16:00pm 東區生產路鐵路平交道的照相機下方台水路面孔蓋一直漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2174664,22.9647552,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:20:00pm 中西區民生路二段347號旁的停車場前面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19000240000003,22.9971966,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D5:20:00pm 北區文成三路/文賢三路口馬路上有水管破裂有漏水狀況</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19569750000001,23.0157978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:04:00am 永康區中央路/中華路路面冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2157444,23.0233074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 北區文賢三街301號前面和305號旁邊漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19807190000007,23.0153833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 北區文賢路546巷39號漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19518019999997,23.0076653,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 北區立賢路二段66巷7號漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19883819999995,23.0100268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 北區和緯路三段303巷3號前漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1993807,23.0113047,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 安南區安中一街21號前水溝內水管破裂漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20561610000004,23.0356453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 東區中華東路三段46號前內側車道目前漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22840710000004,22.9801825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 安南區北安路二段55號前路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2048112,23.0258234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 中西區西賢一街159巷27號和29號前方路面漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.17835309999998,23.002815,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 東區中華東路三段40號前方快車道上有水管破裂,造成漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22734709999997,22.9786851,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 北區臨安路二段13號路邊水管破裂大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19549689999997,23.002378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 北區成功路614巷19號水管漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19553850000001,23.0034236,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 北區成功路570號水管大量漏水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.195649,23.001768600000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 東區東和路/小東路口靠近成大的圍牆邊有民間加水車在消防栓加水,請稽查</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2305603,22.998868,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D6:08:00am 東區中華東路三段上(從東門路到崇信路段中間)人孔蓋大量冒水</name>
+				<styleUrl>#icon-1187-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22349600000001,22.974669900000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>停電問題</name>
+			<Placemark>
+				<name>05:00am 安南區怡安路一段385巷23號周邊多戶民宅停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2068481,23.0414114,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:10am 善化區台一線、善化肉品市場多處停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33245,23.14917699999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>05:54am 歸仁區中山路一段446巷停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.298271,22.9670578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:40am 永康區鹽洲一街11巷3號停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.23406999999999,23.0414611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>06:59am 永康區三民街79巷30弄22號多處住戶停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.24662880000005,23.0519184,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>07:59am 安南區安和路一段91巷35號 與37號停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21340800000007,23.027518,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:26am 安定區南安里51號之19大範圍停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22493199999997,23.10898,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:26am 安南區海中街101巷單號整排停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18267769999999,23.0397975,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:30am 永康區新行街4巷5號整排大範圍停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.24123800000007,23.0383293,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:32am 仁德區保華路159巷40號周邊多戶停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22648079999999,22.959309200000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:32am 佳里區建南街79巷7號巷內共12戶停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.17599840000003,23.1580804,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:42am 關廟區旺萊路356巷30號週邊停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33196509999992,22.9521681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08:52am 善化區成功路3巷77號整排住戶都停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.317137,23.124830000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:00am 南區國民路165巷36弄9號附近停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21118180000008,22.9664538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:00am 南區明興路1356巷4號周邊停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18437970000002,22.922501,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:14am 安南區安中一街111巷2號大範圍停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20509770000001,23.0370927,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:19am 安定區新吉里206號部分復電</name>
+				<description><![CDATA[有人來搶修了,但目前巷口住戶已有電,但民眾住在巷尾,還是沒電]]></description>
+				<styleUrl>#icon-1141</styleUrl>
+				<Point>
+					<coordinates>120.20222390000005,23.0849044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:19am 中西區中正路230號停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19700699999997,22.9932373,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>09:27am 安南區本原街1段413巷30號附近停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.1950819,23.0535364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:00am 善化區東昌里48之8號到48之35號約30幾戶停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33251100000008,23.149416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:00am 東區崇德30街全線停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22881050000002,22.9609119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10:00am 白河區舉人街137號周邊停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.40190099999995,23.351507,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11:24am 南區府安路三段89巷33弄7號周邊住戶停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21839249999995,23.0297534,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11:38am 關廟區民生街187巷6號附近有3戶停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.32606390000001,22.9558043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11:49am 歸仁區和平北街8號~10號多處住戶停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29625599999997,22.9672657,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12:00pm 安南區環福街216巷39弄30號停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22298879999994,23.0745584,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12:00pm 安平區平生路52號附近住戶停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.164485,23.000943,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13:18pm 永康區中山南路597巷9弄19號右斜方電線掉落</name>
+				<styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.25259389999995,23.024686000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13:52pm 安南區安和路一段91巷38號停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21331800000007,23.027604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:00pm 安和路一段91巷38號停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21331800000007,23.027604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:07pm 南區五妃街433號沒電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19588109999995,22.9825781,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:37pm 安南區安和路一段91巷42號沒電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.21321999999999,23.0275511,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15:39pm 中西區五妃街394號週遭住戶都沒電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.19597279999994,22.982837,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16:00pm 南區鯤鯓路1號至11號停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.18656820000001,22.9592789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18:00pm 麻豆區埤頭里停電</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.22675060000006,23.1911574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18:00pm 安定區蘇厝里372-6號路燈都沒亮</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.25041190000003,23.1295791,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18:00pm 善化區147-5蘇厝里路燈都沒亮</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.27033699999993,23.147059,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:10:00am 麻豆區小埤里31-8號整排路燈不亮</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2336025,23.1881801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:16:00pm 關廟區五甲路21巷11弄有電筒位移情況</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.32984020000002,22.9520706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:18:00pm 下營區健康路200巷167弄大範圍路燈不亮</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2680206,23.2351945,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D2:18:00pm 後壁區菁寮國中菁寮國中北邊往菁寮第2個紅綠燈故障</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.33301590000002,23.3713517,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D3:12:00pm 新化區竹林路50號附近停電一小時</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.30556080000001,23.037022,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 善化區興農路12號永興汽車修配廠有一電線掉落機車道上</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2845001,23.1351508,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 大內區石湖里76-2號軍營南營前面整排路燈故障,超過10盞以上</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.35219830000005,23.1391659,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:12:00pm 官田區三塊厝營270號軍營北前整排路燈故障,超過10盞以上</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.35508079999998,23.1948768,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 安南區惠安街.泰安街.郡安路四段249巷.郡安路四段89巷全區整排路燈不亮</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.20900359999996,23.0268638,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D4:16:00pm 後壁區省道一號178公里~179公里路橋處2盞路燈不亮</name>
+				<styleUrl>#icon-1141-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.3517914,23.3389459,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>收容中心</name>
+			<Placemark>
+				<name>西灣里活動中心</name>
+				<description><![CDATA[臺南市永康區永華路201巷12號<br>永康區崑山里停電，緊急收容中心改為西灣里活動中心及永康社教館]]></description>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<Point>
+					<coordinates>120.25838559999998,23.010281900000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>大庄活動中心</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.35491300000001,23.095765999999994,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>永康社教中心</name>
+				<description><![CDATA[只出現在工作會報中]]></description>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<Point>
+					<coordinates>120.25942199999999,23.018829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>佛光山南台別院</name>
+				<description><![CDATA[大智里活動中心撤除，移至南台別院]]></description>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<Point>
+					<coordinates>120.1829013,22.9893532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>崑山里活動中心</name>
+				<description><![CDATA[只出現在工作會報中]]></description>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<Point>
+					<coordinates>120.26003790000006,23.005146700000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[關閉] 仁德區公所</name>
+				<description><![CDATA[移至嘉南療養院]]></description>
+				<styleUrl>#icon-960-7C3592</styleUrl>
+				<Point>
+					<coordinates>120.2518218,22.9723374,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>歸仁區公所
+三樓
+</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.29395039999999,22.967215700000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[關閉]新化區公所 三樓</name>
+				<description><![CDATA[移至大億麗緻酒店]]></description>
+				<styleUrl>#icon-960-7C3592</styleUrl>
+				<Point>
+					<coordinates>120.31089599999996,23.0385411,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>新埔里辦公室關懷據點</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.32898290000003,22.9676993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>溪東里活動中心</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.2056536,23.0247031,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>嘉南療養院</name>
+				<styleUrl>#icon-960-F4EB37-nodesc</styleUrl>
+				<Point>
+					<coordinates>120.24243819999992,22.9769699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>[關閉]大智里活動中心</name>
+				<description><![CDATA[移至南台別苑]]></description>
+				<styleUrl>#icon-960-7C3592</styleUrl>
+				<Point>
+					<coordinates>120.23019399999998,22.961656,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>收容飯店</name>
+			<Placemark>
+				<name>驛家旅店 EasyInn Hotel &amp; Hostel</name>
+				<description><![CDATA[驛家旅店即日起至7日，請洽郭店長，電話（06）703-5333、專線0985-956-587]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.19958599999994,23.000145,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>緩慢文旅台南古根店
+</name>
+				<description><![CDATA[緩慢文旅台南古根店即日起至7日，請洽邱俊誠先生，電話（06）221-2288]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.19762170000003,22.9919869,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>宏盛鑫飯店Hong Cheng Sin Business Hotel</name>
+				<description><![CDATA[宏盛鑫飯店即日起至7日，每日提供2間房<br>電話：06-335-0888<br>地址：台南市東區崇明路239號]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.22059409999999,22.9771925,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>溫莎堡汽車旅館仁德館</name>
+				<description><![CDATA[溫莎堡汽車旅館仁德館即日起至7日，每日提供5間房<br>電話：06-270-5566 <br>地址：臺南市仁德區文華路3段585號]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.24435130000008,22.9755755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台糖長榮酒店(台南)</name>
+				<description><![CDATA[台糖長榮酒店即日起至9日，每日提供5間房，並提供3餐餐食。<br>若有需求請洽台南市災害應變中心 06-298-9119。<br>地址: 台南市東區中華東路三段336巷1號 ]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.22071460000006,22.9745134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>香格里拉台南遠東大飯店Shangri-La's Far Eastern Plaza Hotel, Tainan</name>
+				<description><![CDATA[香格里拉台南遠東飯店自即日起至29日，每日提供5間房<br>電話：06-702-8888<br>地址：台灣台南市東區大學路西段89號]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.21388200000001,22.996634000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>國妃鷹堡汽車旅館仁德館</name>
+				<description><![CDATA[國妃鷹堡仁德館即日起至7日，每日提供8間房，18:00後入住<br>電話： 06-279-3300<br>地址：台南市仁德區仁義路205號<br>客服信箱：kpm@kpm.com.tw         ]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.25781759999995,22.9687299,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>華南大飯店</name>
+				<description><![CDATA[華南大飯店即日起至7日，每日提供10間房<br>電話：06-313-3622<br>地址：台南市永康區中華路152之1號 (麥當勞旁)]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.23550999999998,23.00341,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台南老爺行旅 The Place Tainan</name>
+				<description><![CDATA[台南老爺酒店行旅即日起至8日，每日提供10間房<br>電話： 06-236-6168<br>地址：台南市東區中華東路一段368號]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.23307479999995,22.9900119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>和逸‧台南西門館HOTEL COZZI 
+</name>
+				<description><![CDATA[Hotel Cozzi和逸台南西門館即日起至8日，每日提供20間房（含早餐）<br>電話：06-702-6699 <br>地址：台南西門路一段658-2號]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.19836499999998,22.987345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台南大億麗緻酒店 Tayih Landis Tainan</name>
+				<description><![CDATA[台南大億麗緻酒店即日起至8日，每日提供10間房，即日起提供盥洗、餐盒服務<br>地址：700西門路一段660號<br>電話：06-213-5555 <br>電郵：pr@tayihlandis.com.tw ]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.19799539999998,22.9879096,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>漫半拍 Lento Hostel</name>
+				<description><![CDATA[提供2/6-7免費住宿<br>地址：台南市中西區新美街204號(赤嵌樓旁)]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.20146990000002,22.9980595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>桂田酒店</name>
+				<description><![CDATA[2/6-2/8, 每日10間客房]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.24297569999999,23.0440762,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台南立多文旅</name>
+				<description><![CDATA[2/6-2/7每日30間]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.19860240000004,22.9921516,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>大坑休閒農場</name>
+				<description><![CDATA[2/6-2/8每日66床]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.39050199999997,23.007208,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台邦商旅</name>
+				<description><![CDATA[2/6-2/7每日5間]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.18440800000008,22.988896,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>承億輕旅台南館</name>
+				<description><![CDATA[2/6-2/7 未標間數]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.19530359999999,22.9921496,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>家新大飯店</name>
+				<description><![CDATA[2/6-2/7 未標間數]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.19976120000003,23.0078675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>虎頭埤風景區</name>
+				<description><![CDATA[2/11-2/20每日28床]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.3369401,23.026494,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>劍橋飯店民族館</name>
+				<description><![CDATA[2/6-2/8每日2個房間]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.20381190000002,22.9963259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>來七桃旅店</name>
+				<description><![CDATA[2/6-2/7每日10間]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.20081000000005,22.998151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>一品沅商旅</name>
+				<description><![CDATA[2/7-2/8 每日5間]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.19253260000005,22.9912783,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>樂優派(寵物服務)</name>
+				<description><![CDATA[小型犬或貓咪<br>免費提供住宿和洗澡<br>(由於空間不大加上已有預約住宿的毛寶貝，所以無法提供中大型犬住宿)<br>離災區有段距離，如果需要接送也可以]]></description>
+				<styleUrl>#icon-1193</styleUrl>
+				<Point>
+					<coordinates>120.16826519999996,22.9847544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>貓宅一生(貓旅館)</name>
+				<description><![CDATA[短期免費收容災區房屋倒塌居民的貓咪]]></description>
+				<styleUrl>#icon-1193</styleUrl>
+				<Point>
+					<coordinates>120.19442060000006,22.9777836,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>歐悅.歐遊國際連鎖精品旅館(永康館)</name>
+				<description><![CDATA[2/7-2/10每日5間<br>2/11-2/29每日10間]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.24172799999997,23.041685,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>迦美動物醫院</name>
+				<description><![CDATA[協助安置及治療搜救到的犬貓及受災戶的貓狗<br>受災戶若在找尋貓狗者,亦可去電聯繫]]></description>
+				<styleUrl>#icon-1193</styleUrl>
+				<Point>
+					<coordinates>120.26326410000003,23.0112931,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>背包青年旅宿Dorm1828 City Hut 1828</name>
+				<description><![CDATA[有住宿需求的災民，可以免費提供這三天的床位協助]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.22079200000007,22.994056000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>致穩人文商旅</name>
+				<description><![CDATA[2/7-2/28每日3間，由市府應變中心統一安排]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.24017379999998,23.0412729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台南富信飯店</name>
+				<description><![CDATA[2/8-2/14每日3間房]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.20091009999999,23.0000386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台南富華飯店</name>
+				<description><![CDATA[2/8-2/14每日3間房]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.20278329999996,22.9917857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台南迎嘉花園酒店</name>
+				<description><![CDATA[即日起至2/29提供可運用之客房]]></description>
+				<styleUrl>#icon-1035</styleUrl>
+				<Point>
+					<coordinates>120.31082800000001,23.095315,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1033-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1033-biz-hardware.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1033-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1033-biz-hardware.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1033-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1033-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1033-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1035-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1035-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1035-biz-hotel.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1035'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1035-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1035-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1125-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1125-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1125'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1125-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1125-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1125-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1125-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1125-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1125-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1125-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1141-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1141-crisis-electrical.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1141-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1141-crisis-electrical.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1141'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1141-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1141-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1141-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1141-crisis-electrical.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1141-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1141-crisis-electrical.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1141-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1141-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1141-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1169-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1169-crisis-poison-gas.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1169-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1169-crisis-poison-gas.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1169-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1169-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1169-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1187-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1187-crisis-water-quality.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1187-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1187-crisis-water-quality.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1187'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1187-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1187-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1187-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1187-crisis-water-quality.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1187-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1187-crisis-water-quality.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1187-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1187-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1187-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1193-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1193-fac-animal-shelter.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1193-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1193-fac-animal-shelter.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1193'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1193-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1193-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-F8971B-normal'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-F8971B-highlight'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-F8971B'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-F8971B-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-F8971B-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-F8971B-nodesc-normal'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-F8971B-nodesc-highlight'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-F8971B-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-F8971B-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-F8971B-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-7C3592-normal'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-7C3592-highlight'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-7C3592'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-7C3592-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-7C3592-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-F4EB37-normal'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-F4EB37-highlight'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-F4EB37'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-F4EB37-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-F4EB37-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-F4EB37-nodesc-normal'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-960-F4EB37-nodesc-highlight'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-960-F4EB37-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-F4EB37-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-F4EB37-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFFFFF-0-0-nodesc-normal'>
+			<LineStyle>
+				<color>ffFFFFFF</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color> 0FFFFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FFFFFF-0-0-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFFFFFF</color>
+				<width>0.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color> 0FFFFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FFFFFF-0-0-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFFFFF-0-0-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFFFFF-0-0-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
