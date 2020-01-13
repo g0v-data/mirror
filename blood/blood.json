@@ -1,9 +1,9 @@
 {
-  "time": "2020-01-12T21:59:59+08:00",
+  "time": "2020-01-13T22:00:31+08:00",
   "台北捐血中心": {
     "name": "台北捐血中心",
     "StorageA": "medium",
-    "StorageB": "medium",
+    "StorageB": "full",
     "StorageO": "medium",
     "StorageAB": "medium"
   },
@@ -23,9 +23,9 @@
   },
   "台南捐血中心": {
     "name": "台南捐血中心",
-    "StorageA": "medium",
+    "StorageA": "full",
     "StorageB": "full",
-    "StorageO": "medium",
+    "StorageO": "full",
     "StorageAB": "full"
   },
   "高雄捐血中心": {
