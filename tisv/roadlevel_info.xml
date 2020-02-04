@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<XML_Head version="1.1" listname="路段靜態資訊" updatetime="2020/02/04 00:01:00" interval="86400">
+<XML_Head version="1.1" listname="路段靜態資訊" updatetime="2020/02/05 00:01:00" interval="86400">
 	<Infos>
 		<Info routeid="nfb0001" sourceid="nfb" locationpath="166" startlocationpoint="167"  endlocationpoint="168" roadsection="國道1號(基隆端到基隆交流道)" roadtype="1" fromkm="0K+000" tokm="1K+100" speedlimit="100"></Info>
 		<Info routeid="nfb0003" sourceid="nfb" locationpath="166" startlocationpoint="168"  endlocationpoint="169" roadsection="國道1號(基隆交流道到八堵交流道)" roadtype="1" fromkm="1K+100" tokm="2K+600" speedlimit="100"></Info>
